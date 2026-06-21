@@ -1,3 +1,5 @@
+[English](en/README.md)
+
 # LLM Labor — AI 幕后的人
 
 记录大模型时代的劳动真相。
