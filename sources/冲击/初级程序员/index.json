@@ -1,0 +1,9 @@
+{
+  "topic": "初级程序员",
+  "sources": [
+    { "title": "GitHub Copilot Productivity Report", "url": "https://github.blog/", "date": "2022-09-07", "credibility": "high" },
+    { "title": "Stack Overflow 2024 Developer Survey", "url": "https://survey.stackoverflow.co/", "date": "2024-06-01", "credibility": "high" },
+    { "title": "Introducing Claude Code (Anthropic)", "url": "https://www.anthropic.com/", "date": "2025-02-24", "credibility": "high" },
+    { "title": "Vibe Coding (Andrej Karpathy, X)", "url": "https://x.com/karpathy", "date": "2025-02-02", "credibility": "medium" }
+  ]
+}

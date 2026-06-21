@@ -1,0 +1,10 @@
+{
+  "topic": "阿联酋AI监控",
+  "sources": [
+    { "title": "The Rise of AI Surveillance in the UAE (ADHRB)", "url": "https://www.adhrb.org/2025/04/the-rise-of-ai-surveillance-in-the-uae-implications-for-human-rights/", "date": "2025-04-17", "credibility": "high" },
+    { "title": "Pegasus Spyware Victims Ask UK Police to Charge NSO Group (The Intercept)", "url": "https://theintercept.com/2024/09/19/pegasus-spyware-victims-uk-police-nso-group/", "date": "2024-09-19", "credibility": "high" },
+    { "title": "Ahmed Mansoor Sentenced to 10 Years (Amnesty International)", "url": "https://www.amnesty.org/en/latest/news/2021/05/uae-ahmed-mansoor-sentenced-to-10-years-in-prison/", "date": "2021-05-31", "credibility": "high" },
+    { "title": "Princess Latifa: The Hostage Princess (BBC)", "url": "https://www.bbc.co.uk/news/world-middle-east-56078931", "date": "2021-02-16", "credibility": "high" },
+    { "title": "UAE Strategy for Artificial Intelligence 2031", "url": "https://u.ae/en/about-the-uae/strategies-initiatives-and-awards/strategies-plans-and-visions/artificial-intelligence", "date": "2017-10-01", "credibility": "high" }
+  ]
+}

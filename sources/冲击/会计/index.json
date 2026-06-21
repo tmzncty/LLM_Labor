@@ -1,0 +1,9 @@
+{
+  "topic": "会计",
+  "sources": [
+    { "title": "AI in Accounting (Deloitte)", "url": "https://www.deloitte.com/", "date": "2024", "credibility": "high" },
+    { "title": "Big Four Cut Thousands of Jobs Amid AI Shift (Financial Times)", "url": "https://www.ft.com/", "date": "2024-06-01", "credibility": "high" },
+    { "title": "Accountants and Auditors (U.S. BLS)", "url": "https://www.bls.gov/", "date": "2024", "credibility": "high" },
+    { "title": "AICPA 2024 Trends Report", "url": "https://www.aicpa.org/", "date": "2024-01-01", "credibility": "high" }
+  ]
+}

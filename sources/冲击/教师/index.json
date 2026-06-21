@@ -1,0 +1,8 @@
+{
+  "topic": "教师",
+  "sources": [
+    { "title": "Global Education Monitoring Report (UNESCO)", "url": "https://www.unesco.org/", "date": "2024", "credibility": "high" },
+    { "title": "AI in Education (McKinsey)", "url": "https://www.mckinsey.com/", "date": "2024", "credibility": "high" },
+    { "title": "Khanmigo (Khan Academy)", "url": "https://www.khanacademy.org/", "date": "2024", "credibility": "high" }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "topic": "客服",
+  "sources": [
+    { "title": "Klarna AI Assistant Handles Two-Thirds of Customer Service Chats", "url": "https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/", "date": "2024-02-27", "credibility": "high" },
+    { "title": "BT to Cut Up to 55,000 Jobs (Financial Times)", "url": "https://www.ft.com/", "date": "2023-05-18", "credibility": "high" },
+    { "title": "The Potentially Large Effects of AI on Economic Growth (Goldman Sachs)", "url": "https://www.goldmansachs.com/", "date": "2023-03-26", "credibility": "high" },
+    { "title": "Future of Jobs Report 2023 (WEF)", "url": "https://www.weforum.org/", "date": "2023-05-01", "credibility": "high" }
+  ]
+}

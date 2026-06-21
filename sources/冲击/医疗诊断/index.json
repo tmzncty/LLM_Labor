@@ -1,0 +1,9 @@
+{
+  "topic": "医疗诊断",
+  "sources": [
+    { "title": "AI in Healthcare (McKinsey)", "url": "https://www.mckinsey.com/", "date": "2024", "credibility": "high" },
+    { "title": "AlphaFold (DeepMind)", "url": "https://www.deepmind.com/", "date": "2024", "credibility": "high" },
+    { "title": "FDA AI/ML-Enabled Medical Devices", "url": "https://www.fda.gov/", "date": "2024", "credibility": "high" },
+    { "title": "Ethics and Governance of AI for Health (WHO)", "url": "https://www.who.int/", "date": "2021", "credibility": "high" }
+  ]
+}

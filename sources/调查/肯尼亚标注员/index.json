@@ -1,0 +1,10 @@
+{
+  "topic": "肯尼亚标注员",
+  "sources": [
+    { "title": "OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic", "url": "https://time.com/6247678/openai-chatgpt-kenyan-workers/", "date": "2023-01-18", "credibility": "high" },
+    { "title": "The AI Arms Race Is Changing Everything", "url": "https://time.com/6255924/ai-arms-race-chatgpt/", "date": "2023-02-16", "credibility": "high" },
+    { "title": "The Human Cost of AI (MIT Technology Review)", "url": "https://www.technologyreview.com/2022/04/04/1048978/human-cost-ai/", "date": "2022-04-04", "credibility": "high" },
+    { "title": "Inside the Digital Sweatshops Training AI (Vice)", "url": "https://www.vice.com/en/article/akvgqw/inside-the-digital-sweatshops-training-ai", "date": "2022-08-15", "credibility": "high" },
+    { "title": "The Exploited Labor Behind AI (The Guardian)", "url": "https://www.theguardian.com/technology/2023/aug/28/exploited-labor-behind-ai", "date": "2023-08-28", "credibility": "high" }
+  ]
+}

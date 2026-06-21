@@ -1,0 +1,9 @@
+{
+  "topic": "翻译行业",
+  "sources": [
+    { "title": "Slator 2023 Language Industry Market Report", "url": "https://slator.com/2023-language-industry-market-report/", "date": "2023-03-15", "credibility": "high" },
+    { "title": "ProZ.com 2023 Freelance Translator Survey", "url": "https://www.proz.com/", "date": "2023-06-01", "credibility": "high" },
+    { "title": "Human-Level Performance on Professional Translations (Microsoft)", "url": "https://arxiv.org/abs/2303.16495", "date": "2023-03-20", "credibility": "high" },
+    { "title": "Interpreters and Translators (U.S. BLS)", "url": "https://www.bls.gov/ooh/media-and-communication/interpreters-and-translators.htm", "date": "2023-09-01", "credibility": "high" }
+  ]
+}

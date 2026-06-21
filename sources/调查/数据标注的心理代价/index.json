@@ -1,0 +1,9 @@
+{
+  "topic": "数据标注的心理代价",
+  "sources": [
+    { "title": "OpenAI Used Kenyan Workers (Time)", "url": "https://time.com/6247678/openai-chatgpt-kenyan-workers/", "date": "2023-01-18", "credibility": "high" },
+    { "title": "The Psychological Impact of Content Moderation (APA)", "url": "https://www.apa.org/", "date": "2023", "credibility": "high" },
+    { "title": "The Trauma of Content Moderation (The Verge)", "url": "https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona", "date": "2019-02-25", "credibility": "high" },
+    { "title": "Ghost Work (Gray & Suri)", "url": "https://www.hmhbooks.com/shop/books/Ghost-Work", "date": "2019", "credibility": "high" }
+  ]
+}

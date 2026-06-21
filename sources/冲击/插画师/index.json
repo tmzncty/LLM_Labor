@@ -1,0 +1,9 @@
+{
+  "topic": "插画师",
+  "sources": [
+    { "title": "Artists Are Revolting Against AI Art on ArtStation (The Verge)", "url": "https://www.theverge.com/", "date": "2022-12-15", "credibility": "high" },
+    { "title": "Getty Images Sues Stability AI (The Verge)", "url": "https://www.theverge.com/", "date": "2023-01-17", "credibility": "high" },
+    { "title": "Artists Sue AI Image Generators (The Verge)", "url": "https://www.theverge.com/", "date": "2023-01-16", "credibility": "high" },
+    { "title": "Copyright Registration Guidance for AI-Generated Works (U.S. Copyright Office)", "url": "https://www.copyright.gov/", "date": "2023-08-21", "credibility": "high" }
+  ]
+}

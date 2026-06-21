@@ -1,0 +1,9 @@
+{
+  "topic": "音乐家",
+  "sources": [
+    { "title": "IFPI Global Music Report 2024", "url": "https://www.ifpi.org/", "date": "2024-03-01", "credibility": "high" },
+    { "title": "AI-Generated Song Mimicking Drake Goes Viral (BBC)", "url": "https://www.bbc.com/", "date": "2023-04-17", "credibility": "high" },
+    { "title": "Universal Music Asks Streaming Platforms to Block AI Training (Financial Times)", "url": "https://www.ft.com/", "date": "2023-04-01", "credibility": "high" },
+    { "title": "Music Publishers Sue AI Music Generators (Reuters)", "url": "https://www.reuters.com/", "date": "2024-06-01", "credibility": "high" }
+  ]
+}

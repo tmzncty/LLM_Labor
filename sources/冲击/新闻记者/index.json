@@ -1,0 +1,9 @@
+{
+  "topic": "新闻记者",
+  "sources": [
+    { "title": "BuzzFeed to Use AI to Create Content After Layoffs (NYT)", "url": "https://www.nytimes.com/", "date": "2023-01-26", "credibility": "high" },
+    { "title": "CNET Is Publishing AI-Written Articles Under a Fake Byline (The Verge)", "url": "https://www.theverge.com/", "date": "2023-01-12", "credibility": "high" },
+    { "title": "Sports Illustrated Published Fake AI-Generated Writers (Futurism)", "url": "https://futurism.com/", "date": "2023-11-27", "credibility": "high" },
+    { "title": "Reuters Institute Journalism Trends 2024", "url": "https://reutersinstitute.politics.ox.ac.uk/", "date": "2024-01-01", "credibility": "high" }
+  ]
+}

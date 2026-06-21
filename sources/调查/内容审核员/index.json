@@ -1,0 +1,9 @@
+{
+  "topic": "内容审核员",
+  "sources": [
+    { "title": "The Trauma Floor: The Secret Lives of Facebook Moderators (The Verge)", "url": "https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona", "date": "2019-02-25", "credibility": "high" },
+    { "title": "Facebook to Pay $52M to Settle Content Moderators Lawsuit (NYT)", "url": "https://www.nytimes.com/2020/05/12/technology/facebook-content-moderators-settlement.html", "date": "2020-05-12", "credibility": "high" },
+    { "title": "The Psychological Impact of Content Moderation (APA)", "url": "https://www.apa.org/", "date": "2023", "credibility": "high" },
+    { "title": "The Exploited Labor Behind AI (The Guardian)", "url": "https://www.theguardian.com/technology/2023/aug/28/exploited-labor-behind-ai", "date": "2023-08-28", "credibility": "high" }
+  ]
+}

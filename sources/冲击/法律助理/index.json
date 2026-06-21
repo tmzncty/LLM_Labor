@@ -1,0 +1,9 @@
+{
+  "topic": "法律助理",
+  "sources": [
+    { "title": "Thomson Reuters 2024 Legal Tech Report", "url": "https://www.thomsonreuters.com/", "date": "2024-03-01", "credibility": "high" },
+    { "title": "Harvey AI Raises $21M from Sequoia (TechCrunch)", "url": "https://techcrunch.com/", "date": "2023-04-12", "credibility": "high" },
+    { "title": "Thomson Reuters Acquires Casetext for $650M (Reuters)", "url": "https://www.reuters.com/", "date": "2023-08-17", "credibility": "high" },
+    { "title": "AI and the Legal Profession (ABA)", "url": "https://www.americanbar.org/", "date": "2024-01-01", "credibility": "high" }
+  ]
+}
