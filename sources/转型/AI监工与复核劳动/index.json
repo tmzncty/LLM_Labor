@@ -1,0 +1,8 @@
+{
+  "topic":"AI监工与复核劳动",
+  "last_checked":"2026-08-28",
+  "sources":[
+    {"id":"S1","publisher":"Reuters","title":"Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here's how it imploded","date":"2026-08-26","url":"https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/","tier":"B","type":"investigative-reporting","status":"live","supports":["meta-org-experiment","agent-reliability","employee-backlash"]},
+    {"id":"S2","publisher":"The Guardian","title":"Keen bosses, strange mistakes and a looming threat: workers on training AI to do their jobs","date":"2026-02-26","url":"https://www.theguardian.com/technology/2026/feb/26/workers-training-ai-to-do-their-jobs","tier":"B","type":"reporting","status":"live","supports":["human-review-case"]}
+  ]
+}

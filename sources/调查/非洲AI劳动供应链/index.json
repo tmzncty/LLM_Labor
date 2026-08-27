@@ -1,0 +1,8 @@
+{
+  "topic": "非洲AI劳动供应链",
+  "last_checked": "2026-08-28",
+  "sources": [
+    {"id":"S1","publisher":"Rest of World","title":"How Big Tech hides its outsourced African workforce","date":"2025-04-21","url":"https://restofworld.org/2025/big-tech-ai-labor-supply-chain-african-workers/","tier":"B","type":"investigative-reporting","status":"live","supports":["39-country-map","outsourcing-chain","work-types","opacity"]},
+    {"id":"S2","publisher":"TIME","title":"150 African Workers for ChatGPT, TikTok and Facebook Vote to Unionize at Landmark Nairobi Meeting","date":"2023-05-01","url":"https://time.com/6275995/chatgpt-facebook-african-workers-union/","tier":"B","type":"reporting","status":"live","supports":["cross-company-unionization"]}
+  ]
+}

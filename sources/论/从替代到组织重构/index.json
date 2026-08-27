@@ -1,0 +1,9 @@
+{
+  "topic":"从替代到组织重构",
+  "last_checked":"2026-08-28",
+  "sources":[
+    {"id":"S1","publisher":"Stanford Digital Economy Lab","title":"No Widespread Displacement, but the AI Employment Gap for Young Workers Has Widened to 19%","date":"2026-08-12","url":"https://digitaleconomy.stanford.edu/news/canariesaug26/","tier":"A","type":"research-summary","status":"live","supports":["aggregate-counterevidence","entry-level-divergence"]},
+    {"id":"S2","publisher":"Reuters","title":"AI reshapes India's IT services sector contracts as clients demand more for less","date":"2026-08-20","url":"https://www.reuters.com/world/india/ai-reshapes-indias-it-services-sector-contracts-clients-demand-more-less-2026-08-20/","tier":"B","type":"reporting","status":"live","supports":["contract-pricing-redesign"]},
+    {"id":"S3","publisher":"Reuters","title":"Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here's how it imploded","date":"2026-08-26","url":"https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/","tier":"B","type":"investigative-reporting","status":"live","supports":["organizational-redesign-case"]}
+  ]
+}

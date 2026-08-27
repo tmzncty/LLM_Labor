@@ -1,0 +1,11 @@
+{
+  "topic": "专家训练AI",
+  "last_checked": "2026-08-28",
+  "sources": [
+    {"id":"S1","publisher":"Bloomberg","title":"The White-Collar Workers Training AI to Do Their Jobs","date":"2026-04-29","url":"https://www.bloomberg.com/news/articles/2026-04-29/mercor-the-10-billion-ai-startup-recruiting-white-collar-workers-to-train-ai","tier":"B","type":"reporting","status":"live","supports":["mercor-market","white-collar-training"]},
+    {"id":"S2","publisher":"Bloomberg","title":"College Grads Are Pursuing a New Career Path: Training AI Models","date":"2025-07-24","url":"https://www.bloomberg.com/news/articles/2025-07-24/college-grads-are-finding-jobs-training-ai-models","tier":"B","type":"reporting","status":"live","supports":["graduate-trainer-example"]},
+    {"id":"S3","publisher":"Outlier AI","title":"FAQ","date":null,"url":"https://outlier.ai/faq","tier":"A","type":"platform-primary","status":"live","supports":["task-types"]},
+    {"id":"S4","publisher":"TechCrunch","title":"Mercor competitor Deccan AI raises $25M, sources experts from India","date":"2026-03-25","url":"https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/","tier":"B","type":"reporting","status":"live","supports":["india-expert-market","company-claimed-rates"]},
+    {"id":"S5","publisher":"The Guardian","title":"'Digging the grave of my profession': the Hollywood creatives training AI to do their jobs","date":"2026-08-22","url":"https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs","tier":"B","type":"reporting","status":"live","supports":["creative-trainers","reported-rates"]}
+  ]
+}

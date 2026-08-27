@@ -2,130 +2,127 @@
 
 # LLM Labor — The People Behind AI
 
-Documenting the truth about labor in the age of large language models.
+> **AI is not laborless.** This repository documents the people who train models, moderate content, review agents, enter changing occupations, and negotiate the conditions under which AI is used.
 
-ChatGPT's "safety" was bought with the mental health of Kenyan annotators. Stable Diffusion's "creativity" slashed illustrators' income by 80%. Klarna replaced 700 customer service agents with AI — and nobody recorded where they went.
+LLM Labor is maintained as an **AI labor archive**, not a collection of predictions about whether AI will “take jobs.” Its goal is to preserve traceable records of tasks, contracts, pay, outsourcing chains, occupational change, organization design, and collective bargaining.
 
-This project does one simple thing: **document the invisible people behind AI — their labor, their losses, their resistance.**
+**Current version: 2026-08-28 v2**  
+**55 formal articles: 14 investigations / 17 impact / 10 transitions / 8 essays / 6 data tables.**  
+**11 are reviewed under v2; 44 historical articles remain in the audit queue.** Article count is not a quality score. See [`../docs/AUDIT_LEDGER.md`](../docs/AUDIT_LEDGER.md).
 
-## Structure
+> **Scope rule: from 2026-08-28 onward, do not add China-mainland-centered topics.** See [`../SCOPE.md`](../SCOPE.md).
 
-**Investigations** document facts — the working conditions and survival of annotators, content moderators, and data labelers.
-**Impact** document losses — industries and professions disrupted by AI, from translation to illustration to customer service to entry-level programming.
-**Transitions** document responses — who adapted, who left, who is resisting, who is being forgotten.
-**Essays** carry analysis — labor justice, AI ethics, the relationship between technology and people.
-**Data** provide quick reference — lists of impacted professions, the annotation supply chain map, layoff timelines, policy comparisons.
+## Start here
 
-## Table of Contents
+- [`../SCOPE.md`](../SCOPE.md) — scope and exclusions
+- [`00-style-guide.md`](00-style-guide.md) — v2 style guide
+- [`../docs/CLAIM_STANDARD.md`](../docs/CLAIM_STANDARD.md) — claim and causality levels
+- [`../docs/SOURCE_WORKFLOW.md`](../docs/SOURCE_WORKFLOW.md) — source workflow
+- [`../AUDIT_PLAN.md`](../AUDIT_PLAN.md) — audit plan
+- [`../IMPLEMENTATION_PLAN.md`](../IMPLEMENTATION_PLAN.md) — continuing roadmap
+- [`../AGENTS.md`](../AGENTS.md) — hard rules for agents
 
-### Investigations (8 articles)
+## Investigations (14)
 
-| Article | Key Focus |
-|---------|-----------|
-| [Kenyan Labelers](investigations/kenya-labelers.md) | ChatGPT's "safety" was purchased with annotators' mental health |
-| [ScaleAI Outsourcing System](investigations/scaleai-outsourcing.md) | The largest data annotation outsourcer in the AI industry, valued at $14 billion |
-| [Content Moderators](investigations/content-moderators.md) | Facebook/TikTok moderators watch 8 hours of hell on earth every day |
-| [MTurk and Crowdwork](investigations/mturk-crowdwork.md) | The origin of global crowd-sourced labor and the prototype of the AI annotation industry |
-| [UAE AI Surveillance](investigations/uae-ai-surveillance.md) | 300,000 cameras + facial recognition = digital Leviathan |
-| [The Psychological Cost of Data Labeling](investigations/data-labeling-psychological-cost.md) | Annotators' PTSD rates exceed those of military veterans |
-| [LLM Carbon Emissions](investigations/llm-carbon-emissions.md) | Llama-3-70B emits 1/53 the carbon per page as a human — but whose carbon is being saved? |
-| [AI and Labor Fear](investigations/ai-labor-fear.md) | Silicon Valley CEOs predict a "permanent underclass" — those who create fear are those who create AI |
+- [Kenyan Labelers](调查/kenya-labelers.md) — **v2 reviewed**
+- [Scale AI Outsourcing](调查/scale-ai-outsourcing.md)
+- [Content Moderators](调查/content-moderators.md)
+- [MTurk and Crowdwork](调查/mturk-crowdwork.md)
+- [UAE AI Surveillance](调查/uae-ai-surveillance.md)
+- [Psychological Cost of Labeling](调查/psychological-cost-labeling.md) — high-risk audit queue
+- [LLM Carbon Emissions](调查/llm-carbon-emissions.md)
+- [AI and Labor Fear](调查/ai-labor-fear.md)
+- [Anime vs AI in Japan](调查/anime-vs-ai-japan.md)
+- [Venezuelan Labelers](调查/venezuela-labelers.md)
+- [Expert AI Trainers](调查/expert-ai-trainers.md) — **v2 / new**
+- [Africa's AI Labor Supply Chain](调查/african-ai-labor-supply-chain.md) — **v2 / new**
+- [Sports Data Annotators](调查/sports-data-annotators.md) — **v2 / new**
+- [Outlier Taskers](调查/outlier-taskers.md) — **v2 / new**
 
-### Impact (10 articles)
+## Impact (17)
 
-| Article | Key Focus |
-|---------|-----------|
-| [Translation Industry](impact/translation.md) | A profession with two thousand years of history is dying |
-| [Illustrators](impact/illustrators.md) | AI has cut freelance illustrators' commissions by 60% |
-| [Customer Service](impact/customer-service.md) | Klarna replaced 700 customer service agents with AI |
-| [Junior Programmers](impact/junior-programmers.md) | Copilot can generate 60–70% of boilerplate code |
-| [Journalists](impact/journalists.md) | BuzzFeed used AI to write articles and laid off 12% of staff |
-| [Accountants](impact/accountants.md) | Big Four accounting firms are deploying AI at scale |
-| [Legal Assistants](impact/legal-assistants.md) | Harvey AI is transforming the legal industry |
-| [Musicians](impact/musicians.md) | Suno can generate a complete song in seconds |
-| [Medical Diagnostics](impact/medical-diagnostics.md) | AI has surpassed human doctors in radiology diagnostics |
-| [3D Artists](impact/3d-artists.md) | Concept designers' commissions have dropped by 60% |
-| [Teachers](impact/teachers.md) | Khanmigo can provide one-on-one math tutoring |
+- [Translation Industry](冲击/translation-industry.md)
+- [Illustrators](冲击/illustrators.md) — high-risk audit queue
+- [Customer Service](冲击/customer-service.md) — high-risk audit queue
+- [Junior Programmers](冲击/junior-programmers.md) — high-risk audit queue
+- [Journalists](冲击/journalists.md)
+- [Accounting](冲击/accounting.md)
+- [Legal Assistants](冲击/legal-assistants.md)
+- [Musicians](冲击/musicians.md)
+- [Medical Diagnostics](冲击/medical-diagnostics.md) — high-risk audit queue
+- [3D Artists](冲击/3d-artists.md) — high-risk audit queue
+- [Teachers](冲击/teachers.md)
+- [Financial Analysts](冲击/financial-analysts.md)
+- [Architects](冲击/architects.md)
+- [Counselors](冲击/counselors.md)
+- [Human Resources](冲击/human-resources.md)
+- [Entry-Level Jobs](冲击/entry-level-jobs.md) — **v2 / new**
+- [India's IT Services Industry](冲击/india-it-services.md) — **v2 / new**
 
-### Transitions (5 articles)
+## Transitions (10)
 
-| Article | Key Focus |
-|---------|-----------|
-| [Who Is Resisting](transition/who-is-resisting.md) | Legal battles, community boycotts, union action, technical resistance |
-| [Who Has Left](transition/who-has-left.md) | Where did the displaced workers go |
-| [Who Has Adapted](transition/who-has-adapted.md) | Cases and methods of successful transitions |
-| [Who Is Training AI](transition/who-is-training-ai.md) | AI's "teachers" earn $1.32/hour |
-| [Who Is Regulating](transition/who-is-regulating.md) | Regulatory progress and struggles around the world |
-| [Who Is Being Forgotten](transition/who-is-being-forgotten.md) | The silent majority — stories that have never been recorded |
+- [Who Is Fighting Back](转型/who-is-fighting-back.md)
+- [Who Left](转型/who-left.md)
+- [Who Adapted](转型/who-adapted.md)
+- [Who Trains AI](转型/who-trains-ai.md)
+- [Who Regulates](转型/who-regulates.md)
+- [Who Is Forgotten](转型/who-is-forgotten.md)
+- [Who Embraces AI](转型/who-embraces-ai.md)
+- [Labelers' Awakening](转型/labelers-awakening.md)
+- [AI Supervision and Review Work](转型/ai-supervision-and-review.md) — **v2 / new**
+- [AI in Collective Bargaining](转型/ai-in-collective-bargaining.md) — **v2 / new**
 
-### Essays (7 articles)
+## Essays (8)
 
-| Article | Key Focus |
-|---------|-----------|
-| [Labor Justice](essays/labor-justice.md) | AI's "intelligence" is built on human suffering |
-| [Global South](essays/global-south.md) | Colonial structures in the AI supply chain |
-| [Surveillance Capitalism](essays/surveillance-capitalism.md) | From data to power |
-| [Data Colonialism](essays/data-colonialism.md) | New forms of extraction in the AI era |
-| [Critique of Technological Determinism](essays/critique-technological-determinism.md) | AI is not a natural disaster — it is a man-made one |
-| [Digital Labor](essays/digital-labor.md) | Every second you spend scrolling is unpaid labor for the platform |
-| [The Hypocrisy of AI Ethics](essays/ai-ethics-hypocrisy.md) | AI ethics frameworks are deliberately designed to be "incomplete" — the excluded parts happen to be the most expensive |
+- [Labor Justice](论/labor-justice.md)
+- [Global South](论/global-south.md)
+- [Surveillance Capitalism](论/surveillance-capitalism.md)
+- [Data Colonialism](论/data-colonialism.md)
+- [Critique of Technological Determinism](论/tech-determinism-critique.md)
+- [Digital Labor](论/digital-labor.md)
+- [The Hypocrisy of AI Ethics](论/ai-ethics-hypocrisy.md)
+- [From Substitution to Organizational Redesign](论/from-substitution-to-organizational-redesign.md) — **v2 / new**
 
-### Data (5 tables)
+## Data (6)
 
-| Article | Key Focus |
-|---------|-----------|
-| [Impacted Professions List](data/impacted-professions.md) | Detailed assessment of 10 impacted professions |
-| [Global Annotation Supply Chain Map](data/global-annotation-supply-chain.md) | The complete chain from AI companies to annotators |
-| [AI Layoff Timeline](data/ai-layoff-timeline.md) | AI-related layoffs from 2023 to 2026 |
-| [Cross-Country AI Labor Policy Comparison](data/ai-labor-policy-comparison.md) | EU leads, US watches, Global South unprotected |
-| [LLM Environmental Impact Data](data/llm-environmental-impact.md) | Energy/carbon/water usage comparison, cross-model benchmarking, data center water consumption, 2020–2030 trends |
+- [Impacted Professions List](表/impacted-professions-list.md)
+- [Global Annotation Supply Chain](表/global-labeling-supply-chain.md)
+- [AI Layoff Timeline](表/ai-layoff-timeline.md) — high-risk audit queue
+- [AI Labor Protection Comparison](表/ai-labor-protection-comparison.md)
+- [LLM Environmental Impact](表/llm-environmental-impact.md)
+- [AI Labor Timeline 2025–2026](表/ai-labor-timeline-2025-2026.md) — **v2 / new**
 
-### Review (8 articles)
+## What changed in v2
 
-> Raw research materials collected by Rosmontis, for reference by Investigations and Essays.
+The archive now follows several distinct layers of AI labor:
 
-| Article | Key Focus |
-|---------|-----------|
-| [Kenya Labelers — Research](review/research-kenya-labelers.md) | Psychological trauma and pay data of ChatGPT annotators |
-| [UAE Surveillance — Research](review/research-uae-surveillance.md) | Facial recognition, surveillance infrastructure, and human rights records |
-| [AI Labor Fear — Research](review/research-ai-labor-fear.md) | Silicon Valley's "permanent underclass" narrative and public panic data |
-| [LLM Carbon Emissions — Research](review/research-llm-carbon.md) | Nature paper data, training/inference energy split, information black box |
-| [Japan AI Labor Impact — Research](review/research-japan-ai-labor.md) | AI translation impact, gaming industry strikes, manufacturing automation |
-| [Korea AI Labor Impact — Research](review/research-korea-ai-labor.md) | Gaming industry regulation, Kakao AI controversy, creative labor protection |
-| [Latin America AI Labor Impact — Research](review/research-latam-ai-labor.md) | Venezuelan labelers' survival, Brazilian gig economy, Argentine outsourcing |
-| [Four-Topic Synthesis — Research](review/research-summary-4topics.md) | Cross-references and synthesis across the four investigation themes |
+- low-paid and harmful-content data work;
+- expert post-training and evaluation work;
+- cross-border outsourcing chains;
+- real-world data annotation such as sports analytics;
+- platformized expert work through Outlier-like systems;
+- reduced entry-level hiring in highly exposed occupations;
+- outcome-based pricing and smaller teams in IT services;
+- human supervision, review, exception handling, and accountability around agents;
+- collective bargaining over digital replicas and synthetic performance;
+- organizational redesign rather than simple one-for-one substitution.
 
-## Style Guide
+The archive also records counterevidence. In particular, the 2026 Stanford evidence does **not** show an economy-wide employment collapse even while it documents a widening gap for young workers in highly exposed occupations.
 
-The entire book is written in plain modern prose. Every claim must cite its source — news URL, investigation report, interview record — traceable to the origin.
-Uncertain claims are marked "unverified." No fabrication.
-A person's identity and source are noted on first mention.
-Narrative and commentary are separated — tell the story first, then analyze.
+## Sources and historical material
 
-For the full style guide, see [`00-style-guide.md`](00-style-guide.md).
+`sources/` stores source metadata and claim mappings. It is not a mirror of copyrighted news pages. `review/` contains historical research notes and must not be treated as verified merely because it is already in the repository.
 
-## Why We Document This
+## Maintenance rules
 
-Because nobody else does.
-
-LLM_Chronicle records the history of models — who released what, how much was raised, how many parameters grew. Those are stories under the spotlight. But behind every line of RLHF training data, there is a real person sitting in front of a screen, labeling "this response is good, that one is not." They earn $1–2 per hour, reading humanity's darkest output — violence, pornography, hatred — and then teaching the AI to say "I can't help you with that."
-
-These people's stories are not in any technical paper, not in any funding announcement, not on any benchmark leaderboard. If no one writes them down, they will be swallowed by history — like all invisible labor.
-
-## Team
-
-This project is driven by the **Rhodes Island Industrial AI Chronicle Team**.
-
-| Role | Member | Responsibility |
-|------|--------|----------------|
-| Coordination | 凯尔希（Kal'tsit） | Project scheduling, quality assurance |
-| Research | 迷迭香（Rosmontis） | Literature research, source collection |
-| Writing | 赫默（Hermes） | Investigation report writing |
-| Analysis | 符玄（Fu Xuan） | Theoretical framework, in-depth analysis |
-| Data | 白面鸮（Ptilopsis） | Data organization, format compliance |
-| Planning | 庄方宜（Zhuang Fangyi） | Entry planning, scope definition |
-| Architecture | 伊冯（Yvonne） | Style guide design, structural standards |
+1. Trace every material factual claim.
+2. Never invent anonymous workers, quotations, numbers, or URLs.
+3. Distinguish company attribution from independently established causation.
+4. Treat pay, health, illegality, and displacement claims as high-risk.
+5. Preserve counterevidence.
+6. Keep Chinese and English formal articles in factual parity.
+7. Do not add China-mainland-centered topics.
 
 ## License
 
-TBD
+TBD.
