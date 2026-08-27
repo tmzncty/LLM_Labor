@@ -1,0 +1,8 @@
+{
+  "topic": "体育数据标注员",
+  "last_checked": "2026-08-28",
+  "sources": [
+    {"id":"S1","publisher":"Rest of World","title":"The AI-powered World Cup runs on thousands of data workers","date":"2026-06-23","url":"https://restofworld.org/2026/fifa-world-cup-ai-data-workers/","tier":"B","type":"reporting","status":"live","supports":["world-cup-data-workers","countries","sports-data-value-chain","manual-annotation"]}
+  ],
+  "notes":["The article does not establish a complete global headcount or uniform pay scale."]
+}

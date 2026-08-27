@@ -1,0 +1,12 @@
+{
+  "topic": "Outlier任务工",
+  "last_checked": "2026-08-28",
+  "sources": [
+    {"id":"S1","publisher":"Outlier AI","title":"Terms of Use","date":"2026-05-11","url":"https://outlier.ai/legal/terms-of-use","tier":"A","type":"platform-terms","status":"live","supports":["contractor-status","no-employee-benefits"]},
+    {"id":"S2","publisher":"Outlier AI","title":"FAQ","date":null,"url":"https://outlier.ai/faq","tier":"A","type":"platform-primary","status":"live","supports":["task-types","project-variability"]},
+    {"id":"S3","publisher":"Outlier AI","title":"Homepage","date":null,"url":"https://outlier.ai/","tier":"A","type":"platform-primary","status":"live","supports":["qualification-profile"]},
+    {"id":"S4","publisher":"The Guardian","title":"Porn, dog poo and social media snaps: the 'taskers' scraping the internet for AI firm part-owned by Meta","date":"2026-04-07","url":"https://www.theguardian.com/technology/2026/apr/07/meta-scale-ai-social-media-technology","tier":"B","type":"investigative-reporting","status":"live","supports":["worker-experiences","task-controversies"]},
+    {"id":"S5","publisher":"Reuters","title":"Meta poaches 28-year-old Scale AI CEO after taking multibillion dollar stake in startup","date":"2025-06-13","url":"https://www.reuters.com/business/finance/meta-finalizes-investment-scale-ai-valuing-startup-29-billion-2025-06-13/","tier":"B","type":"reporting","status":"live","supports":["meta-scale-stake"]},
+    {"id":"S6","publisher":"Scale AI","title":"Scale AI Announces Next Phase of Company’s Evolution","date":"2025-06-12","url":"https://scale.com/blog/scale-ai-announces-next-phase-of-company-evolution","tier":"A","type":"company-primary","status":"live","supports":["scale-independence-position"]}
+  ]
+}
