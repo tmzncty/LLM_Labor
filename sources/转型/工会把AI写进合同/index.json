@@ -1,0 +1,9 @@
+{
+  "topic":"工会把AI写进合同",
+  "last_checked":"2026-08-28",
+  "sources":[
+    {"id":"S1","publisher":"SAG-AFTRA","title":"SAG-AFTRA Members Approve 2025 Video Game Agreement","date":"2025-07-09","url":"https://www.sagaftra.org/sag-aftra-members-approve-2025-video-game-agreement","tier":"A","type":"union-primary","status":"live","supports":["ratification","compensation","ai-guardrails"]},
+    {"id":"S2","publisher":"SAG-AFTRA","title":"SAG-AFTRA National Board Approves Interactive Media Agreement","date":"2025-06-12","url":"https://www.sagaftra.org/sag-aftra-national-board-approves-interactive-media-agreement","tier":"A","type":"union-primary","status":"live","supports":["informed-consent","digital-replica","strike-consent","real-time-generation"]},
+    {"id":"S3","publisher":"SAG-AFTRA","title":"SAG-AFTRA Members Approve 2026 TV/Theatrical Contracts Tentative Agreement","date":"2026-06-04","url":"https://www.sagaftra.org/sag-aftra-members-approve-2026-tvtheatrical-contracts-tentative-agreement","tier":"A","type":"union-primary","status":"live","supports":["2026-ratification","synthetics-protection"]}
+  ]
+}

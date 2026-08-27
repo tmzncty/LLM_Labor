@@ -1,0 +1,9 @@
+{
+  "topic":"年轻人入口岗位",
+  "last_checked":"2026-08-28",
+  "sources":[
+    {"id":"S1","publisher":"Stanford Digital Economy Lab","title":"No Widespread Displacement, but the AI Employment Gap for Young Workers Has Widened to 19%","date":"2026-08-12","url":"https://digitaleconomy.stanford.edu/news/canariesaug26/","tier":"A","type":"research-summary","status":"live","supports":["no-widespread-displacement","19-percent-relative-gap","hiring-channel","automative-vs-augmentative"]},
+    {"id":"S2","publisher":"Reuters","title":"AI will not trigger employment collapse, staffing company Adecco Group says","date":"2026-07-23","url":"https://www.reuters.com/business/ai-will-not-trigger-employment-collapse-staffing-company-adecco-group-says-2026-07-23/","tier":"B","type":"reporting","status":"live","supports":["junior-pipeline-warning"]},
+    {"id":"S3","publisher":"Stanford Digital Economy Lab","title":"Canaries, Interest Rates, and Timing: More on the Recent Drivers of Employment Changes for Young Workers","date":"2026-02-09","url":"https://digitaleconomy.stanford.edu/news/canaries-interest-rates-and-timinga-more-on-recent-drivers-of-employment-changes-for-young-workers/","tier":"A","type":"research-summary","status":"live","supports":["causality-caveat","timing"]}
+  ]
+}
