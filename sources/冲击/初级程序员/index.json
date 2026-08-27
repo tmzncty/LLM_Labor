@@ -1,9 +1,10 @@
 {
-  "topic": "初级程序员",
-  "sources": [
-    { "title": "GitHub Copilot Productivity Report", "url": "https://github.blog/", "date": "2022-09-07", "credibility": "high" },
-    { "title": "Stack Overflow 2024 Developer Survey", "url": "https://survey.stackoverflow.co/", "date": "2024-06-01", "credibility": "high" },
-    { "title": "Introducing Claude Code (Anthropic)", "url": "https://www.anthropic.com/", "date": "2025-02-24", "credibility": "high" },
-    { "title": "Vibe Coding (Andrej Karpathy, X)", "url": "https://x.com/karpathy", "date": "2025-02-02", "credibility": "medium" }
-  ]
+  "topic":"初级程序员",
+  "last_checked":"2026-08-28",
+  "sources":[
+    {"id":"S1","publisher":"U.S. Bureau of Labor Statistics","title":"Software Developers, Quality Assurance Analysts, and Testers","date":"2026","url":"https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm","tier":"A","type":"government-projection","status":"live","supports":["2025-2035-growth","annual-openings","ai-demand-context"]},
+    {"id":"S2","publisher":"Stanford Digital Economy Lab","title":"No Widespread Displacement, but the AI Employment Gap for Young Workers Has Widened to 19%","date":"2026-08-12","url":"https://digitaleconomy.stanford.edu/news/canariesaug26/","tier":"A","type":"research-summary","status":"live","supports":["young-worker-divergence","hiring-channel","causal-caveats"]},
+    {"id":"S3","publisher":"METR","title":"Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity","date":"2025-07-10","url":"https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/","tier":"A","type":"randomized-study","status":"live","supports":["19-percent-slower-in-study","expectation-gap","scope-limitations"]}
+  ],
+  "retracted_legacy_claims":["universal 30% junior hiring decline","Copilot generates 60-70% of boilerplate code","2-3x senior developer productivity","fabricated worker interviews"]
 }
