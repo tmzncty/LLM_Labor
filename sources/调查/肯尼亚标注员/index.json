@@ -1,10 +1,44 @@
 {
   "topic": "肯尼亚标注员",
+  "last_checked": "2026-08-28",
   "sources": [
-    { "title": "OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic", "url": "https://time.com/6247678/openai-chatgpt-kenyan-workers/", "date": "2023-01-18", "credibility": "high" },
-    { "title": "The AI Arms Race Is Changing Everything", "url": "https://time.com/6255924/ai-arms-race-chatgpt/", "date": "2023-02-16", "credibility": "high" },
-    { "title": "The Human Cost of AI (MIT Technology Review)", "url": "https://www.technologyreview.com/2022/04/04/1048978/human-cost-ai/", "date": "2022-04-04", "credibility": "high" },
-    { "title": "Inside the Digital Sweatshops Training AI (Vice)", "url": "https://www.vice.com/en/article/akvgqw/inside-the-digital-sweatshops-training-ai", "date": "2022-08-15", "credibility": "high" },
-    { "title": "The Exploited Labor Behind AI (The Guardian)", "url": "https://www.theguardian.com/technology/2023/aug/28/exploited-labor-behind-ai", "date": "2023-08-28", "credibility": "high" }
+    {
+      "id": "S1",
+      "title": "Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic",
+      "publisher": "TIME",
+      "date": "2023-01-18",
+      "url": "https://time.com/6247678/openai-chatgpt-kenya-workers/",
+      "tier": "B",
+      "type": "investigative-reporting",
+      "status": "live",
+      "supports": ["contract", "task-content", "pay", "worker-distress", "contract-end"]
+    },
+    {
+      "id": "S2",
+      "title": "150 African Workers for ChatGPT, TikTok and Facebook Vote to Unionize at Landmark Nairobi Meeting",
+      "publisher": "TIME",
+      "date": "2023-05-01",
+      "url": "https://time.com/6275995/chatgpt-facebook-african-workers-union/",
+      "tier": "B",
+      "type": "reporting",
+      "status": "live",
+      "supports": ["unionization"]
+    },
+    {
+      "id": "S3",
+      "title": "Richard Mathenge",
+      "publisher": "TIME100 AI",
+      "date": "2023-09-07",
+      "url": "https://time.com/collections/time100-ai/6308980/richard-mathenge/",
+      "tier": "B",
+      "type": "profile",
+      "status": "live",
+      "supports": ["worker-identity", "unionization", "parliament-petition"]
+    }
+  ],
+  "notes": [
+    "The previous index contained at least one incorrect TIME URL slug and several sources not mapped to specific claims.",
+    "Do not infer a population PTSD rate from the reported worker testimony.",
+    "Do not describe this project as the entirety of ChatGPT RLHF or safety training."
   ]
 }
