@@ -1,17 +1,16 @@
 {
-  "description": "LLM_Labor 项目来源索引",
-  "updated": "2026-06-21",
-  "categories": {
-    "调查": {
-      "topics": ["肯尼亚标注员", "ScaleAI外包体系", "内容审核员", "MTurk与众包劳动", "阿联酋AI监控", "数据标注的心理代价"]
-    },
-    "冲击": {
-      "topics": ["翻译行业", "插画师", "初级程序员", "客服", "新闻记者", "会计", "法律助理", "音乐家", "医疗诊断", "3D艺术家", "教师"]
-    }
-  },
-  "credibilityScale": {
-    "high": "权威媒体一手报道、学术论文、官方数据",
-    "medium": "行业报告、从业者访谈、二手报道",
-    "low": "社交媒体传闻、未经核实的信息"
-  }
+  "schema_version": 2,
+  "updated": "2026-08-28",
+  "purpose": "Source metadata and claim mapping for LLM_Labor. This directory is not a mirror of copyrighted news articles.",
+  "workflow": "../docs/SOURCE_WORKFLOW.md",
+  "claim_standard": "../docs/CLAIM_STANDARD.md",
+  "categories": ["调查", "冲击", "转型", "论", "表"],
+  "rules": [
+    "Prefer primary documents and high-quality reporting.",
+    "Map sources to claims instead of treating a URL list as verification.",
+    "Do not copy full copyrighted news pages by default.",
+    "Mark dead links and find lawful replacement or archive references.",
+    "Preserve counterevidence.",
+    "Do not add China-mainland-centered research topics."
+  ]
 }
