@@ -1,0 +1,12 @@
+{
+  "topic":"数字劳动",
+  "status":"REVISED",
+  "audited":"2026-08-28",
+  "sources":[
+    {"title":"Free Labor: Producing Culture for the Digital Economy","url":"https://doi.org/10.1215/08992363-18-2-33","tier":"theory"},
+    {"title":"Digital Labour and Karl Marx","url":"https://www.routledge.com/Digital-Labour-and-Karl-Marx/Fuchs/p/book/9780415716161","tier":"theory"},
+    {"title":"MTurk and crowdwork","url":"../../调查/MTurk与众包劳动/index.json","tier":"internal-revised"},
+    {"title":"Outlier taskers","url":"../../调查/Outlier任务工/index.json","tier":"internal-revised"},
+    {"title":"Who trains AI","url":"../../转型/谁在培训AI/index.json","tier":"internal-revised"}
+  ]
+}

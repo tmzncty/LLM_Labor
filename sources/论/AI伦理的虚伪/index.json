@@ -1,0 +1,11 @@
+{
+  "topic":"AI伦理的盲点（原：AI伦理的虚伪）",
+  "status":"REVISED",
+  "audited":"2026-08-28",
+  "sources":[
+    {"title":"UNESCO Recommendation on the Ethics of Artificial Intelligence","url":"https://www.unesco.org/en/articles/recommendation-ethics-artificial-intelligence","tier":"A"},
+    {"title":"ILO Artificial intelligence adoption and its impact on jobs","url":"https://www.ilo.org/publications/artificial-intelligence-adoption-and-its-impact-jobs","tier":"A"},
+    {"title":"OECD Algorithmic management in the workplace","url":"https://www.oecd.org/en/publications/algorithmic-management-in-the-workplace_287c13c4-en.html","tier":"A"},
+    {"title":"Who regulates","url":"../../转型/谁在监管/index.json","tier":"internal-revised"}
+  ]
+}
