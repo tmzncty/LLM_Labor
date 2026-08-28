@@ -2,30 +2,37 @@
 
 # LLM Labor — The People Behind AI
 
-**Version: 2026-08-28 v2**  
-**55 entries: 14 investigations / 17 impact / 10 transitions / 8 essays / 6 data tables.**  
-**49 REVISED / 2 HOLD / 4 UNREVIEWED.**
+> **AI is not laborless.** This archive documents model trainers, moderators, data producers, agent reviewers, workers in restructured occupations, and people bargaining over AI deployment.
+
+**Version: 2026-08-28 v2 · Initial full-repository audit complete**  
+**55 entries: 53 REVISED / 2 HOLD / 0 UNREVIEWED.**  
+14 investigations / 17 impact / 10 transitions / 8 essays / 6 data tables.
 
 Do not add China-mainland-centered topics. See [`../SCOPE.md`](../SCOPE.md).
 
-## Audit status
-- Investigations: 13 REVISED + 1 HOLD
-- Impact: 17/17 REVISED
-- Transitions: 9 REVISED + 1 HOLD
-- Essays: 8/8 REVISED
-- Data: 2 REVISED + 4 remaining
-
 ## Holds
-- UAE AI Surveillance: insufficient workplace-AI evidence chain.
-- Who Left: insufficient longitudinal worker-destination evidence.
+- [UAE AI Surveillance](调查/uae-ai-surveillance.md) — insufficient evidence linking specific workplace AI systems to worker management.
+- [Who Left](转型/who-left.md) — insufficient longitudinal worker-destination evidence.
 
-## Essays
-All eight essays are now revised. The theory layer explicitly separates empirical findings, normative judgment and interpretive frameworks. “Global South,” “surveillance capitalism,” and “data colonialism” are lenses that require specific mechanisms rather than default labels. The former “AI Ethics Hypocrisy” essay now audits blind spots without assuming deliberate bad faith.
+## Investigations (14)
+[Kenyan Labelers](调查/kenya-labelers.md) · [Scale AI Outsourcing](调查/scale-ai-outsourcing.md) · [Content Moderators](调查/content-moderators.md) · [MTurk](调查/mturk-crowdwork.md) · [UAE AI Surveillance](调查/uae-ai-surveillance.md) **HOLD** · [Psychological Cost](调查/psychological-cost-labeling.md) · [LLM Energy](调查/llm-carbon-emissions.md) · [AI and Labor Fear](调查/ai-labor-fear.md) · [Anime and AI in Japan](调查/anime-vs-ai-japan.md) · [Venezuelan Labelers](调查/venezuela-labelers.md) · [Expert AI Trainers](调查/expert-ai-trainers.md) · [Africa AI Labor Supply Chain](调查/african-ai-labor-supply-chain.md) · [Sports Data Annotators](调查/sports-data-annotators.md) · [Outlier Taskers](调查/outlier-taskers.md)
 
-## Remaining audit
-Only four historical data tables remain.
+## Impact (17)
+[Translation](冲击/translation-industry.md) · [Illustrators](冲击/illustrators.md) · [Customer Service](冲击/customer-service.md) · [Junior Programmers](冲击/junior-programmers.md) · [Journalists](冲击/journalists.md) · [Accounting](冲击/accounting.md) · [Legal Assistants](冲击/legal-assistants.md) · [Musicians](冲击/musicians.md) · [Medical Diagnostics](冲击/medical-diagnostics.md) · [3D Artists](冲击/3d-artists.md) · [Teachers](冲击/teachers.md) · [Financial Analysts](冲击/financial-analysts.md) · [Architects](冲击/architects.md) · [Counselors](冲击/counselors.md) · [Human Resources](冲击/human-resources.md) · [Entry-Level Jobs](冲击/entry-level-jobs.md) · [India IT Services](冲击/india-it-services.md)
 
-See [`../docs/AUDIT_LEDGER.md`](../docs/AUDIT_LEDGER.md), [`../AUDIT_PLAN.md`](../AUDIT_PLAN.md), and [`../IMPLEMENTATION_PLAN.md`](../IMPLEMENTATION_PLAN.md).
+## Transitions (10)
+[Who Is Fighting Back](转型/who-is-fighting-back.md) · [Who Left](转型/who-left.md) **HOLD** · [Who Adapted](转型/who-adapted.md) · [Who Trains AI](转型/who-trains-ai.md) · [Who Regulates](转型/who-regulates.md) · [Who Is Forgotten](转型/who-is-forgotten.md) · [Who Embraces AI](转型/who-embraces-ai.md) · [Labelers' Awakening](转型/labelers-awakening.md) · [AI Supervision](转型/ai-supervision-and-review.md) · [Collective Bargaining](转型/ai-in-collective-bargaining.md)
+
+## Essays (8)
+[Labor Justice](论/labor-justice.md) · [Global South](论/global-south.md) · [Surveillance Capitalism](论/surveillance-capitalism.md) · [Data Colonialism](论/data-colonialism.md) · [Technological Determinism](论/tech-determinism-critique.md) · [Digital Labor](论/digital-labor.md) · [AI Ethics Blind Spots](论/ai-ethics-blind-spots.md) · [Organizational Redesign](论/from-substitution-to-organizational-redesign.md)
+
+## Data (6)
+[Impacted Occupations](表/impacted-professions-list.md) · [Global Labeling Supply Chain](表/global-labeling-supply-chain.md) · [Workforce Restructuring Timeline](表/ai-layoff-timeline.md) · [AI Labor Governance Comparison](表/ai-labor-protection-comparison.md) · [Environmental / Infrastructure Data](表/llm-environmental-impact.md) · [2025–2026 AI Labor Timeline](表/ai-labor-timeline-2025-2026.md)
+
+## Maintenance
+See [`../docs/AUDIT_LEDGER.md`](../docs/AUDIT_LEDGER.md), [`../docs/AUDIT_COMPLETION_2026-08-28.md`](../docs/AUDIT_COMPLETION_2026-08-28.md), [`../docs/CLAIM_STANDARD.md`](../docs/CLAIM_STANDARD.md), [`../docs/SOURCE_WORKFLOW.md`](../docs/SOURCE_WORKFLOW.md), and [`../AGENTS.md`](../AGENTS.md).
+
+Use HOLD when evidence is insufficient. Never invent workers, quotations, statistics, URLs or causal links.
 
 ## License
 TBD.
