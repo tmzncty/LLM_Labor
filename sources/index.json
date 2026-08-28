@@ -1,9 +1,11 @@
 {
   "schema_version": 2,
   "updated": "2026-08-28",
+  "audit_status": {"total":55,"revised":53,"hold":2,"unreviewed":0,"broken":0},
   "purpose": "Source metadata and claim mapping for LLM_Labor. This directory is not a mirror of copyrighted news articles.",
   "workflow": "../docs/SOURCE_WORKFLOW.md",
   "claim_standard": "../docs/CLAIM_STANDARD.md",
+  "audit_completion": "../docs/AUDIT_COMPLETION_2026-08-28.md",
   "categories": ["调查", "冲击", "转型", "论", "表"],
   "rules": [
     "Prefer primary documents and high-quality reporting.",
@@ -11,6 +13,7 @@
     "Do not copy full copyrighted news pages by default.",
     "Mark dead links and find lawful replacement or archive references.",
     "Preserve counterevidence.",
-    "Do not add China-mainland-centered research topics."
+    "Use HOLD when evidence is insufficient.",
+    "Do not add China-centered research topics; use only non-China portions of global sources."
   ]
 }

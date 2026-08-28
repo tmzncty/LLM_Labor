@@ -1,0 +1,16 @@
+{
+  "topic":"AI与劳动治理对比",
+  "status":"REVISED",
+  "audited":"2026-08-28",
+  "sources":[
+    {"title":"EU AI Act regulatory framework","url":"https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai","tier":"A"},
+    {"title":"EU high-risk AI guidelines","url":"https://digital-strategy.ec.europa.eu/en/policies/guidelines-ai-high-risk-systems","tier":"A"},
+    {"title":"Quality Jobs Act second-stage consultation","url":"https://employment-social-affairs.ec.europa.eu/news/commission-opens-second-phase-consultation-quality-jobs-act-2026-07-20_en","tier":"A"},
+    {"title":"EEOC Employment Discrimination and AI for Workers","url":"https://www.eeoc.gov/sites/default/files/2024-04/20240429_Employment%20Discrimination%20and%20AI%20for%20Workers.pdf","tier":"A"},
+    {"title":"UK ICO automated recruitment safeguards","url":"https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/03/automated-decisions-can-streamline-the-hiring-process-with-the-right-safeguards-in-place/","tier":"A"},
+    {"title":"UK Responsible AI in Recruitment","url":"https://www.gov.uk/government/publications/responsible-ai-in-recruitment-guide/responsible-ai-in-recruitment","tier":"A"},
+    {"title":"Japan AI Guidelines for Business v1.2","url":"https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/20260331_report.html","tier":"A"},
+    {"title":"Japan AI civil liability guidance","url":"https://www.meti.go.jp/english/press/2026/0409_002.html","tier":"A"},
+    {"title":"Collective bargaining cross-reference","url":"../../转型/工会把AI写进合同/index.json","tier":"internal-revised"}
+  ]
+}

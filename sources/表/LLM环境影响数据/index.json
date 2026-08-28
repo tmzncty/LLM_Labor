@@ -1,0 +1,12 @@
+{
+  "topic":"LLM/AI数据中心环境与基础设施数据",
+  "status":"REVISED",
+  "audited":"2026-08-28",
+  "sources":[
+    {"title":"IEA Energy and AI — Energy demand from AI","url":"https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai","tier":"A"},
+    {"title":"IEA Energy and AI — AI and climate change","url":"https://www.iea.org/reports/energy-and-ai/ai-and-climate-change","tier":"A"},
+    {"title":"IEA Key Questions on Energy and AI — Executive summary","url":"https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary","tier":"A"},
+    {"title":"IEA Electricity 2026 — Demand","url":"https://www.iea.org/reports/electricity-2026/demand","tier":"A"},
+    {"title":"Infrastructure labor cross-reference","url":"../../转型/谁在被遗忘/index.json","tier":"internal-revised"}
+  ]
+}
