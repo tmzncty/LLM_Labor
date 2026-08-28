@@ -1,0 +1,10 @@
+{
+  "topic":"受冲击职业清单",
+  "status":"REVISED",
+  "audited":"2026-08-28",
+  "method":"汇总17篇已REVISED职业正文，不生成替代概率分数。",
+  "sources":[
+    {"title":"Impact directory (audited internal evidence)","url":"../../../冲击","tier":"internal-revised"},
+    {"title":"ILO Generative AI and Jobs 2025","url":"https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure","tier":"A"}
+  ]
+}

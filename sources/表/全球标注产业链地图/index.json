@@ -1,0 +1,14 @@
+{
+  "topic":"全球AI数据与标注劳动供应链地图",
+  "status":"REVISED",
+  "audited":"2026-08-28",
+  "method":"只汇总已审计供应链案例；未知客户关系显式标记。",
+  "sources":[
+    {"title":"Scale AI outsourcing","url":"../../调查/ScaleAI外包体系/index.json","tier":"internal-revised"},
+    {"title":"Content moderators","url":"../../调查/内容审核员/index.json","tier":"internal-revised"},
+    {"title":"MTurk","url":"../../调查/MTurk与众包劳动/index.json","tier":"internal-revised"},
+    {"title":"Africa AI labor supply chain","url":"../../调查/非洲AI劳动供应链/index.json","tier":"internal-revised"},
+    {"title":"Outlier taskers","url":"../../调查/Outlier任务工/index.json","tier":"internal-revised"},
+    {"title":"Expert AI trainers","url":"../../调查/专家训练AI/index.json","tier":"internal-revised"}
+  ]
+}
