@@ -1,8 +1,9 @@
 {
   "topic": "MTurk与众包劳动",
+  "audit_status": "REVISED",
+  "audited_at": "2026-08-28",
   "sources": [
-    { "title": "Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass (Gray & Suri)", "url": "https://www.hmhbooks.com/shop/books/Ghost-Work", "date": "2019", "credibility": "high" },
-    { "title": "Demographics of Mechanical Turk (Ipeirotis)", "url": "https://papers.ssrn.com/", "date": "2010", "credibility": "medium" },
-    { "title": "Mechanical Turk Is Not Anonymous (Difallah et al.)", "url": "https://arxiv.org/", "date": "2018", "credibility": "high" }
-  ]
+    {"title":"A Data-Driven Analysis of Workers' Earnings on Amazon Mechanical Turk","publisher":"CHI 2018 / arXiv","date":"2017-12-14","url":"https://arxiv.org/abs/1712.05796","use":"2676名工人、约380万任务；中位实际时薪约2美元、约4%高于7.25美元；强调无薪搜索和拒付时间"}
+  ],
+  "note": "本篇将MTurk作为制度史案例，不把历史工资数字外推到2026年的专家型AI训练平台。"
 }

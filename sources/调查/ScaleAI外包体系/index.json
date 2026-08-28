@@ -1,10 +1,12 @@
 {
   "topic": "ScaleAI外包体系",
+  "audit_status": "REVISED",
+  "audited_at": "2026-08-28",
   "sources": [
-    { "title": "Scale AI Alexandr Wang Youngest Self-Made Billionaire (Forbes)", "url": "https://www.forbes.com/sites/alexkonrad/2024/04/02/scale-ai-alexandr-wang-youngest-self-made-billionaire/", "date": "2024-04-02", "credibility": "high" },
-    { "title": "Scale AI Valued at $14 Billion (Bloomberg)", "url": "https://www.bloomberg.com/news/articles/2024-05-14/scale-ai-valued-at-14-billion-in-new-funding-round", "date": "2024-05-14", "credibility": "high" },
-    { "title": "How Scale AI Recruits Workers in the Philippines (Rest of World)", "url": "https://restofworld.org/2023/scale-ai-remotasks-philippines/", "date": "2023-06-15", "credibility": "high" },
-    { "title": "Scale AI Pentagon Contract (Defense One)", "url": "https://www.defenseone.com/technology/2020/10/scale-ai-wins-pentagon-contract-data-labeling/169445/", "date": "2020-10-15", "credibility": "high" },
-    { "title": "Scale AI Military Contracts Ethical Questions (The Verge)", "url": "https://www.theverge.com/2023/9/20/23882311/scale-ai-military-contracts-ethical-questions", "date": "2023-09-20", "credibility": "high" }
+    {"title":"Meta finalizes investment in Scale AI valuing startup at $29 billion","publisher":"Reuters","date":"2025-06-13","url":"https://www.reuters.com/business/finance/meta-finalizes-investment-scale-ai-valuing-startup-29-billion-2025-06-13/","use":"Meta投资、估值、Wang转岗"},
+    {"title":"Scale AI Announces Next Phase of Company’s Evolution","publisher":"Scale AI","date":"2025-06-12","url":"https://scale.com/blog/scale-ai-announces-next-phase-of-company-evolution","use":"公司对交易和管理层变动的官方表述"},
+    {"title":"US Labor Department investigating Nvidia, Amazon-backed startup Scale AI","publisher":"Reuters","date":"2025-03-06","url":"https://www.reuters.com/technology/us-labor-department-investigating-nvidia-amazon-backed-startup-scale-ai-2025-03-06/","use":"劳工部调查；不视为违法认定"},
+    {"title":"Scale AI’s Remotasks platform is dropping whole countries without explanation","publisher":"Rest of World","date":"2024-03-28","url":"https://restofworld.org/2024/scale-ai-remotasks-banned-workers/","use":"肯尼亚等地任务突然中断"},
+    {"title":"Scale AI to Cut 14% of Staff Following Meta Investment","publisher":"Bloomberg","date":"2025-07-16","url":"https://www.bloomberg.com/news/articles/2025-07-16/scale-ai-to-cut-14-of-staff-following-meta-investment","use":"200正式员工与500承包商调整"}
   ]
 }

@@ -1,0 +1,12 @@
+{
+  "topic": "LLM碳排放",
+  "audit_status": "REVISED",
+  "audited_at": "2026-08-28",
+  "sources": [
+    {"title":"Energy and AI — Energy demand from AI","publisher":"IEA","date":"2025-04-10","url":"https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai","use":"2024数据中心415TWh、约1.5%；2030基准情景约945TWh；区分AI与全部数据中心"},
+    {"title":"Data centre electricity use surged in 2025…","publisher":"IEA","date":"2026-04-16","url":"https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions","use":"2025数据中心用电增长与AI-focused data centres更新"},
+    {"title":"Key Questions on Energy and AI — Executive summary","publisher":"IEA","date":"2026","url":"https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary","use":"简单文本请求与推理/视频/agent任务单位能耗差异"},
+    {"title":"Energy and AI — Energy supply for AI","publisher":"IEA","date":"2025","url":"https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai","use":"数据中心物理供电结构与地区差异"}
+  ],
+  "removed_claims": ["Llama-3-70B每页碳排放是人类的1/53", "固定的单查询通用耗电数字"]
+}
