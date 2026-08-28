@@ -8,107 +8,69 @@ LLM Labor 是持续维护的 **AI 劳动史料库**，不是“AI 会不会抢�
 
 **版本：2026-08-28 v2**  
 **条目：55（调查 14 / 冲击 17 / 转型 10 / 论 8 / 表 6）**  
-**v2 REVISED：35；HOLD：1；历史 UNREVIEWED：19。** 详见 [`docs/AUDIT_LEDGER.md`](docs/AUDIT_LEDGER.md)。
+**v2 REVISED：42；HOLD：2；UNREVIEWED：11。** 详见 [`docs/AUDIT_LEDGER.md`](docs/AUDIT_LEDGER.md)。
 
 > **从 2026-08-28 起，不新增中国大陆相关议题。** 见 [`SCOPE.md`](SCOPE.md)。
 
 ## 维护入口
-
-- [`SCOPE.md`](SCOPE.md) — 范围边界
-- [`00_体例.md`](00_体例.md) — 写作体例
-- [`docs/CLAIM_STANDARD.md`](docs/CLAIM_STANDARD.md) — claim 分级
-- [`docs/SOURCE_WORKFLOW.md`](docs/SOURCE_WORKFLOW.md) — 来源工作流
-- [`docs/AUDIT_LEDGER.md`](docs/AUDIT_LEDGER.md) — 逐篇状态
-- [`AUDIT_PLAN.md`](AUDIT_PLAN.md) — 审计顺序
-- [`IMPLEMENTATION_PLAN.md`](IMPLEMENTATION_PLAN.md) — 执行计划
-- [`AGENTS.md`](AGENTS.md) — Agent 硬约束
+- [`SCOPE.md`](SCOPE.md)
+- [`00_体例.md`](00_体例.md)
+- [`docs/CLAIM_STANDARD.md`](docs/CLAIM_STANDARD.md)
+- [`docs/SOURCE_WORKFLOW.md`](docs/SOURCE_WORKFLOW.md)
+- [`docs/AUDIT_LEDGER.md`](docs/AUDIT_LEDGER.md)
+- [`AUDIT_PLAN.md`](AUDIT_PLAN.md)
+- [`IMPLEMENTATION_PLAN.md`](IMPLEMENTATION_PLAN.md)
+- [`AGENTS.md`](AGENTS.md)
 
 ## 调查（14）
-
-**13 REVISED + 1 HOLD。历史调查旧稿队列已清空。**
-
-- [肯尼亚标注员](调查/肯尼亚标注员.md) — REVISED
-- [Scale AI 外包体系](调查/ScaleAI外包体系.md) — REVISED
-- [内容审核员](调查/内容审核员.md) — REVISED
-- [MTurk 与众包劳动](调查/MTurk与众包劳动.md) — REVISED
-- [阿联酋 AI 监控](调查/阿联酋AI监控.md) — **HOLD：证据链不足**
-- [数据标注的心理代价](调查/数据标注的心理代价.md) — REVISED
-- [LLM 能耗与基础设施劳动](调查/LLM碳排放.md) — REVISED
-- [AI 与劳动力恐惧](调查/AI与劳动力恐惧.md) — REVISED
-- [日本动漫与生成式 AI](调查/日本动漫与AI.md) — REVISED
-- [委内瑞拉标注员](调查/委内瑞拉标注员.md) — REVISED
-- [专家训练 AI](调查/专家训练AI.md) — REVISED
-- [非洲 AI 劳动供应链](调查/非洲AI劳动供应链.md) — REVISED
-- [体育数据标注员](调查/体育数据标注员.md) — REVISED
-- [Outlier 任务工](调查/Outlier任务工.md) — REVISED
+**13 REVISED + 1 HOLD。** HOLD： [阿联酋 AI 监控](调查/阿联酋AI监控.md)，因为现有证据不足以把城市监控、移民管理和职场算法管理拼成一个已证实的 AI 劳工系统。
 
 ## 冲击（17）
-
-**17/17 已按 v2 审计。**
-
-- [翻译行业](冲击/翻译行业.md)
-- [插画师](冲击/插画师.md)
-- [客服](冲击/客服.md)
-- [初级程序员](冲击/初级程序员.md)
-- [新闻记者](冲击/新闻记者.md)
-- [会计](冲击/会计.md)
-- [法律助理](冲击/法律助理.md)
-- [音乐家](冲击/音乐家.md)
-- [医疗诊断](冲击/医疗诊断.md)
-- [3D 艺术家](冲击/3D艺术家.md)
-- [教师](冲击/教师.md)
-- [金融分析师](冲击/金融分析师.md)
-- [建筑师](冲击/建筑师.md)
-- [心理咨询师](冲击/心理咨询师.md)
-- [人力资源](冲击/人力资源.md)
-- [年轻人入口岗位](冲击/年轻人入口岗位.md)
-- [印度 IT 服务业](冲击/印度IT服务业.md)
-
-这一轮职业审计最大的变化是：不再用“职业名称”作为替代单位，而区分**职业总量、低层任务、入口岗位、费率、监督责任与训练链**。例如会计师整体仍预计增长，而记账文员下降；金融分析师仍预计增长，而摘要/信息抽取被自动化；心理咨询需求仍强增长，而聊天机器人进入患者的治疗外生活。
+**17/17 REVISED。** 已统一按“职业总量 / 任务 / 入口岗位 / 费率 / 监督责任 / 训练链”分析，不再把产品能力直接等同于职业消失。
 
 ## 转型（10）
+**9 REVISED + 1 HOLD。**
 
-2 篇 REVISED：
-- [AI 监工与复核劳动](转型/AI监工与复核劳动.md)
-- [工会把 AI 写进合同](转型/工会把AI写进合同.md)
-
-8 篇历史旧稿待审。
+- [谁在反抗](转型/谁在反抗.md) — REVISED：工会合同、数据工组织化、公司内部反弹
+- [谁离开了](转型/谁离开了.md) — **HOLD：缺少纵向劳动者去向数据**
+- [谁适应了](转型/谁适应了.md) — REVISED：任务重组、时间节省、再培训
+- [谁在培训 AI](转型/谁在培训AI.md) — REVISED：从基础标注到记者、创作者与专业专家
+- [谁在监管](转型/谁在监管.md) — REVISED：算法管理、AI Act、Quality Jobs Act
+- [谁在被遗忘](转型/谁在被遗忘.md) — REVISED：高暴露低适应能力、分包链、基础设施劳动
+- [谁在拥抱 AI](转型/谁在拥抱AI.md) — REVISED：当前企业采用以增强为主，直接减员仍少
+- [标注员的觉醒](转型/标注员的觉醒.md) — REVISED：Africa Tech Workers Rising 与组织难题
+- [AI 监工与复核劳动](转型/AI监工与复核劳动.md) — REVISED
+- [工会把 AI 写进合同](转型/工会把AI写进合同.md) — REVISED
 
 ## 论（8）
-
 - [从替代到组织重构](论/从替代到组织重构.md) — REVISED
-- 其余 7 篇历史旧稿待审。
+- 其余 7 篇历史理论旧稿待审。
 
 ## 表（6）
-
 - [AI 相关用工重组时间线](表/AI裁员时间线.md) — REVISED
 - [2025–2026 AI 劳动事件时间线](表/2025-2026AI劳动事件时间线.md) — REVISED
 - 其余 4 篇历史表格待审。
 
 ## v2 已纠正的典型错误
-
-- 把“工作量等效”写成真实裁员；
-- 把自愿行业调查外推成全体职业比例；
-- 把诉讼样本写成行业 PTSD 患病率；
-- 把单项 benchmark 写成“AI 超过医生”；
-- 把公司部署 AI 与同时发生的裁员强行建立因果；
-- 编造化名劳动者、采访、公司和报价；
-- 把未来预测、招聘冻结、岗位计划和已执行裁员相加；
-- 把“AI 能做某项任务”直接写成“该职业将消失”；
-- 忽略反证，例如行业总就业增长、版税增长、专业需求增长；
-- 把不同制度层级拼成一个未经证实的大故事。
+- 工作量等效 ≠ 已执行裁员；
+- AI 采用率 ≠ 裁员率；
+- 职业暴露 ≠ 必然失业；
+- 自愿调查 ≠ 全行业总体；
+- 心理困扰量表 ≠ PTSD 患病率；
+- benchmark ≠ 完整职业能力；
+- CEO 预测 ≠ 就业统计；
+- 零散转行故事 ≠ 被替代者总体去向；
+- 公司部署 AI 与同时发生的裁员不能强行写成因果；
+- 允许 **HOLD**：证据不足时，记录缺口比硬写更重要。
 
 ## 维护原则
-
 1. 有据则书，无据则阙。
 2. 不编造匿名人物、引语、数字或 URL。
 3. 公司自述、相关性和独立因果证据分开写。
-4. 工资、健康、违法、裁员归因等高风险结论优先双源。
+4. 高风险结论优先双源。
 5. 主动收录反证。
-6. 中文正式条目与英文版保持事实同步。
+6. 中英文正式条目事实同步。
 7. 不新增中国大陆相关议题。
-8. **允许 HOLD。证据不足不是失败，硬写才是。**
 
 ## License
-
 待定。

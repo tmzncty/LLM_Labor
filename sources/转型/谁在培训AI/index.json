@@ -1,0 +1,11 @@
+{
+  "topic":"谁在培训AI",
+  "status":"REVISED",
+  "audited":"2026-08-28",
+  "sources":[
+    {"title":"Meet the journalists training the AI models that might replace them","url":"https://reutersinstitute.politics.ox.ac.uk/news/meet-journalists-training-ai-models-might-replace-them","tier":"A/B"},
+    {"title":"Digging the grave of my profession","url":"https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs","tier":"B"},
+    {"title":"Outlier Math Expertise for AI Training","url":"https://outlier.ai/math/abc0","tier":"C-company/platform"},
+    {"title":"Outlier Ophthalmology Expert","url":"https://outlier.ai/experts/ophthalmology","tier":"C-company/platform"}
+  ]
+}

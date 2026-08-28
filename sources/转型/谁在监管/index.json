@@ -1,0 +1,11 @@
+{
+  "topic":"谁在监管",
+  "status":"REVISED",
+  "audited":"2026-08-28",
+  "sources":[
+    {"title":"Quality Jobs Act second-stage consultation","url":"https://employment-social-affairs.ec.europa.eu/news/commission-opens-second-phase-consultation-quality-jobs-act-2026-07-20_en","tier":"A"},
+    {"title":"AI Act transparency enforcement","url":"https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august","tier":"A"},
+    {"title":"EU AI Act regulatory framework","url":"https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai","tier":"A"},
+    {"title":"How widespread is algorithmic management in workplaces?","url":"https://www.oecd.org/en/publications/how-widespread-is-algorithmic-management-in-workplaces_cda7a114-en.html","tier":"A"}
+  ]
+}

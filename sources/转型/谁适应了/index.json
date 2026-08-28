@@ -1,0 +1,10 @@
+{
+  "topic":"谁适应了",
+  "status":"REVISED",
+  "audited":"2026-08-28",
+  "sources":[
+    {"title":"Still Waters, Rapid Currents","url":"https://www.nber.org/papers/w33777","tier":"A"},
+    {"title":"Shifting Work Patterns with Generative AI","url":"https://www.nber.org/papers/w33795","tier":"A"},
+    {"title":"How Retrainable are AI-Exposed Workers?","url":"https://www.nber.org/papers/w34174","tier":"A"}
+  ]
+}

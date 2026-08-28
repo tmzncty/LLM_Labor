@@ -1,0 +1,10 @@
+{
+  "topic":"谁离开了",
+  "status":"HOLD",
+  "audited":"2026-08-28",
+  "reason":"缺少足够的纵向劳动者级去向数据，不能用零散转行案例代替总体证据。",
+  "sources":[
+    {"title":"How Adaptable Are American Workers to AI-Induced Job Displacement?","url":"https://www.nber.org/papers/w34705","tier":"A"},
+    {"title":"Still Waters, Rapid Currents","url":"https://www.nber.org/papers/w33777","tier":"A"}
+  ]
+}
