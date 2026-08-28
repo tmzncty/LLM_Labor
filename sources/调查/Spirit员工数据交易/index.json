@@ -1,0 +1,10 @@
+{
+  "topic":"Spirit员工数据交易",
+  "status":"REVISED",
+  "last_checked":"2026-08-28",
+  "sources":[
+    {"id":"S1","publisher":"Reuters","title":"US court delays hearing on Google's purchase of Spirit Airlines data as union objects","date":"2026-08-19","url":"https://www.reuters.com/legal/litigation/us-court-delays-hearing-googles-purchase-spirit-airlines-data-union-objects-2026-08-19/","tier":"A","type":"reporting","supports":["10m-proposed-sale","data-types","google-ai-use","hearing-delayed"]},
+    {"id":"S2","publisher":"Association of Flight Attendants-CWA","title":"Spirit Bankruptcy: Objection to Sale of Your Data","date":"2026-08-18","url":"https://afacwa.org/spirit-objection-sale-your-data/","tier":"A","type":"union-primary","supports":["union-objection","employee-record-types","referential-integrity-concern","not-yet-transferred"]},
+    {"id":"S3","publisher":"WIRED","title":"Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out","date":"2026-08-25","url":"https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/","tier":"B","type":"reporting","supports":["google-statement","ai-model-purpose","worker-privacy-context"]}
+  ]
+}
