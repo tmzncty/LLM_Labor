@@ -1,0 +1,10 @@
+{
+  "topic":"谁在拥抱AI",
+  "status":"REVISED",
+  "audited":"2026-08-28",
+  "sources":[
+    {"title":"The Microstructure of AI Diffusion","url":"https://www.nber.org/papers/w35141","tier":"A"},
+    {"title":"The Rapid Adoption of Generative AI","url":"https://www.nber.org/papers/w32966","tier":"A"},
+    {"title":"Meta Project OT investigation","url":"https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/","tier":"A/B"}
+  ]
+}
