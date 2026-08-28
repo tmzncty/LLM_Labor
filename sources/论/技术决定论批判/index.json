@@ -1,0 +1,11 @@
+{
+  "topic":"技术决定论批判",
+  "status":"REVISED",
+  "audited":"2026-08-28",
+  "sources":[
+    {"title":"Generative AI and Jobs: Refined Global Index","url":"https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure","tier":"A"},
+    {"title":"The Microstructure of AI Diffusion","url":"https://www.nber.org/papers/w35141","tier":"A"},
+    {"title":"Meta Project OT investigation","url":"https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/","tier":"A/B"},
+    {"title":"AI in collective bargaining","url":"../../转型/工会把AI写进合同/index.json","tier":"internal-revised"}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "topic":"劳动正义",
+  "status":"REVISED",
+  "audited":"2026-08-28",
+  "sources":[
+    {"title":"Generative AI and Jobs: A Refined Global Index of Occupational Exposure","url":"https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure","tier":"A"},
+    {"title":"Algorithmic management in the workplace","url":"https://www.oecd.org/en/publications/algorithmic-management-in-the-workplace_287c13c4-en.html","tier":"A"},
+    {"title":"Internal audited labor cases","url":"../../调查/肯尼亚标注员/index.json","tier":"internal-revised"}
+  ]
+}

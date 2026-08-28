@@ -1,0 +1,10 @@
+{
+  "topic":"监控资本主义",
+  "status":"REVISED",
+  "audited":"2026-08-28",
+  "sources":[
+    {"title":"Algorithmic management in the workplace","url":"https://www.oecd.org/en/publications/algorithmic-management-in-the-workplace_287c13c4-en.html","tier":"A"},
+    {"title":"Quality Jobs Act consultation","url":"https://employment-social-affairs.ec.europa.eu/news/commission-opens-second-phase-consultation-quality-jobs-act-2026-07-20_en","tier":"A"},
+    {"title":"Shoshana Zuboff, The Age of Surveillance Capitalism","url":"https://www.hup.harvard.edu/books/9781610395694","tier":"theory"}
+  ]
+}
