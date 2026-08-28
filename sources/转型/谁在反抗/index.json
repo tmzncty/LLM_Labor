@@ -1,0 +1,12 @@
+{
+  "topic": "谁在反抗",
+  "status": "REVISED",
+  "audited": "2026-08-28",
+  "sources": [
+    {"title":"2026 TV/Theatrical Contracts","url":"https://www.sagaftra.org/contracts-industry-resources/contracts/2026-tvtheatrical-contracts","tier":"A"},
+    {"title":"2025 Commercials Contracts","url":"https://www.sagaftra.org/contracts-industry-resources/commercials/2025-commercials-contracts","tier":"A"},
+    {"title":"2026 MBA Contract Changes FAQ","url":"https://www.wga.org/contracts/contracts/mba/2026-mba-contract-changes-faq","tier":"A"},
+    {"title":"Africa Tech Workers Rising, Kenya","url":"https://parispeaceforum.org/projects/africa-tech-workers-rising-kenya/","tier":"A/B"},
+    {"title":"Meta Project OT investigation","url":"https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/","tier":"A/B"}
+  ]
+}
