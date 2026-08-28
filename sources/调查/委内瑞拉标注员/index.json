@@ -1,0 +1,10 @@
+{
+  "topic": "委内瑞拉标注员",
+  "audit_status": "REVISED",
+  "audited_at": "2026-08-28",
+  "sources": [
+    {"title":"Older Venezuelans turn to online gig work amid economic crisis","publisher":"Rest of World","date":"2024","url":"https://restofworld.org/2024/venezuela-online-gig-work/","use":"I.I.使用Remotasks/Appen做AI训练与标注；不同专业背景线上劳动者；个案收入与动机"},
+    {"title":"Scale AI’s Remotasks platform is dropping whole countries without explanation","publisher":"Rest of World","date":"2024-03-28","url":"https://restofworld.org/2024/scale-ai-remotasks-banned-workers/","use":"仅作为平台地域策略风险参照，不直接外推委内瑞拉"}
+  ],
+  "caution": "不得把个案收入写成委内瑞拉标注员平均工资。"
+}
