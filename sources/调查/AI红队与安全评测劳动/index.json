@@ -1,0 +1,12 @@
+{
+  "topic":"AI红队与安全评测劳动",
+  "status":"REVISED",
+  "last_checked":"2026-08-28",
+  "sources":[
+    {"id":"S1","publisher":"Business Insider","title":"How do you stop AI from spreading abuse? Leaked docs show how humans are paid to write it first","date":"2025-04-04","url":"https://www.businessinsider.com/scale-ai-outlier-training-harmful-ai-prompts-2025-04","tier":"B","type":"investigative-reporting","supports":["contract-red-team-work","harmful-prompts","55-dollar-case","opt-out-dispute","wellness-support","worker-lawsuits-context"]},
+    {"id":"S2","publisher":"arXiv","title":"When Testing AI Tests Us: Safeguarding Mental Health on the Digital Frontlines","date":"2025-04-29","url":"https://arxiv.org/abs/2504.20910","tier":"B","type":"research-preprint","supports":["interactional-labor","mental-health-risk-mechanism","protective-practices"]},
+    {"id":"S3","publisher":"Business Insider","title":"Scale AI just made another round of cuts to its workforce after Meta's $14 billion investment","date":"2025-09-08","url":"https://www.businessinsider.com/scale-ai-makes-cuts-to-key-team-after-meta-investment-2025-9","tier":"B","type":"labor-reporting","supports":["red-team-contractor-cuts","contingent-workforce","project-volatility","competing-causal-accounts"]},
+    {"id":"S4","publisher":"arXiv","title":"A Safe Harbor for AI Evaluation and Red Teaming","date":"2024-03-07","url":"https://arxiv.org/abs/2403.04893","tier":"B","type":"research-proposal","supports":["independent-evaluator-access-risk","legal-safe-harbor-proposal"]},
+    {"id":"S5","publisher":"OpenAI","title":"A shared playbook for trustworthy third party evaluations","date":"2026-05-29","url":"https://openai.com/index/trustworthy-third-party-evaluations-foundations/","tier":"A","type":"developer-primary","supports":["third-party-evaluation-role","agentic-evaluation-complexity","environment-and-scaffolding"]}
+  ]
+}
