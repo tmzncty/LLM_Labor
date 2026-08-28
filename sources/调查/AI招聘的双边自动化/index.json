@@ -1,0 +1,10 @@
+{
+  "topic":"AI招聘的双边自动化",
+  "status":"REVISED",
+  "last_checked":"2026-08-28",
+  "sources":[
+    {"id":"S1","publisher":"LinkedIn","title":"LinkedIn Research: Nearly 80% of people feel unprepared to find a job in 2026, as two-thirds of recruiters say it’s harder to find quality talent","date":"2026-01-07","url":"https://news.linkedin.com/en-us/2026/LinkedIn-Research-Talent-2026","tier":"B","type":"platform-data-and-survey","supports":["applications-per-role","candidate-ai-use","recruiter-ai-use","ai-prescreen"]},
+    {"id":"S2","publisher":"Stanford Digital Economy Lab","title":"Algorithmic Monocultures in Hiring","date":"2026-05-26","url":"https://digitaleconomy.stanford.edu/publication/algorithmic-monocultures-in-hiring/","tier":"A","type":"working-paper","supports":["algorithmic-monoculture","racial-disparities","repeated-rejection"]},
+    {"id":"S3","publisher":"Greenhouse","title":"AI interviews in hiring: What candidates actually want — and how to get it right","date":"2026-04-29","url":"https://www.greenhouse.com/blog/2026-candidate-ai-interview-report","tier":"B","type":"industry-survey","supports":["ai-interview-experience","disclosure","candidate-withdrawal"],"note":"Survey of 2,950 job seekers across five countries; not official population statistics."}
+  ]
+}

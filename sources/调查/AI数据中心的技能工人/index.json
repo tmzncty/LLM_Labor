@@ -1,0 +1,12 @@
+{
+  "topic":"AI数据中心的技能工人",
+  "status":"REVISED",
+  "last_checked":"2026-08-28",
+  "sources":[
+    {"id":"S1","publisher":"Reuters","title":"Data center rush worsens shortages of power, grid workers","date":"2026-05-18","url":"https://www.reuters.com/business/energy/data-center-rush-worsens-shortages-power-grid-workers--reeii-2026-05-18/","tier":"A","type":"reporting","supports":["worker-shortage","grid-worker-demand","retirement-risk"]},
+    {"id":"S2","publisher":"LinkedIn Economic Graph","title":"Powering AI: A Deep Dive into the Global Data Center Workforce","date":"2026-02","url":"https://economicgraph.linkedin.com/content/dam/me/economicgraph/en-us/PDF/powering-ai-a-deep-dive-into-the-global-data-center-workforce.pdf","tier":"B","type":"platform-labor-data","supports":["workforce-growth","job-posting-growth","role-mix","skills-paradox"]},
+    {"id":"S3","publisher":"Meta","title":"America’s Workforce Academy: The Future Is for Everyone","date":"2026-06-08","url":"https://about.fb.com/news/2026/06/americas-workforce-academy-free-skilled-trade-training/","tier":"A","type":"company-primary","supports":["115m-training-program","locations","credentials","job-guarantee"]},
+    {"id":"S4","publisher":"Meta","title":"America’s Workforce Academy: No Cost. No Prior Experience Necessary. A Career on the Other Side","date":"2026-08-18","url":"https://about.fb.com/news/2026/08/americas-workforce-academy-meta-skilled-trade-training-program/","tier":"A","type":"company-primary","supports":["first-cohort-graduation"]},
+    {"id":"S5","publisher":"Construction Dive","title":"Construction job openings hit 10-month high in May","date":"2026-07-07","url":"https://www.constructiondive.com/news/construction-job-openings-layoffs-labor-demand/824190/","tier":"B","type":"industry-reporting","supports":["concentrated-demand","construction-caveat"]}
+  ]
+}
