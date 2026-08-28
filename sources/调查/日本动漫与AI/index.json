@@ -1,0 +1,10 @@
+{
+  "topic": "日本动漫与AI",
+  "audit_status": "REVISED",
+  "audited_at": "2026-08-28",
+  "sources": [
+    {"title":"AIと著作権について","publisher":"日本文化庁","date":"2024-2026","url":"https://www.bunka.go.jp/seisaku/chosakuken/aiandcopyright.html","use":"日本AI与著作权解释、检查表和利益相关方对话；反对“无条件允许训练”简化"},
+    {"title":"One in 10 Japanese creatives see income fall due to generative AI","publisher":"The Japan Times","date":"2026-01-21","url":"https://www.japantimes.co.jp/news/2026/01/21/japan/society/ai-creatives-survey/","use":"Freelance League调查：12%受访创作者自报收入因生成AI下降；注明样本与主观归因边界"}
+  ],
+  "removed_claims": ["25560人恐慌调查", "日本动漫行业统一反AI或已被大规模替代"]
+}

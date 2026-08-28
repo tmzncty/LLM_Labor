@@ -1,0 +1,10 @@
+{
+  "topic": "AI与劳动力恐惧",
+  "audit_status": "REVISED",
+  "audited_at": "2026-08-28",
+  "sources": [
+    {"title":"What workers really want from AI","publisher":"Stanford Report","date":"2025-07","url":"https://news.stanford.edu/stories/2025/07/what-workers-really-want-from-ai","use":"1500名美国劳动者对AI自动化、监督和失业的态度"},
+    {"title":"Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence","publisher":"Stanford Digital Economy Lab","date":"2026-08-12","url":"https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/","use":"ADP数据：无全经济广泛替代；22-25岁高暴露职业约19%相对缺口；主要经由少招聘"},
+    {"title":"Canaries, Interest Rates, and Timing","publisher":"Stanford Digital Economy Lab","date":"2026-02-09","url":"https://digitaleconomy.stanford.edu/news/canaries-interest-rates-and-timinga-more-on-recent-drivers-of-employment-changes-for-young-workers/","use":"因果边界与宏观控制"}
+  ]
+}
