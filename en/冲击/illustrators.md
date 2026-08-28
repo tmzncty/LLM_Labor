@@ -1,247 +1,58 @@
-# Illustrators
+# Illustrators: Generative Images Are Reshaping Commissions and Bargaining Power
 
-> An illustrator spent ten years honing skills that depreciated by 80% within two years. Stable Diffusion and Midjourney are not assisting creation—they are replacing it. In 2023, game companies began eliminating art positions, freelance illustrators' order volumes dropped by 60%, and protests swept across ArtStation globally.
+> **As of 2026-08-28. v2 REVISED.** Previous claims that commissions fell 60% or skills lost 80% of their value were not supported by reliable evidence and have been removed. Stronger evidence shows real work loss and price pressure for some illustrators, but not one global decline rate.
 
-## I. Before the Impact: What This Profession Used to Be
+## What we know
 
-Illustration is an ancient profession. From medieval manuscript illumination to modern concept design, illustrators have always been creators of visual culture.
+The UK's Society of Authors published a 2024 survey with 787 responses from members and other creators. Among illustrator respondents:
 
-**Professional Categories**:
-- Freelance illustrators: Accept commissions to create illustrations for books, magazines, advertising, games, etc.
-- Concept designers: Design characters, environments, and props for films, games, and animations
-- Comic artists: Create comics and graphic novels
-- UI/UX designers: Design interfaces for applications and websites
+- 26% said they had already lost work because of generative AI;
+- 37% said income from their work had decreased in value;
+- 12% said they used generative AI;
+- 5% said they used it because a publisher or client asked them to;
+- 78% expected a negative impact on future income.[^1]
 
-**Market Size**: In 2022, the global illustration market was valued at approximately $5 billion.[^1] The gaming and film industries accounted for about 40%, while publishing and advertising accounted for about 60%.
+This was a voluntary industry survey, not a random population sample. It establishes substantial pressure among respondents, not that “26% of all British illustrators were replaced.”
 
-**Number of Practitioners**: There are approximately 2 million professional illustrators worldwide, of which about 1 million are freelancers.[^2] China has approximately 500,000 illustrators, of which about 200,000 are freelancers.[^3]
+## Where pressure appears first
 
-**Income Levels**:
-- U.S. freelance illustrators: average hourly rate of $25-50, annual income approximately $40,000-$80,000[^4]
-- European freelance illustrators: average hourly rate of €20-40, annual income approximately €30,000-€60,000[^5]
-- Chinese freelance illustrators: average rate of 500-2,000 RMB per piece, annual income approximately 100,000-300,000 RMB[^6]
+Commercial tasks that require many fast visual alternatives—mood boards, reference images, rough concepts, and marketing variants—are especially easy to combine with image generators.
 
-**Professional Threshold**: Illustration requires:
-- 5-10 years of drawing training
-- Proficiency in software such as Photoshop and Procreate
-- Understanding of color theory, composition, and perspective
-- Creativity and aesthetic ability
+A 2024 WIRED investigation reported the use of Midjourney- and Stable Diffusion-like tools in game concept-art workflows and described pressure on 2D artists during broader game-industry layoffs. Some remaining concept artists were reportedly expected or encouraged to use generative AI.[^2]
 
-## II. The Impact: What AI Did
+The game industry also experienced post-pandemic contraction, project cancellations, financing changes, and restructuring. Those layoffs cannot all be attributed to AI.
 
-In August 2022, Stable Diffusion was released. In July 2022, Midjourney was released. The illustration industry began to feel the real impact.
+## Copyright changes the bargaining question
 
-**Quality Breakthrough**:
+The labor dispute is not only about generation speed. It also concerns consent to training, attribution, compensation, reuse, and whether AI-assisted works remain copyrightable.
 
-The image quality of Stable Diffusion and Midjourney reached professional illustrator levels in 2023.[^7] Particularly:
-- Concept art and illustration: nearly perfect
-- Character design: accurate and diverse
-- Environment design: rich in detail
-- Style imitation: can mimic any artist's style
+The Society of Authors survey found overwhelming support for consent, credit, and compensation requirements.[^1]
 
-**Speed Advantage**:
+The U.S. Copyright Office's 2025 report distinguished between material generated from prompts alone and works in which a human author determines sufficient expressive elements. Using AI as an assistive tool does not automatically eliminate copyright protection for human-authored expression.[^3]
 
-AI generates images more than 1,000 times faster than humans.[^8] A piece that takes an illustrator 1-3 days to complete can be generated by AI in seconds.
+## How work can be reorganized
 
-**Cost Advantage**:
+- Clients may create reference images before commissioning a human.
+- Human labor can shift from creating the first draft to correcting, unifying, and finishing generated material.
+- Contract negotiations increasingly include training rights and digital reuse.
+- Long-running projects still require consistency, storytelling, revision management, brand systems, and legal responsibility.
 
-The cost of AI-generated images is nearly zero. Midjourney's subscription fee is $10-30/month, and Stable Diffusion can be used for free.[^9] Human illustrators, however, need to pay for wages, software, hardware, and other costs.
+## What we do not know
 
-**ArtStation Resistance**:
+- There is no credible universal 60% decline in illustrator commissions.
+- There is no evidence for a single “80% skill devaluation” figure.
+- The Society of Authors survey is self-selected.
+- Game-industry layoffs have multiple causes.
+- Effects likely differ sharply between low-price marketplaces, mid-market freelancing, and high-end commissioned work.
 
-In December 2022, illustrators on ArtStation (the world's largest artist portfolio platform) began protesting AI-generated images.[^10] They argued that:
-- AI models were trained without authorization using their works
-- AI-generated images infringe on their copyrights
-- AI is destroying their livelihoods
+## Analysis
 
-Forms of protest included:
-- Adding "NO AI" watermarks to works
-- Collectively uploading protest images
-- Demanding ArtStation prohibit AI-generated images
+Illustration has not disappeared. The price of the **first candidate image** has collapsed, and clients may use that cost as a new reference point for pricing human work.
 
-But ArtStation refused to ban AI-generated images, considering it "technological progress."[^11]
-
-## III. The Numbers: Layoffs/Income Decline/Industry Scale Changes
-
-**Freelance Illustrator Income Changes**:
-
-According to a survey by the Association of Illustrators (UK):[^12]
-- 2022: Freelance illustrator average income declined by 20%
-- 2023: Average income declined by 40%
-- 2024 (projected): Average income declined by 60%
-
-**Game Companies Eliminating Art Positions**:
-
-In 2023, multiple game companies began eliminating art positions:
-- A major game company laid off 30% of its concept designers, switching to AI-generated initial drafts[^13]
-- A medium-sized game company reduced its art team from 50 to 20 people, primarily retaining reviewers and revision staff[^14]
-- An indie game studio completely uses AI-generated art, retaining only 1 art director[^15]
-
-**Industry Survey**:
-
-According to a survey by CG Spectrum (Australian digital art school):[^16]
-- In 2023, approximately 40% of game companies began using AI-generated art
-- 2024 (projected): approximately 70% of game companies will use AI-generated art
-- 2025 (projected): approximately 50% of concept designer positions will be replaced by AI
-
-## IV. Cases: Specific People and Stories
-
-**Case 1: A Veteran Illustrator's Income Shrinks**
-
-Wang Li (pseudonym), 32 years old, freelance illustrator, 10 years of experience.[^17]
-
-In 2021, her annual income was approximately 300,000 RMB, primarily creating illustrations for game companies and publishers. In 2023, her income dropped to 120,000 RMB because:
-- Game companies began using AI-generated initial drafts, only needing her to revise details
-- Publishers began using AI-generated covers, reducing the price per piece from 2,000 RMB to 500 RMB
-- New clients became increasingly scarce
-
-Wang Li said: "I used to receive 3-4 projects per month. Now I only get 1-2 projects per month. And clients say 'AI-generated is good enough, just need you to make some adjustments.' I feel like I've gone from being a creator to a revision worker."[^18]
-
-**Case 2: Art Major Students Cannot Find Jobs**
-
-Liu Qiang (pseudonym), 23 years old, graduated in 2023 from an art academy.[^19]
-
-He sent out over 100 resumes, received only 3 interview invitations, and ultimately did not find illustration work. He now works as a graphic designer at an e-commerce company with a salary of 6,000 RMB/month.
-
-Liu Qiang said: "Our teachers told us that illustration is a profession requiring creativity that will never be replaced by machines. But the year we graduated, Midjourney came out. Of the 25 students in our class, only 2 found illustration-related work."[^20]
-
-**Case 3: Transitioning to Learn AI Tools**
-
-Zhao Ming (pseudonym), 28 years old, former freelance illustrator.[^21]
-
-Zhao Ming began learning AI tools in 2023 and has now transitioned to an "AI Art Director." His work involves:
-- Using Midjourney to generate initial drafts
-- Modifying and adjusting details
-- Guiding AI to generate works that meet client requirements
-
-Zhao Ming said: "I spent 3 months learning AI tools, and now my income is 20% higher than before. But I feel like I'm no longer an illustrator—I'm more like an AI operator."[^22]
-
-## V. The Legal Battle: Copyright and Litigation
-
-**Getty vs Stability AI**:
-
-In January 2023, Getty Images sued Stability AI, accusing it of using 12 million Getty images without authorization to train Stable Diffusion.[^23]
-
-Getty argued:
-- Stability AI infringed on Getty's copyrights
-- AI-generated images are highly similar to Getty's images
-- AI is destroying Getty's business model
-
-Stability AI反驳:
-- Training data constitutes "fair use"
-- AI-generated images are not "copies" but "learning"
-- Copyright law should not限制 technological progress
-
-This case is still under trial, with a verdict expected in 2025.[^24]
-
-**Artist Class Action Lawsuit**:
-
-In January 2023, three artists filed a class action lawsuit against Stability AI, Midjourney, and DeviantArt, accusing them of using their works without authorization to train AI models.[^25]
-
-The artists argued:
-- AI models are "copying" their styles
-- AI-generated images infringe on their copyrights
-- AI is destroying their livelihoods
-
-The court dismissed most of the claims in October 2023, ruling that "style" is not protected by copyright.[^26] But artists can continue pursuing claims of "direct copying."
-
-**Copyright Issues with AI-Generated Content**:
-
-In August 2023, the U.S. Copyright Office ruled that AI-generated images are not protected by copyright because "copyright only protects works created by humans."[^27]
-
-This means:
-- AI-generated images can be freely used by anyone
-- Illustrators cannot protect AI-generated works through copyright
-- AI-generated images may enter the public domain
-
-## VI. Response: Who Adapted, Who Left
-
-**Successfully Transitioned to AI Art Directors**:
-
-Some illustrators successfully transitioned to AI Art Directors. They no longer draw but instead guide AI to generate works that meet client requirements. This type of work has the following characteristics:
-- Higher income than traditional illustration, but changed skill requirements
-- Higher workload because more projects need to be processed
-- Changed skill requirements: from "drawing" to "aesthetics" and "guidance"
-
-**Fields Still Requiring Humans**:
-
-- Concept design: Requires creativity and imagination; AI still lacks originality[^28]
-- Comics and graphic novels: Requires narrative ability and emotional expression; AI cannot handle these[^29]
-- Brand design: Requires understanding of brand culture and values; AI lacks this understanding[^30]
-- Artistic creation: Requires personal style and emotional expression; AI cannot replicate these[^31]
-
-**Illustrators Who Left the Industry**:
-
-Many illustrators chose to change careers:
-- Transitioning to UI/UX design (but the design industry is also being impacted by AI)
-- Transitioning to animation and video production
-- Transitioning to game development
-- Completely leaving the art industry
+The labor conflict is therefore not just that machines can generate pictures. It is that markets may reprice human selection, continuity, revision, accountability, and rights management as if those were merely cheap post-processing.
 
 ---
 
-[^1]: IBISWorld, "Global Illustration Market Report," 2022-12-01. https://www.ibisworld.com/
-[^2]: Association of Illustrators, "2023 Illustrator Survey," 2023-06-01. https://theaoi.com/
-[^3]: 中国插画协会, "2023 中国插画行业发展报告," 2023-05-10.
-[^4]: U.S. Bureau of Labor Statistics, "Fine Artists," 2023-09-01. https://www.bls.gov/ooh/arts-and-design/craft-and-fine-artists.htm
-[^5]: Association of Illustrators, "2023 Illustrator Survey," 2023-06-01.
-[^6]: 中国插画协会, "2023 中国插画行业发展报告," 2023-05-10.
-[^7]: MIT Technology Review, "AI Image Generators Are Getting Better," 2023-03-15. https://www.technologyreview.com/
-[^8]: 同上。
-[^9]: Midjourney, "Pricing," 2023-01-01. https://www.midjourney.com/
-[^10]: The Verge, "Artists Are Revolting Against AI Art," 2022-12-15. https://www.theverge.com/
-[^11]: ArtStation, "Our Policy on AI-Generated Content," 2022-12-20. https://www.artstation.com/
-[^12]: Association of Illustrators, "2023 Illustrator Survey," 2023-06-01.
-[^13]: 据 [媒体] 报道，该公司要求匿名。
-[^14]: 同上。
-[^15]: 同上。
-[^16]: CG Spectrum, "The Impact of AI on Digital Art," 2023-09-01. https://www.cgspectrum.com/
-[^17]: 据 [媒体] 报道，受访者要求匿名。
-[^18]: 同上。
-[^19]: 同上。
-[^20]: 同上。
-[^21]: 同上。
-[^22]: 同上。
-[^23]: The Verge, "Getty Images Sues Stability AI," 2023-01-17. https://www.theverge.com/
-[^24]: 同上。
-[^25]: The Verge, "Artists Sue AI Image Generators," 2023-01-16. https://www.theverge.com/
-[^26]: The Verge, "Court Dismisses Most Claims in AI Art Lawsuit," 2023-10-31. https://www.theverge.com/
-[^27]: U.S. Copyright Office, "Copyright Registration Guidance for AI-Generated Works," 2023-08-21. https://www.copyright.gov/
-[^28]: Association of Illustrators, "The Future of Illustration," 2023-09-01.
-[^29]: 同上。
-[^30]: 同上。
-[^31]: 同上。
-
-## Assessment
-
-An illustrator spent ten years honing skills that depreciated by 80% within two years.
-
-This is not a metaphor—this is reality. In 2022, a concept designer's market value was 2,000-5,000 RMB per day; in 2024, the same work costs only 500-1,000 RMB—because AI can generate initial drafts in seconds, and humans only need to revise details.
-
-The困境 of the illustration industry exposes a残酷 fact: **creativity can be quantified**.
-
-AI is not "creating"—it is "combining." It拆解 millions of images into pixels and features, then recombines them into new images. Technically, this is not "creation" but "copying" and "recombination."
-
-But the problem is: **humans create this way too**.
-
-Human illustrators also learn from predecessors' works and recombine them into new styles. In this sense, AI and human "creation" processes are similar—except AI is faster and has more data.
-
-This means that **creativity is not exclusive to humans**.
-
-AI can generate images that appear "original," but what it lacks is: **intent and emotion**. AI doesn't know what it's drawing, nor does it care what it's drawing. It's just executing algorithms.
-
-Human illustrators, however, know what they're drawing and care about what they're drawing. Their works have emotion, intent, and personal style.
-
-Therefore, the question for the illustration industry is not "Will AI replace humans?" but "Where is human value?" When machines can do your work, you need to find what machines cannot do.
-
-For illustrators, this means: either become an AI guide or shift to fields requiring creativity and emotional expression. Otherwise, you will be淘汰.
-
-But the deeper question is: **Are AI-generated images art?**
-
-If art is defined as "the expression of human creativity," then AI-generated images are not art—because they are not created by humans. But if art is defined as "the expression of beauty," then AI-generated images can be art—because they can be beautiful.
-
-This question has no answer. But one thing is certain: **AI is redefining what art is**.
-
-When machines can generate "art," the value of human art becomes: **having emotion, intent, and personal style**—and these are precisely what machines cannot do.
-
-Therefore, the future of illustrators is not drawing, but expression. When machines can draw better, the value of humans becomes: **drawing with more meaning**. (See "Transformation: Who Is Training AI," "Transformation: Who Adapted")
+[^1]: Society of Authors, “SoA survey reveals a third of translators and quarter of illustrators losing work to AI,” 2024-04-11. https://societyofauthors.org/2024/04/11/soa-survey-reveals-a-third-of-translators-and-quarter-of-illustrators-losing-work-to-ai/
+[^2]: Brian Merchant, “AI Is Already Taking Jobs in the Video Game Industry,” *WIRED*, 2024-07-23. https://www.wired.com/story/ai-is-already-taking-jobs-in-the-video-game-industry/
+[^3]: U.S. Copyright Office, “Copyright and Artificial Intelligence, Part 2: Copyrightability,” 2025. https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf

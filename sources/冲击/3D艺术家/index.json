@@ -1,8 +1,10 @@
 {
-  "topic": "3D艺术家",
-  "sources": [
-    { "title": "How AI Is Changing 3D Art (The Verge)", "url": "https://www.theverge.com/", "date": "2024", "credibility": "high" },
-    { "title": "State of the Game Industry (GDC)", "url": "https://gdconf.com/", "date": "2024", "credibility": "high" },
-    { "title": "Global Games Market Report (Newzoo)", "url": "https://newzoo.com/", "date": "2024", "credibility": "high" }
-  ]
+  "topic":"3D艺术家",
+  "last_checked":"2026-08-28",
+  "sources":[
+    {"id":"S1","publisher":"GDC","title":"2025 State of the Game Industry: Devs Weigh In on Layoffs, AI, and More","date":"2025","url":"https://gdconf.com/article/gdc-2025-state-of-the-game-industry-devs-weigh-in-on-layoffs-ai-and-more/","tier":"A","type":"industry-survey","status":"live","supports":["company-ai-adoption","personal-ai-use"]},
+    {"id":"S2","publisher":"GDC","title":"GDC 2026 State of the Game Industry Reveals Impact of Layoffs, Generative AI, and More","date":"2026","url":"https://gdconf.com/article/gdc-2026-state-of-the-game-industry-reveals-impact-of-layoffs-generative-ai-and-more/","tier":"A","type":"industry-survey","status":"live","supports":["negative-attitudes","visual-technical-art-attitudes"]},
+    {"id":"S3","publisher":"WIRED","title":"AI Is Already Taking Jobs in the Video Game Industry","date":"2024-07-23","url":"https://www.wired.com/story/ai-is-already-taking-jobs-in-the-video-game-industry/","tier":"B","type":"investigative-reporting","status":"live","supports":["concept-art-ai","2d-art-layoffs-context","3d-animation-harder-to-automate"]}
+  ],
+  "retracted_legacy_claims":["30-50% concept order decline","20-30% junior 3D hiring decline","15-20% 3D artist income decline","fabricated anonymous interviewees"]
 }

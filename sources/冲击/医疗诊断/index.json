@@ -1,9 +1,11 @@
 {
-  "topic": "医疗诊断",
-  "sources": [
-    { "title": "AI in Healthcare (McKinsey)", "url": "https://www.mckinsey.com/", "date": "2024", "credibility": "high" },
-    { "title": "AlphaFold (DeepMind)", "url": "https://www.deepmind.com/", "date": "2024", "credibility": "high" },
-    { "title": "FDA AI/ML-Enabled Medical Devices", "url": "https://www.fda.gov/", "date": "2024", "credibility": "high" },
-    { "title": "Ethics and Governance of AI for Health (WHO)", "url": "https://www.who.int/", "date": "2021", "credibility": "high" }
-  ]
+  "topic":"医疗诊断",
+  "last_checked":"2026-08-28",
+  "sources":[
+    {"id":"S1","publisher":"U.S. FDA","title":"Artificial Intelligence-Enabled Medical Devices","date":null,"url":"https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-enabled-medical-devices","tier":"A","type":"regulator-primary","status":"live","supports":["authorized-devices","intended-use-regulation"]},
+    {"id":"S2","publisher":"npj Digital Medicine","title":"Systematic review and meta-analysis of generative AI diagnostic performance","date":"2025","url":"https://www.nature.com/articles/s41746-025-01543-z","tier":"A","type":"peer-reviewed-meta-analysis","status":"live","supports":["52.1-percent-overall","expert-physician-gap","bias-risk"]},
+    {"id":"S3","publisher":"npj Digital Medicine","title":"Impact of artificial intelligence on radiology workload: a systematic review and meta-analysis","date":"2024","url":"https://www.nature.com/articles/s41746-024-01328-w","tier":"A","type":"peer-reviewed-meta-analysis","status":"live","supports":["reading-time","workload-redesign"]},
+    {"id":"S4","publisher":"JAMA","title":"Randomized clinical-vignette study of diagnostic decision-making with systematically biased AI","date":"2023","url":"https://jamanetwork.com/journals/jama/fullarticle/2812908","tier":"A","type":"peer-reviewed-randomized-study","status":"live","supports":["biased-ai-harm","human-oversight-limit"]}
+  ],
+  "retracted_legacy_claims":["AI broadly outperforms radiologists","AI broadly outperforms dermatologists","fabricated doctor and patient stories"]
 }

@@ -1,0 +1,18 @@
+{
+  "topic":"AI裁员时间线",
+  "last_checked":"2026-08-28",
+  "title_note":"The article now distinguishes completed layoffs, planned reductions, hiring freezes, workload equivalents, and skills-mix restructuring.",
+  "sources":[
+    {"id":"S1","publisher":"Reuters","date":"2023-05-01","url":"https://www.reuters.com/technology/ibm-pause-hiring-plans-replace-7800-jobs-with-ai-bloomberg-news-2023-05-01/","tier":"B","supports":["ibm-hiring-pause","7800-forecast"]},
+    {"id":"S2","publisher":"Reuters","date":"2023-05-18","url":"https://www.reuters.com/business/media-telecom/bt-meets-expectations-with-5-rise-full-year-earnings-2023-05-18/","tier":"B","supports":["bt-55000-plan","multi-causal"]},
+    {"id":"S3","publisher":"Klarna / PR Newswire","date":"2024-02-27","url":"https://www.prnewswire.com/news-releases/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month-302072744.html","tier":"A","supports":["klarna-700-work-equivalent"]},
+    {"id":"S4","publisher":"Reuters","date":"2024-07-10","url":"https://www.reuters.com/technology/intuit-cut-about-1800-jobs-2024-07-10/","tier":"B","supports":["intuit-1800","rehiring-plan"]},
+    {"id":"S5","publisher":"Reuters","date":"2025-05-12","url":"https://www.reuters.com/world/americas/chegg-lay-off-22-workforce-ai-tools-shake-up-edtech-industry-2025-05-12/","tier":"B","supports":["chegg-248","ai-demand-pressure"]},
+    {"id":"S6","publisher":"Reuters","date":"2025-09-03","url":"https://www.reuters.com/sustainability/sustainable-finance-reporting/salesforce-forecasts-weak-current-quarter-revenue-shares-fall-2025-09-03/","tier":"B","supports":["salesforce-4000","ceo-ai-attribution"]},
+    {"id":"S7","publisher":"Reuters","date":"2026-01-28","url":"https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/","tier":"B","supports":["amazon-16000","multi-causal"]},
+    {"id":"S8","publisher":"Reuters","date":"2026-05-20","url":"https://www.reuters.com/legal/legalindustry/dont-fight-ai-hsbc-ceo-tells-staff-banks-begin-job-cuts-2026-05-20/","tier":"B","supports":["standard-chartered-plan"]},
+    {"id":"S9","publisher":"Reuters","date":"2026-07-13","url":"https://www.reuters.com/legal/litigation/thomson-reuters-cut-small-number-engineering-jobs-2026-07-13/","tier":"B","supports":["thomson-reuters-cuts","new-ai-specialized-hiring"]},
+    {"id":"S10","publisher":"Reuters","date":"2026-08-26","url":"https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/","tier":"B","supports":["meta-ai-native-restructure","counterevidence"]}
+  ],
+  "retracted_legacy_claims":["single AI-relatedness score","fake 2026 Big Four combined layoffs","fake translation-sector aggregate layoffs","summing forecasts and layoffs as one total"]
+}

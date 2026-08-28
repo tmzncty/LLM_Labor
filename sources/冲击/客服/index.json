@@ -1,9 +1,11 @@
 {
-  "topic": "客服",
-  "sources": [
-    { "title": "Klarna AI Assistant Handles Two-Thirds of Customer Service Chats", "url": "https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/", "date": "2024-02-27", "credibility": "high" },
-    { "title": "BT to Cut Up to 55,000 Jobs (Financial Times)", "url": "https://www.ft.com/", "date": "2023-05-18", "credibility": "high" },
-    { "title": "The Potentially Large Effects of AI on Economic Growth (Goldman Sachs)", "url": "https://www.goldmansachs.com/", "date": "2023-03-26", "credibility": "high" },
-    { "title": "Future of Jobs Report 2023 (WEF)", "url": "https://www.weforum.org/", "date": "2023-05-01", "credibility": "high" }
-  ]
+  "topic":"客服",
+  "last_checked":"2026-08-28",
+  "sources":[
+    {"id":"S1","publisher":"Klarna / PR Newswire","title":"Klarna AI assistant handles two-thirds of customer service chats in its first month","date":"2024-02-27","url":"https://www.prnewswire.com/news-releases/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month-302072744.html","tier":"A","type":"company-primary","status":"live","supports":["2.3m-conversations","two-thirds","700-fte-work-equivalent","company-quality-metrics"]},
+    {"id":"S2","publisher":"TechCrunch","title":"Klarna CEO says company will use humans to offer VIP customer service","date":"2025-06-04","url":"https://techcrunch.com/2025/06/04/klarna-ceo-says-company-will-use-humans-to-offer-vip-customer-service/","tier":"B","type":"reporting","status":"live","supports":["human-service-return","workforce-change-ceo-account"]},
+    {"id":"S3","publisher":"U.S. Bureau of Labor Statistics","title":"Customer Service Representatives","date":null,"url":"https://www.bls.gov/ooh/office-and-administrative-support/customer-service-representatives.htm","tier":"A","type":"government-projection","status":"live","supports":["2024-2034-employment-decline","annual-openings","automation-context"]},
+    {"id":"S4","publisher":"Reuters","title":"Salesforce forecasts weak current-quarter revenue, shares fall","date":"2025-09-03","url":"https://www.reuters.com/sustainability/sustainable-finance-reporting/salesforce-forecasts-weak-current-quarter-revenue-shares-fall-2025-09-03/","tier":"B","type":"reporting","status":"live","supports":["salesforce-support-cuts","ceo-ai-attribution"]}
+  ],
+  "retracted_legacy_claims":["Klarna fired exactly 700 customer-service workers because of AI","fabricated anonymous customer-service interviews"]
 }

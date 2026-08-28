@@ -1,9 +1,10 @@
 {
-  "topic": "插画师",
-  "sources": [
-    { "title": "Artists Are Revolting Against AI Art on ArtStation (The Verge)", "url": "https://www.theverge.com/", "date": "2022-12-15", "credibility": "high" },
-    { "title": "Getty Images Sues Stability AI (The Verge)", "url": "https://www.theverge.com/", "date": "2023-01-17", "credibility": "high" },
-    { "title": "Artists Sue AI Image Generators (The Verge)", "url": "https://www.theverge.com/", "date": "2023-01-16", "credibility": "high" },
-    { "title": "Copyright Registration Guidance for AI-Generated Works (U.S. Copyright Office)", "url": "https://www.copyright.gov/", "date": "2023-08-21", "credibility": "high" }
-  ]
+  "topic":"插画师",
+  "last_checked":"2026-08-28",
+  "sources":[
+    {"id":"S1","publisher":"Society of Authors","title":"SoA survey reveals a third of translators and quarter of illustrators losing work to AI","date":"2024-04-11","url":"https://societyofauthors.org/2024/04/11/soa-survey-reveals-a-third-of-translators-and-quarter-of-illustrators-losing-work-to-ai/","tier":"A","type":"professional-association-survey","status":"live","supports":["26-percent-lost-work","37-percent-income-value","usage","future-concern"]},
+    {"id":"S2","publisher":"WIRED","title":"AI Is Already Taking Jobs in the Video Game Industry","date":"2024-07-23","url":"https://www.wired.com/story/ai-is-already-taking-jobs-in-the-video-game-industry/","tier":"B","type":"investigative-reporting","status":"live","supports":["concept-art-workflow","2d-art-pressure","automation-as-deskilling"]},
+    {"id":"S3","publisher":"U.S. Copyright Office","title":"Copyright and Artificial Intelligence, Part 2: Copyrightability","date":"2025-01-29","url":"https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf","tier":"A","type":"government-report","status":"live","supports":["ai-assisted-copyrightability","prompting-limit"]}
+  ],
+  "retracted_legacy_claims":["60% global commission decline","80% skill devaluation","fabricated anonymous illustrator stories"]
 }
