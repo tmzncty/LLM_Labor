@@ -1,9 +1,12 @@
 {
   "topic": "会计",
+  "audit_status": "REVISED",
+  "audited_at": "2026-08-28",
   "sources": [
-    { "title": "AI in Accounting (Deloitte)", "url": "https://www.deloitte.com/", "date": "2024", "credibility": "high" },
-    { "title": "Big Four Cut Thousands of Jobs Amid AI Shift (Financial Times)", "url": "https://www.ft.com/", "date": "2024-06-01", "credibility": "high" },
-    { "title": "Accountants and Auditors (U.S. BLS)", "url": "https://www.bls.gov/", "date": "2024", "credibility": "high" },
-    { "title": "AICPA 2024 Trends Report", "url": "https://www.aicpa.org/", "date": "2024-01-01", "credibility": "high" }
+    {"title":"Accountants and Auditors","publisher":"U.S. Bureau of Labor Statistics","date":"2026-08-27","url":"https://www.bls.gov/ooh/Business-and-Financial/Accountants-and-auditors.htm","use":"2025-35增长5%；例行任务自动化但整体需求预计不降"},
+    {"title":"Bookkeeping, Accounting, and Auditing Clerks","publisher":"U.S. Bureau of Labor Statistics","date":"2026-08-27","url":"https://www.bls.gov/ooh/Office-and-Administrative-Support/Bookkeeping-accounting-and-auditing-clerks.htm","use":"2025-35下降6%，技术自动化压缩文员层"},
+    {"title":"Big Four post more job ads for AI specialists than auditors","publisher":"Financial Times","date":"2026","url":"https://www.ft.com/content/46f3bb0e-7e6f-451a-af5e-b1c820ffaa71","use":"四大招聘技能结构变化；广告不等于实际录用"},
+    {"title":"FRC publishes landmark guidance providing clarity to audit profession on the uses of AI","publisher":"Financial Reporting Council","date":"2025-06-26","url":"https://www.frc.org.uk/news-and-events/news/2025/06/frc-publishes-landmark-guidance-providing-clarity-to-audit-profession-on-the-uses-of-ai/","use":"AI in audit监管与工具认证"},
+    {"title":"Generative and Agentic AI Guidance","publisher":"Financial Reporting Council","date":"2026-03-30","url":"https://www.frc.org.uk/news-and-events/news/2026/03/innovative-new-guidance-supports-audit-firm-adoption-of-emerging-ai-technologies/","use":"agentic AI审计质量和专业判断边界"}
   ]
 }

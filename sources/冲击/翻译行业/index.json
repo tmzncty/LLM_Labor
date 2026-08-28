@@ -1,9 +1,10 @@
 {
   "topic": "翻译行业",
+  "audit_status": "REVISED",
+  "audited_at": "2026-08-28",
   "sources": [
-    { "title": "Slator 2023 Language Industry Market Report", "url": "https://slator.com/2023-language-industry-market-report/", "date": "2023-03-15", "credibility": "high" },
-    { "title": "ProZ.com 2023 Freelance Translator Survey", "url": "https://www.proz.com/", "date": "2023-06-01", "credibility": "high" },
-    { "title": "Human-Level Performance on Professional Translations (Microsoft)", "url": "https://arxiv.org/abs/2303.16495", "date": "2023-03-20", "credibility": "high" },
-    { "title": "Interpreters and Translators (U.S. BLS)", "url": "https://www.bls.gov/ooh/media-and-communication/interpreters-and-translators.htm", "date": "2023-09-01", "credibility": "high" }
+    {"title":"SoA survey reveals a third of translators and quarter of illustrators losing work to AI","publisher":"Society of Authors","date":"2024-04-11","url":"https://societyofauthors.org/2024/04/11/soa-survey-reveals-a-third-of-translators-and-quarter-of-illustrators-losing-work-to-ai/","use":"自愿行业调查：36%译者受访者称丢单，43%称收入下降；不得外推全球"},
+    {"title":"Stand in solidarity with human translators","publisher":"Society of Authors","date":"2025-06-23","url":"https://societyofauthors.org/2025/06/23/stand-in-solidarity-with-human-translators/","use":"2025行业组织后续立场"},
+    {"title":"Compensation Survey, Sixth Edition","publisher":"American Translators Association","date":"2025-02","url":"https://www.atanet.org/wp-content/uploads/2025/02/Compensation-Survey-Sixth-Edition.pdf","use":"自由译者服务组合中PEMT出现；样本175，明确边界"}
   ]
 }
