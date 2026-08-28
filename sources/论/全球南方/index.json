@@ -1,0 +1,10 @@
+{
+  "topic":"全球南方",
+  "status":"REVISED",
+  "audited":"2026-08-28",
+  "sources":[
+    {"title":"Generative AI and Jobs: Refined Global Index","url":"https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure","tier":"A"},
+    {"title":"ILO Artificial intelligence and work","url":"https://www.ilo.org/topics-and-sectors/artificial-intelligence","tier":"A"},
+    {"title":"Africa AI labor supply chain","url":"../../调查/非洲AI劳动供应链/index.json","tier":"internal-revised"}
+  ]
+}

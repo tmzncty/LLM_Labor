@@ -1,0 +1,11 @@
+{
+  "topic":"数据殖民主义",
+  "status":"REVISED",
+  "audited":"2026-08-28",
+  "sources":[
+    {"title":"The Costs of Connection","url":"https://www.sup.org/books/title/?id=28816","tier":"theory"},
+    {"title":"Africa AI labor supply chain","url":"../../调查/非洲AI劳动供应链/index.json","tier":"internal-revised"},
+    {"title":"Scale AI outsourcing","url":"../../调查/ScaleAI外包体系/index.json","tier":"internal-revised"},
+    {"title":"MTurk and crowdwork","url":"../../调查/MTurk与众包劳动/index.json","tier":"internal-revised"}
+  ]
+}
