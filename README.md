@@ -6,9 +6,9 @@
 
 LLM Labor 是持续维护的 **AI 劳动史料库**，不是“AI 会不会抢工作”的观点合集。
 
-**版本：2026-08-28 v2 · 首轮全仓审计完成**  
-**55 条目：53 REVISED / 2 HOLD / 0 UNREVIEWED。**  
-分类：调查 14 / 冲击 17 / 转型 10 / 论 8 / 表 6。
+**版本：2026-08-28 v2 · 首轮全仓审计完成，已进入增量维护**  
+**57 条目：55 REVISED / 2 HOLD / 0 UNREVIEWED。**  
+分类：调查 16 / 冲击 17 / 转型 10 / 论 8 / 表 6。
 
 > **从 2026-08-28 起，不新增以中国为研究对象的公司、政策、劳动市场、劳动者或行业案例。** 见 [`SCOPE.md`](SCOPE.md)。
 
@@ -22,7 +22,7 @@ LLM Labor 是持续维护的 **AI 劳动史料库**，不是“AI 会不会抢�
 1. [阿联酋 AI 监控](调查/阿联酋AI监控.md) — 缺少把具体职场 AI 系统与劳动者管理直接连接起来的证据链。
 2. [谁离开了](转型/谁离开了.md) — 缺少可区分 AI 因果、主动转岗、失业和退出劳动力市场的纵向去向数据。
 
-## 调查（14）
+## 调查（16）
 
 - [肯尼亚标注员](调查/肯尼亚标注员.md)
 - [Scale AI 外包体系](调查/ScaleAI外包体系.md)
@@ -38,6 +38,8 @@ LLM Labor 是持续维护的 **AI 劳动史料库**，不是“AI 会不会抢�
 - [非洲 AI 劳动供应链](调查/非洲AI劳动供应链.md)
 - [体育数据标注员](调查/体育数据标注员.md)
 - [Outlier 任务工](调查/Outlier任务工.md)
+- [AI 训练平台的数据风险：Mercor 2026](调查/AI训练平台的数据风险.md)
+- [Spirit 员工数据交易](调查/Spirit员工数据交易.md)
 
 ## 冲击（17）
 
@@ -100,8 +102,8 @@ LLM Labor 是持续维护的 **AI 劳动史料库**，不是“AI 会不会抢�
 - [`00_体例.md`](00_体例.md) — 写作体例
 - [`docs/CLAIM_STANDARD.md`](docs/CLAIM_STANDARD.md) — claim 分级
 - [`docs/SOURCE_WORKFLOW.md`](docs/SOURCE_WORKFLOW.md) — 来源工作流
-- [`docs/AUDIT_LEDGER.md`](docs/AUDIT_LEDGER.md) — 55 条目最终状态
-- [`docs/AUDIT_COMPLETION_2026-08-28.md`](docs/AUDIT_COMPLETION_2026-08-28.md) — 本轮全仓审计说明
+- [`docs/AUDIT_LEDGER.md`](docs/AUDIT_LEDGER.md) — 当前条目状态
+- [`docs/AUDIT_COMPLETION_2026-08-28.md`](docs/AUDIT_COMPLETION_2026-08-28.md) — 55 条目首轮全仓审计历史快照
 - [`IMPLEMENTATION_PLAN.md`](IMPLEMENTATION_PLAN.md) — 后续维护计划
 - [`PROMPT.md`](PROMPT.md) — 后续 Agent 维护提示
 - [`AGENTS.md`](AGENTS.md) — Agent 硬约束
@@ -134,4 +136,4 @@ LLM Labor 是持续维护的 **AI 劳动史料库**，不是“AI 会不会抢�
 
 ## License
 
-待定。
+待定.
