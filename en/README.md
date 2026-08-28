@@ -4,11 +4,11 @@
 
 > **AI is not laborless.** This repository documents the people who train models, moderate content, review agents, enter changing occupations, and negotiate the conditions under which AI is used.
 
-LLM Labor is maintained as an **AI labor archive** rather than a prediction blog.
+LLM Labor is maintained as an **AI labor archive**, not a prediction blog.
 
 **Version: 2026-08-28 v2**  
-**55 formal articles: 14 investigations / 17 impact / 10 transitions / 8 essays / 6 data tables.**  
-**18 are v2 REVISED; 37 historical articles remain in the audit queue.** See [`../docs/AUDIT_LEDGER.md`](../docs/AUDIT_LEDGER.md).
+**55 entries: 14 investigations / 17 impact / 10 transitions / 8 essays / 6 data tables.**  
+**25 are v2 REVISED; 1 is HOLD; 29 remain UNREVIEWED.** See [`../docs/AUDIT_LEDGER.md`](../docs/AUDIT_LEDGER.md).
 
 > **From 2026-08-28 onward, do not add China-mainland-centered topics.** See [`../SCOPE.md`](../SCOPE.md).
 
@@ -26,76 +26,43 @@ LLM Labor is maintained as an **AI labor archive** rather than a prediction blog
 ## Investigations (14)
 
 - [Kenyan Labelers](调查/kenya-labelers.md) — **v2**
-- [Scale AI Outsourcing](调查/scale-ai-outsourcing.md)
-- [Content Moderators](调查/content-moderators.md)
-- [MTurk and Crowdwork](调查/mturk-crowdwork.md)
-- [UAE AI Surveillance](调查/uae-ai-surveillance.md)
+- [Scale AI Outsourcing](调查/scale-ai-outsourcing.md) — **v2**
+- [Content Moderators](调查/content-moderators.md) — **v2**
+- [MTurk and Crowdwork](调查/mturk-crowdwork.md) — **v2**
+- [UAE AI Surveillance](调查/uae-ai-surveillance.md) — **HOLD: insufficient evidence chain**
 - [Psychological Cost of Labeling](调查/psychological-cost-labeling.md) — **v2**
-- [LLM Carbon Emissions](调查/llm-carbon-emissions.md)
-- [AI and Labor Fear](调查/ai-labor-fear.md)
-- [Anime vs AI in Japan](调查/anime-vs-ai-japan.md)
-- [Venezuelan Labelers](调查/venezuela-labelers.md)
+- [LLM Energy and Infrastructure Labor](调查/llm-carbon-emissions.md) — **v2**
+- [AI and Labor-Market Fear](调查/ai-labor-fear.md) — **v2**
+- [Japanese Anime, Manga and Generative AI](调查/anime-vs-ai-japan.md) — **v2**
+- [Venezuelan Data Workers](调查/venezuela-labelers.md) — **v2**
 - [Expert AI Trainers](调查/expert-ai-trainers.md) — **v2**
 - [Africa's AI Labor Supply Chain](调查/african-ai-labor-supply-chain.md) — **v2**
 - [Sports Data Annotators](调查/sports-data-annotators.md) — **v2**
 - [Outlier Taskers](调查/outlier-taskers.md) — **v2**
 
+> Historical investigation audit is complete: 13 REVISED, 1 HOLD.
+
 ## Impact (17)
 
-- [Translation Industry](冲击/translation-industry.md)
-- [Illustrators](冲击/illustrators.md) — **v2**
-- [Customer Service](冲击/customer-service.md) — **v2**
-- [Junior Programmers](冲击/junior-programmers.md) — **v2**
-- [Journalists](冲击/journalists.md)
-- [Accounting](冲击/accounting.md)
-- [Legal Assistants](冲击/legal-assistants.md)
-- [Musicians](冲击/musicians.md)
-- [Medical Diagnostics](冲击/medical-diagnostics.md) — **v2**
-- [3D Artists](冲击/3d-artists.md) — **v2**
-- [Teachers](冲击/teachers.md)
-- [Financial Analysts](冲击/financial-analysts.md)
-- [Architects](冲击/architects.md)
-- [Counselors](冲击/counselors.md)
-- [Human Resources](冲击/human-resources.md)
-- [Entry-Level Jobs](冲击/entry-level-jobs.md) — **v2**
-- [India's IT Services Industry](冲击/india-it-services.md) — **v2**
+Revised: [Illustrators](冲击/illustrators.md), [Customer Service](冲击/customer-service.md), [Junior Programmers](冲击/junior-programmers.md), [Medical Diagnostics](冲击/medical-diagnostics.md), [3D Artists](冲击/3d-artists.md), [Entry-Level Jobs](冲击/entry-level-jobs.md), and [India's IT Services Industry](冲击/india-it-services.md). Ten historical impact articles remain UNREVIEWED.
 
 ## Transitions (10)
 
-- [Who Is Fighting Back](转型/who-is-fighting-back.md)
-- [Who Left](转型/who-left.md)
-- [Who Adapted](转型/who-adapted.md)
-- [Who Trains AI](转型/who-trains-ai.md)
-- [Who Regulates](转型/who-regulates.md)
-- [Who Is Forgotten](转型/who-is-forgotten.md)
-- [Who Embraces AI](转型/who-embraces-ai.md)
-- [Labelers' Awakening](转型/labelers-awakening.md)
-- [AI Supervision and Review Work](转型/ai-supervision-and-review.md) — **v2**
-- [AI in Collective Bargaining](转型/ai-in-collective-bargaining.md) — **v2**
+[AI Supervision and Review Work](转型/ai-supervision-and-review.md) and [AI in Collective Bargaining](转型/ai-in-collective-bargaining.md) are **v2**; eight historical transition articles remain UNREVIEWED.
 
 ## Essays (8)
 
-- [Labor Justice](论/labor-justice.md)
-- [Global South](论/global-south.md)
-- [Surveillance Capitalism](论/surveillance-capitalism.md)
-- [Data Colonialism](论/data-colonialism.md)
-- [Critique of Technological Determinism](论/tech-determinism-critique.md)
-- [Digital Labor](论/digital-labor.md)
-- [The Hypocrisy of AI Ethics](论/ai-ethics-hypocrisy.md)
-- [From Substitution to Organizational Redesign](论/from-substitution-to-organizational-redesign.md) — **v2**
+[From Substitution to Organizational Redesign](论/from-substitution-to-organizational-redesign.md) is **v2**; seven historical essays remain UNREVIEWED.
 
 ## Data (6)
 
-- [Impacted Professions List](表/impacted-professions-list.md)
-- [Global Annotation Supply Chain](表/global-labeling-supply-chain.md)
-- [AI-Related Workforce Restructuring Timeline](表/ai-layoff-timeline.md) — **v2**
-- [AI Labor Protection Comparison](表/ai-labor-protection-comparison.md)
-- [LLM Environmental Impact](表/llm-environmental-impact.md)
-- [AI Labor Timeline 2025–2026](表/ai-labor-timeline-2025-2026.md) — **v2**
+[AI-Related Workforce Restructuring Timeline](表/ai-layoff-timeline.md) and [AI Labor Timeline 2025–2026](表/ai-labor-timeline-2025-2026.md) are **v2**; four historical tables remain UNREVIEWED.
 
-## What v2 has already corrected
+## What v2 has corrected
 
-The audit has removed fabricated worker stories, unsupported universal decline rates, misreported PTSD prevalence, “AI has surpassed doctors” generalizations, and tables that mixed forecasts with completed layoffs.
+The audit has removed fabricated worker stories, unsupported universal decline rates, misreported PTSD prevalence, “AI has surpassed doctors” generalizations, tables that mixed forecasts with completed layoffs, historical MTurk wages projected onto modern expert work, and false certainty about universal per-query AI energy use.
+
+One investigation was intentionally moved to **HOLD** because available evidence did not justify merging urban surveillance, immigration control and workplace AI monitoring into a single proven system.
 
 `sources/` stores source metadata and claim mappings. `review/` is historical research material and is not automatically verified.
 
@@ -107,6 +74,7 @@ The audit has removed fabricated worker stories, unsupported universal decline r
 4. Preserve counterevidence.
 5. Keep Chinese and English formal articles in factual parity.
 6. Do not add China-mainland-centered topics.
+7. **HOLD is allowed. Insufficient evidence is a result.**
 
 ## License
 
