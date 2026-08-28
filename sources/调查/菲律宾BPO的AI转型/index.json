@@ -1,0 +1,15 @@
+{
+  "topic":"菲律宾BPO的AI转型",
+  "status":"REVISED",
+  "last_checked":"2026-08-28",
+  "sources":[
+    {"id":"S1","publisher":"U.S. International Trade Administration","title":"Philippines Artificial Intelligence","date":"2026","url":"https://www.trade.gov/market-intelligence/philippines-artificial-intelligence","tier":"A","type":"government-market-intelligence","supports":["2025-employment","2025-export-revenue","ai-adoption"]},
+    {"id":"S2","publisher":"OECD","title":"OECD Economic Surveys: Philippines 2026","date":"2026-02","url":"https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/02/oecd-economic-surveys-philippines-2026_cc282bc0/f0e0c581-en.pdf","tier":"A","type":"international-organization-report","supports":["bpo-employment-share","structural-risk","skills-gaps","reskilling-programs"]},
+    {"id":"S3","publisher":"IMF","title":"Artificial Intelligence and the Philippine Labor Market – Mapping Occupational Exposure and Complementarity","date":"2025","url":"https://www.elibrary.imf.org/view/journals/001/2025/043/article-A001-en.xml","tier":"A","type":"working-paper","supports":["occupational-exposure","bpo-risk","complementarity-caveat"]},
+    {"id":"S4","publisher":"Reuters","title":"Rise of the machines: Philippine outsourcing industry braces for AI","date":"2017-11-09","url":"https://www.investing.com/news/technology-news/rise-of-the-machines-philippine-outsourcing-industry-braces-for-ai-840853","tier":"B","type":"archived-syndicated-reporting","supports":["historical-automation-forecast"]},
+    {"id":"S5","publisher":"BusinessMirror","title":"IT-BPM cuts 2028 targets, but keeps 2026 growth intact","date":"2026-07-15","url":"https://businessmirror.com.ph/2026/07/15/it-bpm-cuts-2028-targets-but-keeps-2026-growth-intact/","tier":"B","type":"industry-reporting","supports":["revised-2028-targets","multi-factor-context"]},
+    {"id":"S6","publisher":"BusinessMirror","title":"Converge, IBPAP to upskill BPO workers amid AI boom","date":"2026-07-02","url":"https://businessmirror.com.ph/2026/07/02/converge-ibpap-to-upskill-bpo-workers-amid-ai-boom/","tier":"B","type":"industry-reporting","supports":["upskilling","higher-complexity-services"]},
+    {"id":"S7","publisher":"MCI Careers","title":"Philippines AI Support Positions","date":"2026","url":"https://careers-mci2.icims.com/jobs/50241/ai-workflow-automation-specialist/job","tier":"C","type":"job-posting-primary","supports":["ai-workflow-role","new-job-title-examples"]},
+    {"id":"S8","publisher":"Thomson Reuters Foundation / GMA News","title":"Lacking job security, Filipino call center workers face AI threat","date":"2024-12-03","url":"https://www.gmanetwork.com/news/money/companies/928904/lacking-job-security-filipino-call-center-workers-face-ai-threat/story/","tier":"B","type":"worker-reporting","supports":["worker-concerns","labor-rights-context"]}
+  ]
+}
