@@ -8,7 +8,7 @@
 **55 entries: 53 REVISED / 2 HOLD / 0 UNREVIEWED.**  
 14 investigations / 17 impact / 10 transitions / 8 essays / 6 data tables.
 
-Do not add China-mainland-centered topics. See [`../SCOPE.md`](../SCOPE.md).
+Do not add China-centered research topics; use only non-China portions of global sources. See [`../SCOPE.md`](../SCOPE.md).
 
 ## Holds
 - [UAE AI Surveillance](调查/uae-ai-surveillance.md) — insufficient evidence linking specific workplace AI systems to worker management.
