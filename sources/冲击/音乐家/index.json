@@ -1,9 +1,11 @@
 {
   "topic": "音乐家",
+  "audit_status": "REVISED",
+  "audited_at": "2026-08-28",
   "sources": [
-    { "title": "IFPI Global Music Report 2024", "url": "https://www.ifpi.org/", "date": "2024-03-01", "credibility": "high" },
-    { "title": "AI-Generated Song Mimicking Drake Goes Viral (BBC)", "url": "https://www.bbc.com/", "date": "2023-04-17", "credibility": "high" },
-    { "title": "Universal Music Asks Streaming Platforms to Block AI Training (Financial Times)", "url": "https://www.ft.com/", "date": "2023-04-01", "credibility": "high" },
-    { "title": "Music Publishers Sue AI Music Generators (Reuters)", "url": "https://www.reuters.com/", "date": "2024-06-01", "credibility": "high" }
+    {"title":"Deezer licenses AI music detection tool to French royalty agency Sacem","publisher":"Reuters","date":"2026-01-29","url":"https://www.reuters.com/business/media-telecom/deezer-licenses-ai-detection-tool-french-royalty-agency-sacem-plans-wider-roll-2026-01-29/","use":"AI音乐上传规模与流媒体欺诈治理"},
+    {"title":"New Research Shows Urgent Action is Needed to Protect Creative Workers in the Age of Generative AI","publisher":"Musicians’ Union","date":"2025-06-05","url":"https://musiciansunion.org.uk/news/new-research-shows-urgent-action-is-needed-to-protect-creative-workers-in-the-age-of-generative-ai","use":"创意劳动者报酬、工作安全与价值感调查；不外推为音乐人总体"},
+    {"title":"Global Collections Report 2025","publisher":"CISAC","date":"2025-11","url":"https://www.cisac.org/cisac-global-collections-report-2025","use":"2024全球与音乐创作者版税增长，作为反证"},
+    {"title":"CISAC/PMP Strategy AI Study","publisher":"CISAC/PMP Strategy","date":"2024","url":"https://www.cisac.org/services/reports-and-research/cisacpmp-strategy-ai-study","use":"24%收入风险属于2028预测模型，不当作已发生损失"}
   ]
 }

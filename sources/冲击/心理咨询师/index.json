@@ -1,0 +1,11 @@
+{
+  "topic": "心理咨询师",
+  "audit_status": "REVISED",
+  "audited_at": "2026-08-28",
+  "sources": [
+    {"title":"Substance Abuse, Behavioral Disorder, and Mental Health Counselors","publisher":"U.S. Bureau of Labor Statistics","date":"2025-2026","url":"https://www.bls.gov/ooh/community-and-social-service/substance-abuse-behavioral-disorder-and-mental-health-counselors.htm","use":"2024-34预计增长17%，强反证于整体替代叙事"},
+    {"title":"Psychologists say patients are turning to chatbots as mental health professionals","publisher":"American Psychological Association","date":"2026-06-16","url":"https://www.apa.org/news/press/releases/2026/06/patients-chatbots-mental-health","use":"1200+持证心理学家调查：患者把AI带进治疗关系"},
+    {"title":"2025 Practitioner Pulse Survey: AI in the therapist’s office","publisher":"American Psychological Association","date":"2025","url":"https://www.apa.org/pubs/reports/practitioner/2025","use":"心理学家AI使用率上升，主要行政/辅助用途"},
+    {"title":"Health advisory: Use of generative AI chatbots and wellness applications for mental health","publisher":"American Psychological Association","date":"2026","url":"https://www.apa.org/topics/artificial-intelligence-machine-learning/health-advisory-chatbots-wellness-apps","use":"通用GenAI不应替代合格心理健康提供者；专用工具仅可有限辅助"}
+  ]
+}

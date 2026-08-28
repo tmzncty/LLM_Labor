@@ -1,0 +1,11 @@
+{
+  "topic": "人力资源",
+  "audit_status": "REVISED",
+  "audited_at": "2026-08-28",
+  "sources": [
+    {"title":"Human Resources Specialists","publisher":"U.S. Bureau of Labor Statistics","date":"2026-08-27","url":"https://www.bls.gov/ooh/business-and-financial/human-resources-specialists.htm","use":"2025-35预计增长6%，约73700年均空缺"},
+    {"title":"Information Clerks","publisher":"U.S. Bureau of Labor Statistics","date":"2026-08-27","url":"https://www.bls.gov/ooh/office-and-administrative-support/information-clerks.htm","use":"HR assistants预计下降6%，用于职业内部分层"},
+    {"title":"2025 Talent Trends / AI in HR","publisher":"SHRM","date":"2025","url":"https://www.shrm.org/topics-tools/research/2025-talent-trends/ai-in-hr","use":"2040名美国HR专业人士调查；43%组织使用AI支持HR，招聘51%，具体用途与效率自报"},
+    {"title":"Regulation (EU) 2024/1689, Recital 57","publisher":"European Union","date":"2024","url":"https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32024R1689","use":"招聘、晋升、解雇、任务分配与监控AI的high-risk依据"}
+  ]
+}
