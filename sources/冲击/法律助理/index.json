@@ -1,9 +1,12 @@
 {
   "topic": "法律助理",
+  "audit_status": "REVISED",
+  "audited_at": "2026-08-28",
   "sources": [
-    { "title": "Thomson Reuters 2024 Legal Tech Report", "url": "https://www.thomsonreuters.com/", "date": "2024-03-01", "credibility": "high" },
-    { "title": "Harvey AI Raises $21M from Sequoia (TechCrunch)", "url": "https://techcrunch.com/", "date": "2023-04-12", "credibility": "high" },
-    { "title": "Thomson Reuters Acquires Casetext for $650M (Reuters)", "url": "https://www.reuters.com/", "date": "2023-08-17", "credibility": "high" },
-    { "title": "AI and the Legal Profession (ABA)", "url": "https://www.americanbar.org/", "date": "2024-01-01", "credibility": "high" }
+    {"title":"Paralegals and Legal Assistants","publisher":"U.S. Bureau of Labor Statistics","date":"2026-08-27","url":"https://www.bls.gov/ooh/Legal/Paralegals-and-legal-assistants.htm","use":"2025-35就业基本不变；AI可能限制岗位增长；每年仍有替补型岗位空缺"},
+    {"title":"Generative AI Adoption Nearly Doubles…","publisher":"Thomson Reuters","date":"2025-04","url":"https://www.thomsonreuters.com/en/press-releases/2025/april/from-incubation-to-integration-generative-ai-adoption-nearly-doubles-as-professional-services-reach-crossroads","use":"法律GenAI采用率与用途；供应商调查需标来源利益"},
+    {"title":"ABA issues first ethics guidance on a lawyer’s use of AI tools","publisher":"American Bar Association","date":"2024-07-29","url":"https://www.americanbar.org/news/abanews/aba-news-archives/2024/07/aba-issues-first-ethics-guidance-ai-tools/","use":"律师能力、保密、沟通、收费与监督义务"},
+    {"title":"Google expands Gemini Enterprise AI platform for law firms, lawyers","publisher":"Reuters","date":"2026-08-25","url":"https://www.reuters.com/business/google-expands-gemini-ai-platform-law-firms-lawyers-2026-08-25/","use":"2026法律AI平台扩张"},
+    {"title":"US law firm revenues soared in first half of 2026 - Wells Fargo survey","publisher":"Reuters","date":"2026-08-25","url":"https://www.reuters.com/legal/legalindustry/us-law-firm-revenues-soared-first-half-2026-wells-fargo-survey-2026-08-25/","use":"法律服务需求与headcount增长作为反证"}
   ]
 }

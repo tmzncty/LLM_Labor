@@ -1,0 +1,11 @@
+{
+  "topic": "金融分析师",
+  "audit_status": "REVISED",
+  "audited_at": "2026-08-28",
+  "sources": [
+    {"title":"Financial Analysts","publisher":"U.S. Bureau of Labor Statistics","date":"2026-08-27","url":"https://www.bls.gov/ooh/business-and-financial/financial-analysts.htm","use":"2025-35预计增长7%，约29500年均空缺"},
+    {"title":"2026 Regulatory Oversight Report — GenAI","publisher":"FINRA","date":"2025-12/2026","url":"https://www.finra.org/rules-guidance/guidance/reports/2026-finra-annual-regulatory-oversight-report/gen-ai","use":"金融机构GenAI首要用例为摘要和信息抽取，保留监管风险"},
+    {"title":"Regulatory Notice 25-06","publisher":"FINRA","date":"2025","url":"https://www.finra.org/rules-guidance/notices/25-06","use":"研究业务长期变化的多重原因，GenAI仅是新变量"},
+    {"title":"Five tips for job seekers in an AI-driven investment industry","publisher":"CFA Institute","date":"2025-11-24","url":"https://www.cfainstitute.org/insights/articles/guide-for-individuals-in-ai-era","use":"AI fluency与人类判断/沟通技能组合；职业建议非因果研究"}
+  ]
+}

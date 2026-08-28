@@ -1,9 +1,12 @@
 {
   "topic": "新闻记者",
+  "audit_status": "REVISED",
+  "audited_at": "2026-08-28",
   "sources": [
-    { "title": "BuzzFeed to Use AI to Create Content After Layoffs (NYT)", "url": "https://www.nytimes.com/", "date": "2023-01-26", "credibility": "high" },
-    { "title": "CNET Is Publishing AI-Written Articles Under a Fake Byline (The Verge)", "url": "https://www.theverge.com/", "date": "2023-01-12", "credibility": "high" },
-    { "title": "Sports Illustrated Published Fake AI-Generated Writers (Futurism)", "url": "https://futurism.com/", "date": "2023-11-27", "credibility": "high" },
-    { "title": "Reuters Institute Journalism Trends 2024", "url": "https://reutersinstitute.politics.ox.ac.uk/", "date": "2024-01-01", "credibility": "high" }
+    {"title":"Journalism, media, and technology trends and predictions 2025","publisher":"Reuters Institute","date":"2025","url":"https://reutersinstitute.politics.ox.ac.uk/journalism-media-and-technology-trends-and-predictions-2025","use":"87%媒体领导者称GenAI正在改变新闻编辑室；用途结构"},
+    {"title":"Digital News Report 2025","publisher":"Reuters Institute","date":"2025","url":"https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary","use":"Reach Gutenbot、Express.de自动生成案例"},
+    {"title":"Generative AI and news report 2025","publisher":"Reuters Institute","date":"2025","url":"https://reutersinstitute.politics.ox.ac.uk/generative-ai-and-news-report-2025-how-people-think-about-ais-role-journalism-and-society","use":"六国公众对完全AI、人主导+AI、完全人类新闻的接受度"},
+    {"title":"AP updates newsroom standards for artificial intelligence","publisher":"Associated Press","date":"2026-07-23","url":"https://www.ap.org/the-definitive-source/announcements/ap-updates-newsroom-standards-for-artificial-intelligence/","use":"AP允许用途与人工责任边界"},
+    {"title":"POLITICO journalists win landmark arbitration on AI protections","publisher":"The NewsGuild","date":"2025-12-01","url":"https://newsguild.org/politico-journalists-win-landmark-arbitration-on-ai-protections/","use":"AI部署进入集体合同与仲裁"}
   ]
 }

@@ -1,0 +1,9 @@
+{
+  "topic": "建筑师",
+  "audit_status": "REVISED",
+  "audited_at": "2026-08-28",
+  "sources": [
+    {"title":"Architects","publisher":"U.S. Bureau of Labor Statistics","date":"2025-08/2026 access","url":"https://www.bls.gov/ooh/architecture-and-engineering/architects.htm","use":"2024-34预计增长4%；AI/BIM提高效率同时拓展职责"},
+    {"title":"RIBA AI Report 2025","publisher":"Royal Institute of British Architects","date":"2025","url":"https://www.architecture.com/-/media/GatherContent/Business-Benchmarking/Additional-Documents/RIBA-AI-report-2025-FINALpdf.pdf","use":"AI用途预期、费率风险；绝大多数受访者不预计事务所就业因AI减少"}
+  ]
+}

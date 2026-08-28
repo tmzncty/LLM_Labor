@@ -1,8 +1,11 @@
 {
   "topic": "教师",
+  "audit_status": "REVISED",
+  "audited_at": "2026-08-28",
   "sources": [
-    { "title": "Global Education Monitoring Report (UNESCO)", "url": "https://www.unesco.org/", "date": "2024", "credibility": "high" },
-    { "title": "AI in Education (McKinsey)", "url": "https://www.mckinsey.com/", "date": "2024", "credibility": "high" },
-    { "title": "Khanmigo (Khan Academy)", "url": "https://www.khanacademy.org/", "date": "2024", "credibility": "high" }
+    {"title":"Tutors","publisher":"U.S. Bureau of Labor Statistics","date":"2025-2026","url":"https://www.bls.gov/ooh/education-training-and-library/tutors.htm","use":"tutor就业增速约1%，AI数字导师是限制增长因素之一"},
+    {"title":"Postsecondary Teachers","publisher":"U.S. Bureau of Labor Statistics","date":"2026-08-27","url":"https://www.bls.gov/ooh/education-training-and-library/postsecondary-teachers.htm","use":"2025-35高等教育教师预计增长7%，作为广泛替代叙事反证"},
+    {"title":"Teachers cannot be coded","publisher":"UNESCO","date":"2025-08-26","url":"https://www.unesco.org/en/articles/teachers-cannot-be-coded","use":"全球约需4400万额外中小学教师与UNESCO增强而非替代立场"},
+    {"title":"AI in the Classroom: Empowering teachers for the future of learning","publisher":"UNESCO","date":"2025-10-17","url":"https://www.unesco.org/en/articles/ai-classroom-empowering-teachers-future-learning","use":"教师AI适应与伦理使用"}
   ]
 }
