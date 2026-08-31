@@ -1,9 +1,48 @@
 {
   "topic": "MTurk与众包劳动",
   "audit_status": "REVISED",
-  "audited_at": "2026-08-28",
+  "audited_at": "2026-09-01",
   "sources": [
-    {"title":"A Data-Driven Analysis of Workers' Earnings on Amazon Mechanical Turk","publisher":"CHI 2018 / arXiv","date":"2017-12-14","url":"https://arxiv.org/abs/1712.05796","use":"2676名工人、约380万任务；中位实际时薪约2美元、约4%高于7.25美元；强调无薪搜索和拒付时间"}
+    {
+      "id": "S1",
+      "title": "A Data-Driven Analysis of Workers' Earnings on Amazon Mechanical Turk",
+      "publisher": "CHI 2018 / arXiv",
+      "date": "2017-12-14",
+      "url": "https://arxiv.org/abs/1712.05796",
+      "tier": "A",
+      "type": "paper",
+      "supports": ["historical-effective-wage", "unpaid-search-time", "rejection-overhead"]
+    },
+    {
+      "id": "S2",
+      "title": "Closure FAQs",
+      "publisher": "Amazon Mechanical Turk",
+      "date": "2026-08",
+      "url": "https://www.mturk.com/help",
+      "tier": "A",
+      "type": "company-primary",
+      "supports": ["closure-2026-09-30", "worker-payments", "requester-wind-down", "mturk-worker-type-removal"]
+    },
+    {
+      "id": "S3",
+      "title": "Using the Amazon Mechanical Turk Workforce",
+      "publisher": "AWS",
+      "date": "2026-08",
+      "url": "https://docs.aws.amazon.com/sagemaker/latest/dg/sms-workforce-management-public.html",
+      "tier": "A",
+      "type": "company-primary",
+      "supports": ["closure-2026-09-30", "workforce-migration"]
+    },
+    {
+      "id": "S4",
+      "title": "Assign IAM Permissions to Use Ground Truth",
+      "publisher": "AWS",
+      "date": "2026-08",
+      "url": "https://docs.aws.amazon.com/sagemaker/latest/dg/sms-security-permission.html",
+      "tier": "A",
+      "type": "company-primary",
+      "supports": ["ground-truth-maintenance-not-full-closure"]
+    }
   ],
-  "note": "本篇将MTurk作为制度史案例，不把历史工资数字外推到2026年的专家型AI训练平台。"
+  "note": "MTurk closure/date is primary-source documented. Amazon does not attribute the closure to generative AI or automation, so no causal claim is made. Ground Truth remains available to existing customers; the September 30 closure removes the MTurk Worker type rather than closing Ground Truth itself. Historical wage estimates are not extrapolated to 2026 expert AI-training work."
 }
