@@ -1,6 +1,6 @@
 # Skilled Workers Behind AI Data Centers: Compute Does Not Build Itself
 
-> **As of 2026-08-28. Status: REVISED.** AI infrastructure is increasing demand for electricians, line workers, HVAC specialists, fiber technicians, mechanical/electrical construction crews, and data-center technicians. New evidence shows that the story is not only a labor shortage: it also involves union organizing, safety governance, training finance, and what happens after megaproject peaks.
+> **As of 2026-09-01. Status: REVISED.** AI infrastructure is increasing demand for electricians, line workers, HVAC specialists, fiber technicians, mechanical/electrical construction crews, and data-center technicians. The story is not only a labor shortage: it also involves union organizing, safety governance, training finance, megaproject cycles, and now experiments to automate some repetitive operations work with robots. **Near-term labor scarcity and longer-term automation can coexist.**
 
 Before a model can run, people must build the facility, connect power and fiber, install cooling, rack equipment, and maintain it around the clock. **Digital AI labor rests on a very physical layer of skilled work.**
 
@@ -18,7 +18,7 @@ LinkedIn Economic Graph says its measured global population of data-center profe
 
 This is LinkedIn profile and posting data, not harmonized official employment statistics.
 
-The report highlights both first-line roles such as data-center and facilities technicians and professional roles such as network and systems engineers.
+The report highlights both first-line roles such as data-center and facilities technicians and professional roles such as network and systems engineers. The same infrastructure buildout also depends on cabling, racking, electrical, mechanical, and network-hardware skills.
 
 ## Tech firms are investing directly in worker pipelines
 
@@ -54,13 +54,27 @@ The labor chain often looks like:
 
 How safety responsibility travels through that chain is part of AI labor history too.
 
+## Counterevidence: operations robots are already being tested
+
+A WIRED investigation published August 28, 2026, citing several current and former Meta workers, reported that Meta is testing robots for tasks including network-cable swaps, server power cycling, and component reseating. Simpler rack-moving and inventory robots are already operating in some facilities. Meta declined to confirm the specific tests described by WIRED, while a company spokesperson stressed that Meta is still heavily investing in training and hiring people to build and operate data centers.[^10]
+
+This evidence corrects an overly simple assumption: **work that must be performed onsite is not automatically immune to automation.** Robotics can extend automation from screen-based tasks into the physical data hall.
+
+The same reporting, however, documents substantial deployment limits. Some robots still require human inspection, remote control, or physical assistance; inventory systems can be too slow; supervised cabling robots are not yet as fast as people; and some dense cabling work remains unsuitable. A robotics executive interviewed by WIRED said the sector has many pilots and demonstrations but lacks a proven general working solution.[^10]
+
+The strongest current conclusion is therefore narrower than “robots will replace data-center technicians”: **some repetitive, standardized, remotely triggered operations tasks are becoming automation targets, while reliable deployment still depends on human supervision and faces constraints in perception, mobility, speed, battery life, and physical layout.**
+
+One worker in the WIRED report offered a very large estimate of how much of some workloads might eventually be covered if a particular robot succeeded. That is a worker's future-scenario estimate, not a validated replacement rate or layoff forecast, and this article does not treat it as quantitative evidence.
+
+The occupational boundary also matters. These tests concern **operations and maintenance tasks**. They do not show that demand has disappeared for electricians building substations, construction crews installing power systems, line workers expanding the grid, or HVAC trades constructing cooling infrastructure. Both trends can exist at once: a construction boom can create skilled-worker shortages while owners invest in technology intended to reduce some future routine operations hours.
+
 ## Not a general construction boom
 
 Construction Dive reported that data centers were a strong part of U.S. nonresidential construction in 2026 while other private construction remained weak.[^5]
 
 Demand is concentrated by trade, geography, and project cycle. Permanent operations staffing can be much smaller than peak construction employment.
 
-That leaves important open questions: where workers go after megaprojects, whether apprenticeship expansion creates durable careers, whether peak wages persist, and how safety changes under schedule pressure.
+That leaves important open questions: where workers go after megaprojects, whether apprenticeship expansion creates durable careers, whether peak wages persist, how safety changes under schedule pressure, and whether robotics reduces operations hours or creates new installation, maintenance, remote-supervision, and exception-handling work.
 
 ## What we cannot say
 
@@ -70,13 +84,17 @@ That leaves important open questions: where workers go after megaprojects, wheth
 - Corporate training programs do not establish long-term earnings or retention.
 - IBEW sources represent a union perspective and cannot alone establish industry-wide union coverage or pay.
 - An OSHA partnership does not prove that data-center injury rates exceed other construction sectors.
-- These data cannot show that AI creates more jobs than it automates.
+- WIRED's Meta robotics investigation is high-quality single-source reporting: it is enough to document active experiments, not industry-wide net displacement.
+- A worker's estimate of automatable workload is not a verified replacement rate.
+- These data cannot show whether AI infrastructure creates more jobs than later automation removes.
 
 ## Analysis
 
 The word “cloud” makes computing sound weightless. In practice, every model call rests on concrete, copper, transformers, cooling equipment, fiber, construction contracts, safety systems, apprenticeships, and shift workers.
 
-An AI labor history must record not only **who builds the physical world in which automation runs**, but who organizes those workers and who is responsible for getting them home safely.
+There is now another layer: the physical work inside the facility can itself be decomposed into repetitive robot-suitable actions, remote human supervision, exception handling, and repairs that still require skilled judgment.
+
+An AI labor history must record not only **who builds the physical world in which automation runs**, but who organizes those workers, who is responsible for getting them home safely, and how that physical labor is later subjected to automation in turn.
 
 ---
 
@@ -89,3 +107,4 @@ An AI labor history must record not only **who builds the physical world in whic
 [^7]: IBEW, “‘Organizing at Its Roots’: Dallas Drive Shows How to Pull Together to Win the Work,” 2026-06-01. https://ibew.org/electrical_worker/organizing-at-its-roots/
 [^8]: IBEW, “The Data Center Surge: A New Generation of IBEW Jobs,” 2025. https://ibew.org/electrical_worker/the-data-center-surge-a-new-generation-of-ibew-jobs/
 [^9]: OSHA, “Vantage Data Centers – Project Lighthouse Strategic Partnership,” 2026-05-07. https://www.osha.gov/sites/default/files/2026-05/1462-agreement-20260507.pdf
+[^10]: WIRED, “Inside Meta’s Push to Put Robots to Work in Data Centers,” 2026-08-28. https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/
