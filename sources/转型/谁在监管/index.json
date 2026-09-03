@@ -1,7 +1,7 @@
 {
   "topic":"谁在监管",
   "status":"REVISED",
-  "audited":"2026-08-28",
+  "audited":"2026-09-04",
   "sources":[
     {"title":"Quality Jobs Act second-stage consultation","url":"https://employment-social-affairs.ec.europa.eu/news/commission-opens-second-phase-consultation-quality-jobs-act-2026-07-20_en","tier":"A"},
     {"title":"AI Act transparency enforcement","url":"https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august","tier":"A"},
@@ -11,6 +11,8 @@
     {"title":"AI talent, skills and literacy","url":"https://digital-strategy.ec.europa.eu/en/policies/ai-talent-skills-and-literacy","tier":"A","supports":["ai-literacy"]},
     {"title":"Annex III","url":"https://ai-act-service-desk.ec.europa.eu/en/ai-act/annex-3","tier":"A","supports":["employment-high-risk-systems"]},
     {"title":"How widespread is algorithmic management in workplaces?","url":"https://www.oecd.org/en/publications/how-widespread-is-algorithmic-management-in-workplaces_cda7a114-en.html","tier":"A"},
-    {"title":"Algorithmic management in the workplace","url":"https://www.ilo.org/algorithmic-management-workplace","tier":"A"}
+    {"title":"Algorithmic management in the workplace","url":"https://www.ilo.org/algorithmic-management-workplace","tier":"A"},
+    {"title":"Uber fined nearly 825 million euros for automated driver blocking","url":"https://www.autoriteitpersoonsgegevens.nl/en/current/uber-fined-nearly-825-million-euros-for-automated-driver-blocking","date":"2026-08-21","publisher":"Autoriteit Persoonsgegevens","tier":"A","type":"regulator-primary","supports":["automated-deactivation","gdpr-article-22","human-review","income-access","fine"]},
+    {"title":"Dutch regulator fines Uber $966 million for automating driver suspensions","url":"https://www.reuters.com/world/dutch-regulator-fines-uber-966-million-automating-driver-suspensions-document-2026-08-21/","date":"2026-08-21","publisher":"Reuters","tier":"B","type":"high-quality-reporting","supports":["uber-appeal","company-counterclaim","contested-automation-facts"]}
   ]
 }
