@@ -1,7 +1,7 @@
 {
   "topic":"AI芯片红利与半导体工人",
   "status":"REVISED",
-  "last_checked":"2026-08-28",
+  "last_checked":"2026-09-04",
   "sources":[
     {"id":"S1","publisher":"Reuters","title":"SK Hynix sets record as quarterly profit jumps five-fold, says AI chip demand exceeds capacity","date":"2026-04-22","url":"https://www.reuters.com/world/asia-pacific/nvidia-supplier-sk-hynix-q1-profit-rises-406-meets-forecasts-2026-04-22/","tier":"A","type":"financial-reporting","supports":["hbm-profit-boom","capacity-demand"]},
     {"id":"S2","publisher":"Reuters","title":"Samsung flags 19-fold jump in profit, but shares slump on jitters AI boom may stall","date":"2026-07-06","url":"https://www.reuters.com/world/asia-pacific/samsung-estimates-19-fold-rise-q2-operating-profit-beating-expectations-2026-07-06/","tier":"A","type":"financial-reporting","supports":["samsung-profit-boom","bonus-cost"]},
@@ -10,6 +10,8 @@
     {"id":"S5","publisher":"Reuters","title":"Samsung shares soar as strike averted, but bonuses of $416,000 for some stoke concern","date":"2026-05-21","url":"https://www.reuters.com/business/world-at-work/samsung-electronics-shares-jump-after-tentative-wage-deal-suspends-strike-2026-05-21/","tier":"A","type":"labor-financial-reporting","supports":["stock-bonus-structure","profit-conditions","strike-suspension"]},
     {"id":"S6","publisher":"Reuters","title":"Minority union at Samsung Electronics to challenge pay deal in court","date":"2026-05-29","url":"https://www.reuters.com/business/world-at-work/minority-union-samsung-electronics-challenge-pay-deal-court-2026-05-29/","tier":"A","type":"labor-legal-reporting","supports":["minority-union-challenge","intra-firm-distribution-conflict"]},
     {"id":"S7","publisher":"Reuters","title":"South Korea's SK Hynix union members reject wage agreement in vote","date":"2026-08-25","url":"https://www.reuters.com/world/asia-pacific/south-koreas-sk-hynix-union-members-reject-wage-agreement-vote-2026-08-25/","tier":"A","type":"labor-reporting","supports":["wage-vote","6.3-percent-raise","cash-vs-stock-bonus","profit-sharing"]},
-    {"id":"S8","publisher":"Reuters","title":"SK Hynix to start AI chip output in Indiana in 2029, sees memory shortage through 2030","date":"2026-08-27","url":"https://www.reuters.com/world/asia-pacific/sk-hynix-holds-groundbreaking-ceremony-4-billion-indiana-ai-chip-packaging-2026-08-27/","tier":"A","type":"investment-reporting","supports":["indiana-hbm-project","planned-jobs","cross-border-production-chain"]}
+    {"id":"S8","publisher":"Reuters","title":"SK Hynix to start AI chip output in Indiana in 2029, sees memory shortage through 2030","date":"2026-08-27","url":"https://www.reuters.com/world/asia-pacific/sk-hynix-holds-groundbreaking-ceremony-4-billion-indiana-ai-chip-packaging-2026-08-27/","tier":"A","type":"investment-reporting","supports":["indiana-hbm-project","planned-jobs","cross-border-production-chain"]},
+    {"id":"S9","publisher":"Reuters","title":"Micron's Taiwan unions threaten strike over bonus dispute","date":"2026-09-01","url":"https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01/","tier":"B","type":"high-quality-labor-reporting","supports":["micron-taiwan-unions","preliminary-strike-support","profit-sharing-demand","mediation-not-strike","company-counterposition"]},
+    {"id":"S10","publisher":"Central News Agency (Taiwan)","title":"工會醞釀罷工 美光：將發放歷年最高績效獎金並對話","date":"2026-09-01","url":"https://www.cna.com.tw/news/afe/202609010268.aspx","tier":"B","type":"high-quality-reporting","supports":["micron-company-statement","highest-performance-bonus-claim","continued-dialogue","legal-procedure"]}
   ]
 }
