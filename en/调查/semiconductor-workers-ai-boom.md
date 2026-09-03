@@ -1,12 +1,12 @@
 # Semiconductor Workers and the AI Chip Windfall: When Compute Profits Become Wage Bargaining
 
-> **As of 2026-08-28. Status: REVISED.** South Korean semiconductor labor disputes in 2026 provide a rare view of how an AI-driven profit boom turns into bargaining over who receives the gains, in what form, and how profits are shared across workers inside the same company.
+> **As of 2026-09-04. Status: REVISED.** Semiconductor labor disputes in South Korea and Taiwan provide a rare view of how an AI-driven profit boom turns into bargaining over who receives the gains, in what form, and how profits are shared across business units and production locations.
 
 AI labor history often focuses on workers displaced by automation or workers building AI systems. A third question appears when AI demand sends corporate profits sharply higher:
 
 > **How are the gains divided among shareholders, investment, management, and labor?**
 
-Samsung Electronics and SK Hynix made that question concrete in 2026.
+Samsung Electronics, SK Hynix, and Micron Taiwan made that question concrete in 2026.
 
 ## HBM profits created a large pool of gains
 
@@ -63,20 +63,42 @@ The issue was therefore not simply bonus size. It was also risk allocation:
 
 Profit sharing becomes a question of whether workers should continue carrying the capital-market risk of the AI cycle after the operating profit has already been earned.
 
+## Micron Taiwan: profit-sharing conflict spreads to another major production base
+
+On September 1, Reuters reported that Micron's unions at its Taoyuan and Taichung operations in Taiwan were moving toward possible industrial action over the bonus system. The two sites employ about 15,000 people, with the unions representing close to 10,000. The unions said that more than **80% of participants** in an internal online survey in August supported moving toward a strike.[^8]
+
+The distinctions are important:
+
+- no strike had occurred as of September 4;
+- the 80% figure refers to participants in an internal sentiment survey, not a completed legal strike ballot;
+- Taiwanese procedures require mediation before a lawful strike vote, so the eventual outcome remains uncertain.[^8]
+
+The dispute is not a campaign against AI entering the factory. It concerns bonuses and profit sharing. Reuters reported that the unions want a more transparent mechanism tied more directly to profitability and have proposed a future bonus pool based on a percentage of operating profit.[^8]
+
+Micron's counter-position must be preserved as well. The company says its 2026 performance bonus will be the highest in its history and that it will continue talking with employees through existing channels while respecting legal procedures. Taiwan's Central News Agency separately reported the company statement.[^8][^9]
+
+The strongest current conclusion is therefore narrower than “AI caused a strike”: **AI/HBM demand and the resulting memory boom are part of the economic background for bargaining over how extraordinary profits should be shared, while labor and management directly disagree over whether the existing bonus system already distributes those gains adequately.**
+
+The case also adds a geographic layer. Samsung and SK Hynix show profit-sharing disputes inside Korean-headquartered memory firms. Micron Taiwan shows that workers at a critical overseas manufacturing base of a U.S. company can also renegotiate how a global AI-memory windfall reaches local labor income.
+
 ## The boom is also shifting semiconductor labor geography
 
 SK Hynix said in August 2026 that its more than $4 billion Indiana HBM4E project is scheduled for volume production in Q3 2029. The company expects the project and related supply-chain investment to create about 7,000 direct and indirect jobs. Advanced wafers would be made in South Korea and shipped to Indiana for packaging and testing.[^7]
 
 Those are **planned jobs**, not employment already realized. The announcement nonetheless shows how AI-chip labor is being distributed across wafer fabrication, HBM packaging, testing, and R&D in different locations.
 
+The Micron Taiwan dispute adds another point: geography affects not only where jobs are located, but also **which labor institutions and unions bargain over the distribution of the resulting profits.**
+
 ## What we cannot say
 
-- Samsung or SK Hynix bonus levels do not represent the semiconductor industry.
+- Samsung, SK Hynix, or Micron Taiwan bonus levels do not represent the semiconductor industry.
 - Bonuses are not permanent base wages.
 - Maximum or illustrative bonuses are not average worker earnings.
-- Not all semiconductor workers benefit equally from the AI boom; inequality appears even inside one firm.
+- Not all semiconductor workers benefit equally from the AI boom; differences can appear inside one firm and across countries.
 - Union demands are not company policy unless implemented in a final agreement.
 - The SK Hynix vote cannot be reduced to a universal rejection of stock compensation; members may have voted for different reasons.
+- Micron Taiwan's 80% figure is an internal preliminary survey, not a formal strike authorization, and no strike had occurred as of 2026-09-04.
+- The Micron dispute should not be written as “AI caused a strike.” The direct dispute is over bonuses; AI/HBM demand is part of the profit and bargaining context.
 - Indiana's roughly 7,000 jobs are a company forecast of future direct and indirect employment, not current job counts.
 
 ## Analysis
@@ -85,9 +107,9 @@ AI labor conflicts do not always occur where machines replace people.
 
 In semiconductor factories, one of the sharpest 2026 questions was simpler: **the products are selling at extraordinary margins — how much should workers receive?**
 
-The next question is harder. Should workers directly exposed to the HBM profit boom receive most of the gains, or should the people maintaining a broader semiconductor capability share them? Should the windfall arrive as cash, or should workers bear additional share-price risk?
+The next questions are harder. Should workers directly exposed to the HBM profit boom receive most of the gains, or should the people maintaining a broader semiconductor capability share them? Should the windfall arrive as cash, or should workers bear additional share-price risk? In a multinational company, how should global profits translate into compensation at critical overseas manufacturing bases?
 
-AI's economic gains do not flow automatically from model demand into household income. Between chip profits and a worker's bank account sits an entire system of wage rules, unions, talent competition, and corporate governance.
+AI's economic gains do not flow automatically from model demand into household income. Between chip profits and a worker's bank account sits an entire system of wage rules, unions, talent competition, cross-border production, and corporate governance.
 
 ---
 
@@ -98,3 +120,5 @@ AI's economic gains do not flow automatically from model demand into household i
 [^5]: Reuters, “Minority union at Samsung Electronics to challenge pay deal in court,” 2026-05-29. https://www.reuters.com/business/world-at-work/minority-union-samsung-electronics-challenge-pay-deal-court-2026-05-29/
 [^6]: Reuters, “South Korea's SK Hynix union members reject wage agreement in vote,” 2026-08-25. https://www.reuters.com/world/asia-pacific/south-koreas-sk-hynix-union-members-reject-wage-agreement-vote-2026-08-25/
 [^7]: Reuters, “SK Hynix to start AI chip output in Indiana in 2029, sees memory shortage through 2030,” 2026-08-27. https://www.reuters.com/world/asia-pacific/sk-hynix-holds-groundbreaking-ceremony-4-billion-indiana-ai-chip-packaging-2026-08-27/
+[^8]: Reuters, “Micron's Taiwan unions threaten strike over bonus dispute,” 2026-09-01. https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01/
+[^9]: Central News Agency (Taiwan), “工會醞釀罷工 美光：將發放歷年最高績效獎金並對話,” 2026-09-01. https://www.cna.com.tw/news/afe/202609010268.aspx
