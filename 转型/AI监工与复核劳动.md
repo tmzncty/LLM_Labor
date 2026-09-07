@@ -1,6 +1,6 @@
 # AI 监工与复核劳动：当工作从“自己做”变成“盯着 Agent 做”
 
-> **截至 2026-08-28。状态：REVISED。** 本文使用“AI 监工/复核劳动”作为分析性统称，不把它冒充成已经标准化的正式职业名称。2026 年新增证据显示，这类工作正在从“检查输出”扩展到权限控制、事故处置和法律责任承接。
+> **截至 2026-09-08。状态：REVISED。** 本文使用“AI 监工/复核劳动”作为分析性统称，不把它冒充成已经标准化的正式职业名称。2026 年新增证据显示，这类工作正在从“检查输出”扩展到权限控制、事故处置和法律责任承接；9 月的一项美国办公室劳动者调查又为“纠错/提示迭代本身占用工时”提供了量化自报证据。
 
 生成式 AI 最初进入办公室时，常被描述成“助手”：帮你写邮件、补代码、总结材料。
 
@@ -34,6 +34,12 @@ The Guardian 2026 年 2 月采访了多类劳动者，其中一名编辑描述�
 > 自动生成降低了“第一稿成本”，不等于降低了“可靠成品成本”。
 
 如果 AI 错误很稀疏、很隐蔽，复核者必须保持高度注意力，甚至需要重新推演机器为什么错。
+
+2026 年 9 月 1 日，BambooHR 发布一项由 Method Research 设计、RepData 分发的在线调查，样本为 1,608 名美国全职受薪桌面工作者（其中 520 名为 HR 管理者），数据收集于 6 月 26 日至 7 月 15 日。受访者平均自报每天使用 AI 87 分钟；在他们对 AI 使用时间的分配中，42% 用于排查错误和迭代提示，35% 用于直接推进工作。按研究的年度换算，前者约等于 20 个八小时工作日。[^8]
+
+这比单个采访提供了更强的量化证据，但不能写成“AI 让美国劳动者每年损失 20 天生产力”。原因是：这些工时来自自报而非实际计时日志；样本限于美国全职受薪桌面工作者；调查由一家 HR 软件厂商发布；“20 天”是由平均值进行的年度算术外推；而且排障和提示迭代本身可能就是完成任务所需的劳动，调查没有测量“不使用 AI”时的反事实净产出。HR Dive 的独立报道复述了样本与主要数字，但没有提供独立的生产率验证。[^9]
+
+同一调查也提供了重要反证：65% 的受访者表示对工作中的 AI 感到有信心和热情，58% 把节省时间作为使用 AI 的主要动机。[^8] 因而，**明显的纠错负担与主观上认为 AI 有用可以同时存在**；不能从“需要纠错”直接推出“净生产率为负”。
 
 ## 三、监督劳动包含哪些新任务
 
@@ -109,7 +115,14 @@ Reuters 2026 年 8 月采访法律专家讨论自主 Agent 越权、网络攻击
 
 如果员工被要求为 Agent 结果负责，却没有足够时间、系统可见性或停止权限，那么“human in the loop”可能只是责任转嫁，而不是真正的监督。
 
-## 八、我们不知道什么
+## 八、我们知道什么
+
+- AI 编程、写作和业务工具已经把部分“第一稿/第一步”劳动交给机器；
+- 美国一项 1,608 人的全职受薪桌面工作者调查显示，受访者自报的 AI 使用时间中有相当部分用于纠错和提示迭代；这支持“复核/返工是可见劳动”，但不是净生产率损失的直接测量；
+- 企业开始把部分 Agent 纳入身份、权限和负责人体系；
+- 高风险系统的人类监督正在进入法律和合规义务，而不仅是产品口号。
+
+## 九、我们不知道什么
 
 1. “AI 监工”尚不是统一职业分类，现有证据更多是工作内容变化。
 2. Meta、银行和 Cisco 的实践不能代表所有企业。
@@ -117,6 +130,7 @@ Reuters 2026 年 8 月采访法律专家讨论自主 Agent 越权、网络攻击
 4. 很多企业仍不公开人工接管率、Agent 事故率、复核工时和事故成本。
 5. 现有法律对自主 Agent 的具体责任分配仍在演化；Reuters 的法律讨论不能当作已经形成统一判例。
 6. 这种模式可能创造新的高级岗位，也可能把更多责任压给更少的人，净效应未知。
+7. BambooHR 的调查是厂商发布的横截面自报调查，不能据此估算全体劳动者的真实 AI 纠错工时，也不能证明 AI 的净生产率效应为负。
 
 ## 评曰
 
@@ -137,3 +151,5 @@ Reuters 2026 年 8 月采访法律专家讨论自主 Agent 越权、网络攻击
 [^5]: Reuters, “Who is liable when AI goes rogue? Lawyers see new risks,” 2026-08-07. https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07/
 [^6]: Regulation (EU) 2024/1689, Articles 14 and 26, consolidated text accessed 2026-08-28. https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng
 [^7]: European Commission, “AI Act,” implementation timeline accessed 2026-08-28. https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+[^8]: BambooHR, “Redesigning Work: AI’s Performance Review,” 2026-09-01. https://www.bamboohr.com/resources/data-at-work/data-stories/redesigning-work-ai
+[^9]: HR Dive, “Almost half the time spent on AI is on fixing its output, BambooHR says,” 2026-09-02. https://www.hrdive.com/news/almost-half-the-time-workers-spend-on-ai-is-spent-fixing-its-output/829404/
