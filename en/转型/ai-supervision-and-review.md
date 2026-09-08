@@ -1,6 +1,6 @@
 # AI Supervision and Review Work: From Doing the Task to Watching Agents Do It
 
-> **As of 2026-08-28. Status: REVISED.** “AI supervision” is used here as an analytical umbrella, not as a standardized occupational title. New 2026 evidence shows that this work is expanding from output checking into permission control, incident response, and accountability.
+> **As of 2026-09-08. Status: REVISED.** “AI supervision” is used here as an analytical umbrella, not as a standardized occupational title. New 2026 evidence shows that this work is expanding from output checking into permission control, incident response, and accountability; a September U.S. office-worker survey also provides quantitative self-reported evidence that troubleshooting and prompt iteration themselves consume working time.
 
 Generative AI first entered offices as an assistant. Agentic systems create a different possibility: the machine executes a longer workflow while a human sets goals, grants permissions, checks results, handles exceptions, and remains accountable.
 
@@ -19,6 +19,12 @@ Human work may include decomposing goals, configuring permissions, reviewing int
 The Guardian interviewed workers in February 2026 about training and correcting AI systems. One editor described receiving AI-preedited text that, in her experience, took longer to correct than editing from scratch while the fee was reduced.[^2]
 
 That is one testimony, not an industry statistic. It illustrates a general possibility: lower first-draft cost does not guarantee lower reliable-final-output cost.
+
+On September 1, 2026, BambooHR published an online survey designed by Method Research and distributed by RepData. The sample consisted of 1,608 U.S. full-time salaried desk workers, including 520 HR professionals at manager level or above, with data collected from June 26 to July 15. Respondents reported using AI for an average of 87 minutes per day. In their reported allocation of AI-use time, 42% went to troubleshooting errors and iterating on prompts, while 35% went to work that directly furthered their workload. The report annualized the first category to roughly 20 eight-hour workdays.[^8]
+
+This is stronger quantitative evidence than a single interview, but it should **not** be rewritten as “AI costs U.S. workers 20 days of productivity each year.” The time estimates are self-reported rather than observed through time logs; the sample is limited to U.S. full-time salaried desk workers; the study was released by an HR-software vendor; the “20 days” figure is an arithmetic annualization of averages; and troubleshooting or prompt iteration may itself be necessary work. The survey did not measure the counterfactual net output of the same workers without AI. HR Dive independently reported the methodology and headline figures, but did not provide an independent productivity validation.[^9]
+
+The same survey also provides useful counterevidence: 65% of respondents said they felt confident and enthusiastic about AI at work, and 58% named time savings as their main motivation for using it.[^8] **A substantial correction burden and a subjective sense that AI is useful can therefore coexist.** Correction time alone does not establish negative net productivity.
 
 ## Five layers of supervision
 
@@ -66,14 +72,22 @@ For workplace high-risk systems, employers must also inform affected workers and
 
 This makes a useful distinction: having a nominal human in the loop is not the same as having a person who can understand and actually stop the system.
 
+## What we know
+
+- AI writing, coding, and business tools have shifted some first-draft or first-step work to machines.
+- In one survey of 1,608 U.S. full-time salaried desk workers, respondents reported that a substantial share of their AI-use time went to correcting errors and iterating prompts. This supports the claim that review and rework are observable labor, but it is not a direct measure of net productivity loss.
+- Firms are beginning to place some agents inside identity, permission, and accountable-manager structures.
+- Human oversight of high-risk systems is becoming a legal and compliance obligation rather than only a product slogan.
+
 ## What we do not know
 
-- AI supervision is not yet a stable occupational category.
-- Meta, banks, and Cisco cannot represent every firm.
-- Productivity depends on error rates, task risk, and system maturity.
-- Firms rarely publish human takeover rates, review costs, or incident rates.
-- Liability rules for autonomous agents are still evolving; Reuters' legal analysis is not a settled universal doctrine.
-- Agent supervision may create senior roles while also concentrating more responsibility on fewer workers.
+1. AI supervision is not yet a stable occupational category.
+2. Meta, banks, and Cisco cannot represent every firm.
+3. Whether supervising agents is more efficient than doing the work directly depends on error rates, task risk, and system maturity.
+4. Firms rarely publish human takeover rates, review costs, or incident rates.
+5. Liability rules for autonomous agents are still evolving; Reuters' legal analysis is not a settled universal doctrine.
+6. Agent supervision may create senior roles while also concentrating more responsibility on fewer workers.
+7. The BambooHR study is a vendor-released cross-sectional self-report survey. It cannot estimate the true AI-correction time of the entire workforce or establish that AI has a negative net productivity effect.
 
 ## Analysis
 
@@ -92,3 +106,5 @@ If machines receive execution authority while humans retain only liability, work
 [^5]: Reuters, “Who is liable when AI goes rogue? Lawyers see new risks,” 2026-08-07. https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07/
 [^6]: Regulation (EU) 2024/1689, Articles 14 and 26, consolidated text accessed 2026-08-28. https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng
 [^7]: European Commission, “AI Act,” implementation timeline accessed 2026-08-28. https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+[^8]: BambooHR, “Redesigning Work: AI’s Performance Review,” 2026-09-01. https://www.bamboohr.com/resources/data-at-work/data-stories/redesigning-work-ai
+[^9]: HR Dive, “Almost half the time spent on AI is on fixing its output, BambooHR says,” 2026-09-02. https://www.hrdive.com/news/almost-half-the-time-workers-spend-on-ai-is-spent-fixing-its-output/829404/
