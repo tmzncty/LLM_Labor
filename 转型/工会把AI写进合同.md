@@ -1,10 +1,10 @@
 # 工会把 AI 写进合同：从“反对技术”到谈判同意、复核、报酬与岗位保护
 
-> **截至 2026-09-04。证据状态：SAG-AFTRA、WGA East、Unifor、NABET-CWA 与 UFCW 的 2025–2026 年协议均有工会一手材料可核查。**
+> **截至 2026-09-10。证据状态：SAG-AFTRA、WGA East、Unifor、NABET-CWA、UFCW 与 CWA/Blizzard 的 2025–2026 年协议均有工会一手材料可核查。**
 
 AI 劳动冲突有一种非常具体的解决方式：不先争论“AI 好还是坏”，而是把使用条件写进合同。
 
-到 2026 年，这已经不只是演员数字替身问题。新闻编辑部、电信文职、广播技术岗位和零售书店的集体协议开始采用不同的 AI 条款：**同意与补偿、人工复核、提前通知、联合委员会、AI 直接导致裁员时的额外遣散，以及明确的岗位/工时保护。**
+到 2026 年，这已经不只是演员数字替身问题。新闻编辑部、电信文职、广播技术岗位、零售书店和电子游戏开发团队的集体协议开始采用不同的 AI 条款：**同意与补偿、人工复核、提前通知、联合委员会、AI 直接导致裁员时的额外遣散、明确的岗位/工时保护，以及要求雇主就 AI 使用进行讨论、评估和谈判。**
 
 这不证明 AI 已经在这些单位造成同等程度的替代，也不证明这些条款会自动执行有效；它证明的是，AI 已经进入多个行业的可执行劳动关系文本。
 
@@ -63,20 +63,33 @@ CWA 官方摘要确认，新协议包含关于生成式 AI 如何影响成员的
 
 而且 UFCW 说明，这段 AI 文字由其 International National Bargaining Department 提供。至少可以确认，它不是只能存在于好莱坞式大型行业谈判中的概念。
 
-## 六、合同正在形成不同的 AI 治理工具箱
+## 六、Blizzard：把 AI 使用本身变成持续议价事项
 
-把这些协议并置后，可以看到至少六种不同的谈判对象：
+2026 年 9 月 9 日，CWA 宣布 Blizzard Entertainment 近 1,900 名工人批准新合同，覆盖 World of Warcraft、Quality Assurance、Hearthstone / Warcraft Rumble、Overwatch、Diablo、Platform & Technology、Story and Franchise Development 等工会单位。[^8]
+
+CWA 公布的条款要求 Blizzard **就工作场所中的 AI 使用进行讨论、评估并谈判**。这与单纯“提前通知”不同：它把 AI 是否以及怎样进入工作流程本身，变成持续的劳资议价对象。[^8]
+
+同一批合同还建立了跨 Blizzard 谈判单位的 14 个月空缺岗位 recall 权，并为工会成员增加 4 周遣散费。CWA 同时说明，行业裁员是谈判中的突出问题；2026 年 7 月，Microsoft/XBOX 宣布游戏业务计划削减 3,200 个岗位，其中影响到数百名工会成员。[^8]
+
+这里尤其不能把两条线合并：**公开材料没有说这 3,200 个计划裁员由 AI 导致。** 现有证据只能确认，AI 使用的议价权与裁员后的 recall / severance 保护在同一劳动关系框架中出现；这并不建立“AI → 裁员”的因果链。
+
+CWA 早在 2026 年 2 月已公布一份覆盖 Blizzard 60 多名 QA 工人的合同，其中包含 AI 使用规则。9 月的新材料真正改变证据面的地方，是相关权利不再局限于一个小型 QA 单位，而扩展到近 1,900 名、跨游戏团队和共享服务的工人。[^9]
+
+## 七、合同正在形成不同的 AI 治理工具箱
+
+把这些协议并置后，可以看到至少七种不同的谈判对象：
 
 1. **同意与用途**：是否允许声音、形象、表演或员工身份被 AI 使用；
 2. **补偿**：数字替身、生成用途或 AI 直接导致的裁员如何计价；
 3. **人工复核**：AI 输出能否不经人直接进入成品；
 4. **通知与协商**：新工具上线前是否需要通知、讨论或联合委员会审查；
 5. **岗位保护**：AI 是否可以成为解雇、裁员、降职或削减工时的直接依据；
-6. **持续治理**：AI policy、working group、joint committee 如何跟随技术变化继续调整。
+6. **持续治理**：AI policy、working group、joint committee 如何跟随技术变化继续调整；
+7. **采用议价权**：雇主在工作场所使用 AI 时，是否负有与工会讨论、评估和谈判的义务。
 
 这比单独讨论“工会支持还是反对 AI”更准确。工会实际谈判的往往不是一个总开关，而是**把采用过程拆成权限、流程、价格、复核权和责任。**
 
-## 七、为什么个人“同意”仍然不够
+## 八、为什么个人“同意”仍然不够
 
 个人点一次“我同意”并不一定意味着有真正议价能力。
 
@@ -89,20 +102,20 @@ CWA 官方摘要确认，新协议包含关于生成式 AI 如何影响成员的
 
 因此，AI 劳工保护不只是隐私问题，也是一种**劳动价格、流程控制权和就业风险分配问题。**
 
-## 八、我们不知道什么
+## 九、我们不知道什么
 
 1. 合同写入 AI 条款，不等于相关单位已经大规模采用 AI，更不等于已经发生可归因于 AI 的岗位替代。
 2. 条款存在不等于执行有效；实际争议、仲裁与执行效果仍需长期观察。
-3. Solid State Books 只有 7 名单位成员，不能外推为零售行业标准；NABET-CWA 的公开材料又没有披露完整 AI 条款。
+3. Solid State Books 只有 7 名单位成员，不能外推为零售行业标准；NABET-CWA 与 Blizzard 的公开摘要都没有披露完整 AI 条款，因此不能自行补出具体禁止用途、通知期或执行门槛。
 4. 这些案例来自有组织能力的工会单位。数据标注员、平台承包工、自由职业者和许多白领仍缺少同等谈判基础。
-5. “AI 直接导致裁员”在真实争议中如何证明，仍可能成为新的因果与合同解释问题。
+5. “AI 直接导致裁员”在真实争议中如何证明，仍可能成为新的因果与合同解释问题；Blizzard 案例也再次说明 AI 条款与裁员保护同时出现，并不等于裁员由 AI 导致。
 6. AI 技术变化速度可能快于合同周期，因此定义、适用范围和例外仍会持续修订。
 
 ## 评曰
 
 2025–2026 年最值得记录的变化，不是工会终于回答了“AI 好不好”，而是劳动关系开始把 AI 拆成可以写进条款的具体问题。
 
-演员谈数字替身的同意与价格；新闻工作者谈人工复核和 AI 裁员的遣散；电信文职谈联合委员会；广播岗位谈生成式 AI guardrails；书店员工直接谈 AI 不得造成解雇、降职和减时。
+演员谈数字替身的同意与价格；新闻工作者谈人工复核和 AI 裁员的遣散；电信文职谈联合委员会；广播岗位谈生成式 AI guardrails；书店员工直接谈 AI 不得造成解雇、降职和减时；Blizzard 工人则把**AI 使用本身是否需要讨论、评估和谈判**写进更大规模的电子游戏劳动关系。
 
 这说明 AI 正从公司战略和伦理宣言进入工资表、工作流程、申诉程序和集体协议——也就是劳动制度真正会留下痕迹的地方。
 
@@ -115,3 +128,5 @@ CWA 官方摘要确认，新协议包含关于生成式 AI 如何影响成员的
 [^5]: Unifor, “Bell Clerical workers secure wage gains and job protections in new collective agreement,” 2026-01-23. https://www.unifor.org/news/all-news/bell-clerical-workers-secure-wage-gains-and-job-protections-new-collective-agreement
 [^6]: Communications Workers of America, “NABET-CWA Members Ratify Major Contract with ABC-TV,” 2026-06-25. https://cwa-union.org/news/nabet-cwa-members-ratify-major-contract-abc-tv
 [^7]: United Food & Commercial Workers International Union, “Book Workers Ratify New Contract With Artificial Intelligence Protection Clause,” 2026-09-02. https://www.ufcw.org/actions/victories/book-workers-ratify-new-contract-with-artificial-intelligence-protection-clause/
+[^8]: Communications Workers of America, “Blizzard Entertainment Workers Ratify Historic Video Game Contracts with CWA,” 2026-09-09. https://cwa-union.org/news/releases/blizzard-entertainment-workers-ratify-historic-video-game-contracts-cwa
+[^9]: Communications Workers of America, “Nothing Stops a Blizzard: CWA Video Game Workers Ratify Third Microsoft Contract,” 2026-02-05. https://cwa-union.org/news/nothing-stops-blizzard-cwa-video-game-workers-ratify-third-microsoft-contract

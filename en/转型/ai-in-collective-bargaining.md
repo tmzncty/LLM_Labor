@@ -1,10 +1,10 @@
 # Putting AI Into the Contract: Consent, Review, Compensation, and Job Protection Through Collective Bargaining
 
-> **As of 2026-09-04. Evidence status: 2025–2026 agreements are documented in primary union materials from SAG-AFTRA, WGA East, Unifor, NABET-CWA, and UFCW.**
+> **As of 2026-09-10. Evidence status: 2025–2026 agreements are documented in primary union materials from SAG-AFTRA, WGA East, Unifor, NABET-CWA, UFCW, and CWA/Blizzard.**
 
 One concrete way to govern AI at work is not to settle an abstract argument about whether technology is good or bad, but to write conditions of use into an enforceable labor agreement.
 
-By 2026 this is no longer only a digital-replica issue for performers. Collective agreements in newsrooms, telecommunications clerical work, broadcast work, and retail bookselling are using different AI provisions: **consent and compensation, human review, advance notice, joint committees, additional severance when AI directly causes layoffs, and explicit job or hours protections.**
+By 2026 this is no longer only a digital-replica issue for performers. Collective agreements in newsrooms, telecommunications clerical work, broadcast work, retail bookselling, and video-game development are using different AI provisions: **consent and compensation, human review, advance notice, joint committees, additional severance when AI directly causes layoffs, explicit job or hours protections, and obligations to discuss, evaluate, and bargain over workplace AI use.**
 
 This does not show that AI has caused the same degree of displacement in these workplaces, or that every clause will work as intended. It does show that AI has entered negotiated labor-relations texts across several sectors.
 
@@ -63,16 +63,29 @@ The unit is tiny, so this cannot be treated as evidence that U.S. retail workers
 
 UFCW also says the AI wording was supplied by its International National Bargaining Department. At minimum, this shows that such language is not conceptually confined to Hollywood-scale bargaining.
 
+## Blizzard: making AI use itself a continuing bargaining subject
+
+On September 9, 2026, CWA announced that nearly 1,900 Blizzard Entertainment workers had ratified new contracts covering union units across World of Warcraft, Quality Assurance, Hearthstone / Warcraft Rumble, Overwatch, Diablo, Platform & Technology, and Story and Franchise Development.[^8]
+
+CWA says the contracts require Blizzard to **discuss, evaluate, and bargain over the usage of artificial intelligence in the workplace**. That is more than simple advance notice: whether and how AI enters the workflow becomes an ongoing subject of labor-management bargaining.[^8]
+
+The same contracts establish 14-month recall rights into open positions across any Blizzard bargaining unit after a layoff announcement and add four weeks of severance for union workers. CWA also says industry layoffs were a prominent bargaining issue; in July 2026, Microsoft/XBOX announced 3,200 planned gaming job reductions affecting hundreds of union members.[^8]
+
+The two evidence streams must not be collapsed. **The public material does not say those 3,200 planned reductions were caused by AI.** It establishes that bargaining rights over AI use and protections after layoffs appear in the same labor-relations framework, not an AI → layoff causal chain.
+
+CWA had already announced a February 2026 agreement covering more than 60 Blizzard quality-assurance workers with rules around AI use. The September evidence materially changes the scale: related rights now extend across nearly 1,900 workers in game teams and shared services rather than one small QA unit.[^9]
+
 ## An emerging contractual toolkit
 
-Taken together, these agreements reveal at least six different bargaining targets:
+Taken together, these agreements reveal at least seven different bargaining targets:
 
 1. **Consent and permitted uses** — whether AI may use a worker's voice, likeness, performance, or identity.
 2. **Compensation** — how replicas, generated uses, or layoffs directly caused by AI are priced.
 3. **Human review** — whether AI output may enter a finished product without a person reviewing it.
-4. **Notice and consultation** — whether workers receive advance notice, bargaining, or joint-committee review before adoption.
+4. **Notice and consultation** — whether workers receive advance notice, discussion, or joint-committee review before adoption.
 5. **Job protection** — whether AI may trigger termination, layoff, demotion, or reduced hours.
 6. **Continuing governance** — AI policies, working groups, and joint committees that can adapt after the contract is signed.
+7. **Bargaining over adoption** — whether an employer has an obligation to discuss, evaluate, and bargain with the union over workplace AI use itself.
 
 This is more precise than asking whether unions are “for” or “against” AI. The negotiated object is often not a master switch, but a set of **rights over adoption, workflow, price, review, and responsibility.**
 
@@ -86,16 +99,16 @@ AI labor protection is therefore not only a privacy question. It is also a quest
 
 1. Contract language does not show that these workplaces have already adopted AI at scale, much less that AI has caused a measurable number of job losses.
 2. Written protections do not guarantee effective enforcement; grievances, arbitration, and implementation outcomes require longitudinal observation.
-3. The Solid State Books unit has only seven covered members and cannot stand in for retail as a sector. NABET-CWA's public account does not publish the full AI clauses.
+3. The Solid State Books unit has only seven covered members and cannot stand in for retail as a sector. NABET-CWA and Blizzard public accounts do not publish the full AI clauses, so specific prohibited uses, notice periods, or enforcement thresholds cannot be inferred.
 4. These examples come from organized workplaces with collective-bargaining infrastructure. Many annotators, platform contractors, freelancers, and white-collar workers lack comparable bargaining power.
-5. Proving that AI was the “direct cause” of a layoff may itself become a future contract-interpretation and causality dispute.
+5. Proving that AI was the “direct cause” of a layoff may itself become a future contract-interpretation and causality dispute. Blizzard likewise shows that AI clauses and layoff protections can coexist without establishing that the layoffs were AI-caused.
 6. AI changes faster than many contract cycles, so definitions, scopes, and exceptions will continue to need revision.
 
 ## Analysis
 
 The important 2025–2026 change is not that unions have settled whether AI is good or bad. It is that labor relations are breaking AI into questions that can be written into clauses.
 
-Performers bargain over replicas, consent, and price. News workers bargain over human review and AI-caused layoff severance. Telecommunications clerical workers bargain over a joint committee. Broadcast workers negotiate generative-AI guardrails. Booksellers bargain over termination, demotion, and reductions in hours.
+Performers bargain over replicas, consent, and price. News workers bargain over human review and AI-caused layoff severance. Telecommunications clerical workers bargain over a joint committee. Broadcast workers negotiate generative-AI guardrails. Booksellers bargain over termination, demotion, and reductions in hours. Blizzard workers now bargain over **whether and how workplace AI use itself must be discussed, evaluated, and negotiated** at much larger scale.
 
 AI is moving from corporate strategy and ethics statements into pay, workflow, grievance processes, and collective agreements—the parts of labor institutions that leave durable historical traces.
 
@@ -108,3 +121,5 @@ AI is moving from corporate strategy and ethics statements into pay, workflow, g
 [^5]: Unifor, “Bell Clerical workers secure wage gains and job protections in new collective agreement,” 2026-01-23. https://www.unifor.org/news/all-news/bell-clerical-workers-secure-wage-gains-and-job-protections-new-collective-agreement
 [^6]: Communications Workers of America, “NABET-CWA Members Ratify Major Contract with ABC-TV,” 2026-06-25. https://cwa-union.org/news/nabet-cwa-members-ratify-major-contract-abc-tv
 [^7]: United Food & Commercial Workers International Union, “Book Workers Ratify New Contract With Artificial Intelligence Protection Clause,” 2026-09-02. https://www.ufcw.org/actions/victories/book-workers-ratify-new-contract-with-artificial-intelligence-protection-clause/
+[^8]: Communications Workers of America, “Blizzard Entertainment Workers Ratify Historic Video Game Contracts with CWA,” 2026-09-09. https://cwa-union.org/news/releases/blizzard-entertainment-workers-ratify-historic-video-game-contracts-cwa
+[^9]: Communications Workers of America, “Nothing Stops a Blizzard: CWA Video Game Workers Ratify Third Microsoft Contract,” 2026-02-05. https://cwa-union.org/news/nothing-stops-blizzard-cwa-video-game-workers-ratify-third-microsoft-contract
