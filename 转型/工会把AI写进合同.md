@@ -1,12 +1,12 @@
 # 工会把 AI 写进合同：从“反对技术”到谈判同意、复核、报酬与岗位保护
 
-> **截至 2026-09-10。证据状态：SAG-AFTRA、WGA East、Unifor、NABET-CWA、UFCW 与 CWA/Blizzard 的 2025–2026 年协议均有工会一手材料可核查。**
+> **截至 2026-09-15。证据状态：SAG-AFTRA、WGA East、Unifor、NABET-CWA、UFCW 与 CWA/Blizzard 的 2025–2026 年集体协议，以及 AFT/国家 AI 教学学院与 Microsoft 的 2026 年签署 MOA，均有一手材料可核查。**
 
-AI 劳动冲突有一种非常具体的解决方式：不先争论“AI 好还是坏”，而是把使用条件写进合同。
+AI 劳动冲突有一种非常具体的解决方式：不先争论“AI 好还是坏”，而是把使用条件写进可以执行的合同。
 
-到 2026 年，这已经不只是演员数字替身问题。新闻编辑部、电信文职、广播技术岗位、零售书店和电子游戏开发团队的集体协议开始采用不同的 AI 条款：**同意与补偿、人工复核、提前通知、联合委员会、AI 直接导致裁员时的额外遣散、明确的岗位/工时保护，以及要求雇主就 AI 使用进行讨论、评估和谈判。**
+到 2026 年，这已经不只是演员数字替身问题。新闻编辑部、电信文职、广播技术岗位、零售书店和电子游戏开发团队的集体协议开始采用不同的 AI 条款；教师工会又把同一种治理思路推进到学校采购 AI 的供应商合同：**同意与补偿、人工复核、提前通知、联合委员会、AI 直接导致裁员时的额外遣散、明确的岗位/工时保护、采用议价权、劳动者数据的训练限制，以及可执行的供应商责任。**
 
-这不证明 AI 已经在这些单位造成同等程度的替代，也不证明这些条款会自动执行有效；它证明的是，AI 已经进入多个行业的可执行劳动关系文本。
+这不证明 AI 已经在这些单位造成同等程度的替代，也不证明这些条款会自动执行有效；它证明的是，AI 已经从公司政策和伦理承诺进入多种可执行的劳动关系与采购合同文本。
 
 ## 一、SAG-AFTRA：围绕数字替身谈判同意与报酬
 
@@ -75,21 +75,44 @@ CWA 公布的条款要求 Blizzard **就工作场所中的 AI 使用进行讨论
 
 CWA 早在 2026 年 2 月已公布一份覆盖 Blizzard 60 多名 QA 工人的合同，其中包含 AI 使用规则。9 月的新材料真正改变证据面的地方，是相关权利不再局限于一个小型 QA 单位，而扩展到近 1,900 名、跨游戏团队和共享服务的工人。[^9]
 
-## 七、合同正在形成不同的 AI 治理工具箱
+## 七、AFT / Microsoft：工会开始把 AI 规则写进供应商采购合同
 
-把这些协议并置后，可以看到至少七种不同的谈判对象：
+2026 年 9 月 7 日，American Federation of Teachers 主席 Randi Weingarten 代表 National Academy for AI Instruction，与 Microsoft 副董事长兼总裁 Brad Smith 签署了 **National AI Safety & Privacy Standard for Schools** 的 Memorandum of Agreement；AFT、UFT 与 Microsoft 于 9 月 9 日公开宣布该协议。[^10][^11]
+
+它与前面的集体协议不同：**这不是教师与学校雇主之间的 collective bargaining agreement。** 它是一份由教师工会推动、与 AI 供应商签署的约束性供应商标准。也正因为如此，它扩展了“工会把 AI 写进合同”的边界：劳动者组织不仅可以谈工资表和工作规则，也开始影响雇主采购什么样的 AI、供应商必须接受什么条件。
+
+签署的 MOA 把学生、教师和管理人员使用教育 AI 产品时产生的数据都纳入 Covered Data。原则上，供应商不得拿这些数据训练、微调或改进通用生成式模型，只保留一个被严格限定的安全与安保例外。[^10]
+
+对劳动过程更直接的是 **Human Oversight and Explainability** 条款。标准明确写明，AI 工具应支持教师和学生而不是取代人的判断；受标准覆盖的系统在为教师或学生作出决定时，必须允许有意义的人工复核或事先批准。学院教学规则还禁止无人工复核的自动评分、基于教师或学生行为的自动纪律决定/建议、自动安置决定、对教师或学生进行情绪/心理评估，以及为了行为预测而监控教师或学生。[^10]
+
+它还有真实的合同执行路径。签署供应商必须在生效后 90 天内，应美国学区请求把实质性保护提供给学区；这些保护可以写进既有数据隐私协议、许可协议或附录。一旦写入，学区可按合同执行，未纠正的重大违约可以触发终止合同、损害赔偿或其他救济；Academy/AFT 也保留对标准参与资格的执行和撤销权。[^10]
+
+但边界同样重要：
+
+- 美国学区必须主动请求并把这些条款纳入自己的协议，它们**不会自动适用于所有学区**；
+- 标准定义的 AI Provider Educational Products 是主要为教育用途设计、营销的生成式 AI 产品，明确排除了并非主要为教育设计的一般生产力、协作、通信、搜索、云、开发或 workplace-assistance 产品；
+- 这份供应商 MOA 本身并不证明学校已经大规模采用 AI，也不证明教师岗位发生替代；
+- 它也不是学校雇主与工会之间的工资或岗位保障合同，因此不能把采购治理写成已经取得的就业保障。
+
+它提供的新增历史证据更具体：**工会开始从“劳动者与雇主怎样约束 AI”向“劳动者组织怎样预先塑造 AI 供应商合同”推进。**
+
+## 八、合同正在形成不同的 AI 治理工具箱
+
+把这些协议并置后，可以看到至少九种不同的谈判或合同治理对象：
 
 1. **同意与用途**：是否允许声音、形象、表演或员工身份被 AI 使用；
 2. **补偿**：数字替身、生成用途或 AI 直接导致的裁员如何计价；
-3. **人工复核**：AI 输出能否不经人直接进入成品；
+3. **人工复核**：AI 输出或决定能否不经人直接进入成品或工作流程；
 4. **通知与协商**：新工具上线前是否需要通知、讨论或联合委员会审查；
 5. **岗位保护**：AI 是否可以成为解雇、裁员、降职或削减工时的直接依据；
 6. **持续治理**：AI policy、working group、joint committee 如何跟随技术变化继续调整；
-7. **采用议价权**：雇主在工作场所使用 AI 时，是否负有与工会讨论、评估和谈判的义务。
+7. **采用议价权**：雇主在工作场所使用 AI 时，是否负有与工会讨论、评估和谈判的义务；
+8. **劳动者数据权**：教师、员工或其他劳动者在使用 AI 时产生的数据能否被拿去训练模型、画像或监控；
+9. **供应商与采购执行**：劳动者组织能否把 AI 条件前移到采购合同，并让违约触发终止、赔偿或其他合同救济。
 
-这比单独讨论“工会支持还是反对 AI”更准确。工会实际谈判的往往不是一个总开关，而是**把采用过程拆成权限、流程、价格、复核权和责任。**
+这比单独讨论“工会支持还是反对 AI”更准确。劳动者组织实际谈判或推动的往往不是一个总开关，而是**把采用过程拆成权限、流程、价格、数据、复核权、责任和执行机制。**
 
-## 八、为什么个人“同意”仍然不够
+## 九、为什么个人“同意”仍然不够
 
 个人点一次“我同意”并不一定意味着有真正议价能力。
 
@@ -100,24 +123,28 @@ CWA 早在 2026 年 2 月已公布一份覆盖 Blizzard 60 多名 QA 工人的�
 - 同意可以与补偿、用途、通知、复核和岗位保护一起讨论；
 - 条款原则上进入劳动关系的执行与争议解决体系，而不只是公司伦理承诺。
 
-因此，AI 劳工保护不只是隐私问题，也是一种**劳动价格、流程控制权和就业风险分配问题。**
+AFT/Microsoft 的案例又增加一层：劳动者组织并不一定只能在雇佣合同里争权利，也可以尝试让**供应商的产品合同本身**承担隐私、数据、人工复核与可执行责任。
 
-## 九、我们不知道什么
+因此，AI 劳工保护不只是隐私问题，也是一种**劳动价格、流程控制权、数据权和就业风险分配问题。**
+
+## 十、我们不知道什么
 
 1. 合同写入 AI 条款，不等于相关单位已经大规模采用 AI，更不等于已经发生可归因于 AI 的岗位替代。
-2. 条款存在不等于执行有效；实际争议、仲裁与执行效果仍需长期观察。
+2. 条款存在不等于执行有效；实际争议、仲裁、采购执行与实施效果仍需长期观察。
 3. Solid State Books 只有 7 名单位成员，不能外推为零售行业标准；NABET-CWA 与 Blizzard 的公开摘要都没有披露完整 AI 条款，因此不能自行补出具体禁止用途、通知期或执行门槛。
-4. 这些案例来自有组织能力的工会单位。数据标注员、平台承包工、自由职业者和许多白领仍缺少同等谈判基础。
-5. “AI 直接导致裁员”在真实争议中如何证明，仍可能成为新的因果与合同解释问题；Blizzard 案例也再次说明 AI 条款与裁员保护同时出现，并不等于裁员由 AI 导致。
-6. AI 技术变化速度可能快于合同周期，因此定义、适用范围和例外仍会持续修订。
+4. AFT/Microsoft 标准不是 collective bargaining agreement，也不会自动覆盖所有美国学校；只有学区请求并纳入其供应商协议后，相关保护才成为该学区可执行的合同条款。
+5. AFT/Microsoft 标准主要覆盖为教育用途设计的 AI 产品，不能把它外推到 Microsoft 或其他供应商的全部一般工作场所 AI 产品。
+6. 这些案例来自有组织能力的工会或工会机构。数据标注员、平台承包工、自由职业者和许多白领仍缺少同等谈判基础。
+7. “AI 直接导致裁员”在真实争议中如何证明，仍可能成为新的因果与合同解释问题；Blizzard 案例也再次说明 AI 条款与裁员保护同时出现，并不等于裁员由 AI 导致。
+8. AI 技术变化速度可能快于合同周期，因此定义、适用范围和例外仍会持续修订。
 
 ## 评曰
 
 2025–2026 年最值得记录的变化，不是工会终于回答了“AI 好不好”，而是劳动关系开始把 AI 拆成可以写进条款的具体问题。
 
-演员谈数字替身的同意与价格；新闻工作者谈人工复核和 AI 裁员的遣散；电信文职谈联合委员会；广播岗位谈生成式 AI guardrails；书店员工直接谈 AI 不得造成解雇、降职和减时；Blizzard 工人则把**AI 使用本身是否需要讨论、评估和谈判**写进更大规模的电子游戏劳动关系。
+演员谈数字替身的同意与价格；新闻工作者谈人工复核和 AI 裁员的遣散；电信文职谈联合委员会；广播岗位谈生成式 AI guardrails；书店员工直接谈 AI 不得造成解雇、降职和减时；Blizzard 工人把**AI 使用本身是否需要讨论、评估和谈判**写进更大规模的电子游戏劳动关系；教师工会则进一步尝试把教师数据、人工判断与供应商责任直接写进教育 AI 的采购合同。
 
-这说明 AI 正从公司战略和伦理宣言进入工资表、工作流程、申诉程序和集体协议——也就是劳动制度真正会留下痕迹的地方。
+这说明 AI 正从公司战略和伦理宣言进入工资表、工作流程、申诉程序、集体协议和采购合同——也就是劳动制度真正会留下痕迹的地方。
 
 ---
 
@@ -130,3 +157,5 @@ CWA 早在 2026 年 2 月已公布一份覆盖 Blizzard 60 多名 QA 工人的�
 [^7]: United Food & Commercial Workers International Union, “Book Workers Ratify New Contract With Artificial Intelligence Protection Clause,” 2026-09-02. https://www.ufcw.org/actions/victories/book-workers-ratify-new-contract-with-artificial-intelligence-protection-clause/
 [^8]: Communications Workers of America, “Blizzard Entertainment Workers Ratify Historic Video Game Contracts with CWA,” 2026-09-09. https://cwa-union.org/news/releases/blizzard-entertainment-workers-ratify-historic-video-game-contracts-cwa
 [^9]: Communications Workers of America, “Nothing Stops a Blizzard: CWA Video Game Workers Ratify Third Microsoft Contract,” 2026-02-05. https://cwa-union.org/news/nothing-stops-blizzard-cwa-video-game-workers-ratify-third-microsoft-contract
+[^10]: National Academy for AI Instruction / American Federation of Teachers / Microsoft, “National AI Safety & Privacy Standard for Schools — Memorandum of Agreement,” signed 2026-09-07. https://www.aft.org/sites/default/files/media/documents/2026/NAfAI-School_AI_Privacy_Standards.pdf
+[^11]: American Federation of Teachers / Microsoft, “AFT, UFT and Microsoft Announce ‘National AI Safety & Privacy Standard’ for Schools to Protect Students, Families and Educators,” 2026-09-09. https://www.aft.org/press-release/aft-uft-and-microsoft-announce-national-ai-safety-privacy-standard-schools-protect
