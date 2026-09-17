@@ -2,11 +2,15 @@
   "topic": "新闻记者",
   "audit_status": "REVISED",
   "audited_at": "2026-08-28",
+  "last_checked": "2026-09-17",
   "sources": [
     {"title":"Journalism, media, and technology trends and predictions 2025","publisher":"Reuters Institute","date":"2025","url":"https://reutersinstitute.politics.ox.ac.uk/journalism-media-and-technology-trends-and-predictions-2025","use":"87%媒体领导者称GenAI正在改变新闻编辑室；用途结构"},
     {"title":"Digital News Report 2025","publisher":"Reuters Institute","date":"2025","url":"https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary","use":"Reach Gutenbot、Express.de自动生成案例"},
     {"title":"Generative AI and news report 2025","publisher":"Reuters Institute","date":"2025","url":"https://reutersinstitute.politics.ox.ac.uk/generative-ai-and-news-report-2025-how-people-think-about-ais-role-journalism-and-society","use":"六国公众对完全AI、人主导+AI、完全人类新闻的接受度"},
     {"title":"AP updates newsroom standards for artificial intelligence","publisher":"Associated Press","date":"2026-07-23","url":"https://www.ap.org/the-definitive-source/announcements/ap-updates-newsroom-standards-for-artificial-intelligence/","use":"AP允许用途与人工责任边界"},
-    {"title":"POLITICO journalists win landmark arbitration on AI protections","publisher":"The NewsGuild","date":"2025-12-01","url":"https://newsguild.org/politico-journalists-win-landmark-arbitration-on-ai-protections/","use":"AI部署进入集体合同与仲裁"}
+    {"title":"POLITICO journalists win landmark arbitration on AI protections","publisher":"The NewsGuild","date":"2025-12-01","url":"https://newsguild.org/politico-journalists-win-landmark-arbitration-on-ai-protections/","use":"AI部署进入集体合同与仲裁"},
+    {"title":"The Centre Daily Times unionizes after backlash to McClatchy’s AI tool","publisher":"Nieman Journalism Lab","date":"2026-06-10","url":"https://www.niemanlab.org/2026/06/the-centre-daily-times-unionizes-after-backlash-to-mcclatchys-ai-tool/","tier":"B","type":"reporting","status":"live","use":"CSA工作流、记者复核责任、署名争议，以及AI部署成为组织工会的重要动因"},
+    {"title":"Centre Daily Times journalists of Central Pennsylvania win first contract in record time","publisher":"The NewsGuild-CWA","date":"2026-08-25","url":"https://newsguild.org/centre-daily-times-journalists-of-central-pennsylvania-win-first-contract-in-record-time/","tier":"A","type":"union-primary","status":"live","use":"首份合同覆盖8人；AI辅助稿件可无处罚拒绝署名；重大技术变化至少30天通知"},
+    {"title":"McClatchy’s Post-Layoff Future","publisher":"Columbia Journalism Review","date":"2026-09-17","url":"https://www.cjr.org/analysis/mcclatchys-post-layoff-future-artificial-intelligence-ai-labor-union.php","tier":"B","type":"reporting","status":"live","use":"90多名工会媒体员工裁员与AI合同保护并存；现有公开证据不足以把裁员直接归因于AI；后续是否以AI替代工会工作成为潜在仲裁问题"}
   ]
 }
