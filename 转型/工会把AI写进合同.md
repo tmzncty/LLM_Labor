@@ -1,10 +1,10 @@
 # 工会把 AI 写进合同：从“反对技术”到谈判同意、复核、报酬与岗位保护
 
-> **截至 2026-09-15。证据状态：SAG-AFTRA、WGA East、Unifor、NABET-CWA、UFCW 与 CWA/Blizzard 的 2025–2026 年集体协议，以及 AFT/国家 AI 教学学院与 Microsoft 的 2026 年签署 MOA，均有一手材料可核查。**
+> **截至 2026-09-17。证据状态：SAG-AFTRA、WGA East、Unifor、NABET-CWA、UFCW、CWA/Blizzard 与 NewsGuild/Centre Daily Times 的 2025–2026 年集体协议均有工会一手材料可核查；AFT/国家 AI 教学学院与 Microsoft 的 2026 年签署 MOA 又提供了工会塑造供应商合同的路径。**
 
 AI 劳动冲突有一种非常具体的解决方式：不先争论“AI 好还是坏”，而是把使用条件写进可以执行的合同。
 
-到 2026 年，这已经不只是演员数字替身问题。新闻编辑部、电信文职、广播技术岗位、零售书店和电子游戏开发团队的集体协议开始采用不同的 AI 条款；教师工会又把同一种治理思路推进到学校采购 AI 的供应商合同：**同意与补偿、人工复核、提前通知、联合委员会、AI 直接导致裁员时的额外遣散、明确的岗位/工时保护、采用议价权、劳动者数据的训练限制，以及可执行的供应商责任。**
+到 2026 年，这已经不只是演员数字替身问题。新闻编辑部、电信文职、广播技术岗位、零售书店和电子游戏开发团队的集体协议开始采用不同的 AI 条款；教师工会又把同一种治理思路推进到学校采购 AI 的供应商合同：**同意与补偿、人工复核、提前通知、联合委员会、AI 直接导致裁员时的额外遣散、明确的岗位/工时保护、采用议价权、劳动者数据的训练限制、署名与职业身份控制，以及可执行的供应商责任。**
 
 这不证明 AI 已经在这些单位造成同等程度的替代，也不证明这些条款会自动执行有效；它证明的是，AI 已经从公司政策和伦理承诺进入多种可执行的劳动关系与采购合同文本。
 
@@ -96,9 +96,27 @@ CWA 早在 2026 年 2 月已公布一份覆盖 Blizzard 60 多名 QA 工人的�
 
 它提供的新增历史证据更具体：**工会开始从“劳动者与雇主怎样约束 AI”向“劳动者组织怎样预先塑造 AI 供应商合同”推进。**
 
-## 八、合同正在形成不同的 AI 治理工具箱
+## 八、Centre Daily Times：署名控制进入合同，而裁员因果仍需证明
 
-把这些协议并置后，可以看到至少九种不同的谈判或合同治理对象：
+2026 年 8 月，NewsGuild-CWA 公布 Centre Daily Times 与 McClatchy 达成的首份集体协议。协议覆盖 8 名员工，AI 相关条款包括：**记者可以在 AI 辅助稿件上无处罚地拒绝署名**，以及重大技术变化至少提前 30 天通知。[^12]
+
+这提供了一种此前工具箱里没有被单独写出的劳动权利：**署名与职业身份控制。** 在新闻劳动中，名字不仅是内容标签，也承担信誉、作品归属和职业责任。Nieman Journalism Lab 在工会成立前的调查显示，McClatchy 的 Content Scaling Agent 会重组既有报道生成新文本，Centre Daily Times 记者一度被要求每周至少使用一次；公司同时要求记者负责识别和修正工具引入的错误。记者对 AI 稿件挂真人署名的做法尤其不满，七名符合资格的编辑部员工随后全部签署工会授权卡。[^13]
+
+这是一条比“工会担心 AI”更具体的证据链：AI 部署改变了产出方式，同时把**生成权、复核责任和署名责任**重新组合；劳动者随后把控制署名和技术变更通知写进合同。不过，即便这里的组织动因有具名记者和工会材料直接支持，也不能外推成“AI 普遍导致新闻工作者组织工会”。
+
+9 月的新材料又给合同保护加上了一个重要反证。Columbia Journalism Review 报道，McClatchy 在 2026 年 9 月裁掉 17 家出版物的 90 多名工会媒体员工。部分 McClatchy 合同规定 AI 不得直接导致裁员或替代工会工作，但受访记者明确表示，目前没有得到证据证明这轮裁员与此前 AI 条款或 AI 使用直接相关；一些记者也没有看到 AI 内容增加，甚至认为部分 AI 实验可能在减少。[^14]
+
+因此，这不是“AI 合同失败，所以 AI 造成裁员”的案例。相反，它让合同里的**因果门槛与执行问题**第一次变得非常具体：
+
+- “AI 不得直接导致裁员”中的“直接”怎样证明？
+- 如果企业先以其他理由裁员，之后再让 AI 吸收原本的工会工作，是否构成违约？
+- 哪些证据足以触发申诉或仲裁？
+
+CJR 报道中，Idaho Statesman 的工会成员已经表示，如果公司使用 AI 填补被裁员工的工作，他们会迅速进入仲裁。[^14] 因而，**合同存在不等于岗位不会消失；合同真正改变的是劳动者在 AI 是否接替工作这一后续事实发生时，拥有怎样的争议与执行路径。**
+
+## 九、合同正在形成不同的 AI 治理工具箱
+
+把这些协议并置后，可以看到至少十种不同的谈判或合同治理对象：
 
 1. **同意与用途**：是否允许声音、形象、表演或员工身份被 AI 使用；
 2. **补偿**：数字替身、生成用途或 AI 直接导致的裁员如何计价；
@@ -108,11 +126,12 @@ CWA 早在 2026 年 2 月已公布一份覆盖 Blizzard 60 多名 QA 工人的�
 6. **持续治理**：AI policy、working group、joint committee 如何跟随技术变化继续调整；
 7. **采用议价权**：雇主在工作场所使用 AI 时，是否负有与工会讨论、评估和谈判的义务；
 8. **劳动者数据权**：教师、员工或其他劳动者在使用 AI 时产生的数据能否被拿去训练模型、画像或监控；
-9. **供应商与采购执行**：劳动者组织能否把 AI 条件前移到采购合同，并让违约触发终止、赔偿或其他合同救济。
+9. **供应商与采购执行**：劳动者组织能否把 AI 条件前移到采购合同，并让违约触发终止、赔偿或其他合同救济；
+10. **署名与职业身份控制**：机器辅助或生成的作品能否强制使用劳动者姓名，以及姓名与核查、责任和信誉如何绑定。
 
-这比单独讨论“工会支持还是反对 AI”更准确。劳动者组织实际谈判或推动的往往不是一个总开关，而是**把采用过程拆成权限、流程、价格、数据、复核权、责任和执行机制。**
+这比单独讨论“工会支持还是反对 AI”更准确。劳动者组织实际谈判或推动的往往不是一个总开关，而是**把采用过程拆成权限、流程、价格、数据、复核权、身份、责任和执行机制。**
 
-## 九、为什么个人“同意”仍然不够
+## 十、为什么个人“同意”仍然不够
 
 个人点一次“我同意”并不一定意味着有真正议价能力。
 
@@ -120,31 +139,35 @@ CWA 早在 2026 年 2 月已公布一份覆盖 Blizzard 60 多名 QA 工人的�
 
 - 条件由劳动者组织共同谈判；
 - 可以建立行业或单位最低标准；
-- 同意可以与补偿、用途、通知、复核和岗位保护一起讨论；
+- 同意可以与补偿、用途、通知、复核、署名和岗位保护一起讨论；
 - 条款原则上进入劳动关系的执行与争议解决体系，而不只是公司伦理承诺。
 
 AFT/Microsoft 的案例又增加一层：劳动者组织并不一定只能在雇佣合同里争权利，也可以尝试让**供应商的产品合同本身**承担隐私、数据、人工复核与可执行责任。
 
-因此，AI 劳工保护不只是隐私问题，也是一种**劳动价格、流程控制权、数据权和就业风险分配问题。**
+因此，AI 劳工保护不只是隐私问题，也是一种**劳动价格、流程控制权、职业身份、数据权和就业风险分配问题。**
 
-## 十、我们不知道什么
+## 十一、我们不知道什么
 
 1. 合同写入 AI 条款，不等于相关单位已经大规模采用 AI，更不等于已经发生可归因于 AI 的岗位替代。
 2. 条款存在不等于执行有效；实际争议、仲裁、采购执行与实施效果仍需长期观察。
 3. Solid State Books 只有 7 名单位成员，不能外推为零售行业标准；NABET-CWA 与 Blizzard 的公开摘要都没有披露完整 AI 条款，因此不能自行补出具体禁止用途、通知期或执行门槛。
 4. AFT/Microsoft 标准不是 collective bargaining agreement，也不会自动覆盖所有美国学校；只有学区请求并纳入其供应商协议后，相关保护才成为该学区可执行的合同条款。
 5. AFT/Microsoft 标准主要覆盖为教育用途设计的 AI 产品，不能把它外推到 Microsoft 或其他供应商的全部一般工作场所 AI 产品。
-6. 这些案例来自有组织能力的工会或工会机构。数据标注员、平台承包工、自由职业者和许多白领仍缺少同等谈判基础。
-7. “AI 直接导致裁员”在真实争议中如何证明，仍可能成为新的因果与合同解释问题；Blizzard 案例也再次说明 AI 条款与裁员保护同时出现，并不等于裁员由 AI 导致。
-8. AI 技术变化速度可能快于合同周期，因此定义、适用范围和例外仍会持续修订。
+6. Centre Daily Times 是一个很小的新闻编辑部案例；不能从其快速组织过程外推所有新闻工作者，更不能把新闻业整体工会化归因于 AI。
+7. McClatchy 2026 年 9 月的裁员与 AI 投资在时间上并存，但目前公开证据不足以证明 AI 是这些裁员的直接原因；合同是否会因之后使用 AI 接替被裁劳动而触发仲裁，仍需继续观察。
+8. 这些案例来自有组织能力的工会或工会机构。数据标注员、平台承包工、自由职业者和许多白领仍缺少同等谈判基础。
+9. “AI 直接导致裁员”在真实争议中如何证明，正在成为新的因果与合同解释问题；Blizzard 与 McClatchy 都说明 AI 条款与裁员可以同时出现，而不自动建立 AI → 裁员因果链。
+10. AI 技术变化速度可能快于合同周期，因此定义、适用范围和例外仍会持续修订。
 
 ## 评曰
 
 2025–2026 年最值得记录的变化，不是工会终于回答了“AI 好不好”，而是劳动关系开始把 AI 拆成可以写进条款的具体问题。
 
-演员谈数字替身的同意与价格；新闻工作者谈人工复核和 AI 裁员的遣散；电信文职谈联合委员会；广播岗位谈生成式 AI guardrails；书店员工直接谈 AI 不得造成解雇、降职和减时；Blizzard 工人把**AI 使用本身是否需要讨论、评估和谈判**写进更大规模的电子游戏劳动关系；教师工会则进一步尝试把教师数据、人工判断与供应商责任直接写进教育 AI 的采购合同。
+演员谈数字替身的同意与价格；新闻工作者谈人工复核、署名控制和 AI 裁员的因果门槛；电信文职谈联合委员会；广播岗位谈生成式 AI guardrails；书店员工直接谈 AI 不得造成解雇、降职和减时；Blizzard 工人把**AI 使用本身是否需要讨论、评估和谈判**写进更大规模的电子游戏劳动关系；教师工会则进一步尝试把教师数据、人工判断与供应商责任直接写进教育 AI 的采购合同。
 
-这说明 AI 正从公司战略和伦理宣言进入工资表、工作流程、申诉程序、集体协议和采购合同——也就是劳动制度真正会留下痕迹的地方。
+McClatchy 的后续裁员也提醒我们：合同不是“不会裁员”的护符。它更像是一套**把未来争议变得可证明、可申诉、可仲裁**的制度接口。只有继续追踪 AI 是否实际吸收被裁岗位的工作，才能判断反替代条款究竟有没有被触发。
+
+这说明 AI 正从公司战略和伦理宣言进入工资表、工作流程、署名、申诉程序、集体协议和采购合同——也就是劳动制度真正会留下痕迹的地方。
 
 ---
 
@@ -159,3 +182,6 @@ AFT/Microsoft 的案例又增加一层：劳动者组织并不一定只能在雇
 [^9]: Communications Workers of America, “Nothing Stops a Blizzard: CWA Video Game Workers Ratify Third Microsoft Contract,” 2026-02-05. https://cwa-union.org/news/nothing-stops-blizzard-cwa-video-game-workers-ratify-third-microsoft-contract
 [^10]: National Academy for AI Instruction / American Federation of Teachers / Microsoft, “National AI Safety & Privacy Standard for Schools — Memorandum of Agreement,” signed 2026-09-07. https://www.aft.org/sites/default/files/media/documents/2026/NAfAI-School_AI_Privacy_Standards.pdf
 [^11]: American Federation of Teachers / Microsoft, “AFT, UFT and Microsoft Announce ‘National AI Safety & Privacy Standard’ for Schools to Protect Students, Families and Educators,” 2026-09-09. https://www.aft.org/press-release/aft-uft-and-microsoft-announce-national-ai-safety-privacy-standard-schools-protect
+[^12]: The NewsGuild-CWA, “Centre Daily Times journalists of Central Pennsylvania win first contract in record time,” 2026-08-25. https://newsguild.org/centre-daily-times-journalists-of-central-pennsylvania-win-first-contract-in-record-time/
+[^13]: Nieman Journalism Lab, Andrew Deck, “The Centre Daily Times unionizes after backlash to McClatchy’s AI tool,” 2026-06-10. https://www.niemanlab.org/2026/06/the-centre-daily-times-unionizes-after-backlash-to-mcclatchys-ai-tool/
+[^14]: Columbia Journalism Review, Riddhi Setty, “McClatchy’s Post-Layoff Future,” 2026-09-17. https://www.cjr.org/analysis/mcclatchys-post-layoff-future-artificial-intelligence-ai-labor-union.php

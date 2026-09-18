@@ -1,10 +1,10 @@
 # Putting AI Into the Contract: Consent, Review, Compensation, and Job Protection Through Collective Bargaining
 
-> **As of 2026-09-15. Evidence status: 2025–2026 collective agreements are documented in primary union materials from SAG-AFTRA, WGA East, Unifor, NABET-CWA, UFCW, and CWA/Blizzard; a signed 2026 MOA between the AFT-led National Academy for AI Instruction and Microsoft adds a union-shaped vendor-contract model.**
+> **As of 2026-09-17. Evidence status: 2025–2026 collective agreements are documented in primary union materials from SAG-AFTRA, WGA East, Unifor, NABET-CWA, UFCW, CWA/Blizzard, and NewsGuild/Centre Daily Times; a signed 2026 MOA between the AFT-led National Academy for AI Instruction and Microsoft adds a union-shaped vendor-contract model.**
 
 One concrete way to govern AI at work is not to settle an abstract argument about whether technology is good or bad, but to write conditions of use into enforceable contracts.
 
-By 2026 this is no longer only a digital-replica issue for performers. Collective agreements in newsrooms, telecommunications clerical work, broadcast work, retail bookselling, and video-game development use different AI provisions. A teachers' union has also pushed the same logic upstream into contracts for purchasing educational AI: **consent and compensation, human review, advance notice, joint committees, additional severance when AI directly causes layoffs, explicit job or hours protections, bargaining over adoption, limits on training with worker data, and enforceable vendor obligations.**
+By 2026 this is no longer only a digital-replica issue for performers. Collective agreements in newsrooms, telecommunications clerical work, broadcast work, retail bookselling, and video-game development use different AI provisions. A teachers' union has also pushed the same logic upstream into contracts for purchasing educational AI: **consent and compensation, human review, advance notice, joint committees, additional severance when AI directly causes layoffs, explicit job or hours protections, bargaining over adoption, limits on training with worker data, control over bylines and professional identity, and enforceable vendor obligations.**
 
 This does not show that AI has caused the same degree of displacement in these workplaces, or that every clause will work as intended. It does show that AI is moving from company policy and ethics statements into multiple kinds of enforceable labor-relations and procurement texts.
 
@@ -96,9 +96,27 @@ The limits are just as important:
 
 The new historical evidence is narrower and stronger: **a union is moving from governing AI through employer-worker contracts toward shaping the vendor contracts through which AI enters the workplace.**
 
+## Centre Daily Times: byline control enters the contract while layoff causality remains unresolved
+
+In August 2026, the NewsGuild-CWA announced the first collective agreement between Centre Daily Times workers and McClatchy. The agreement covers eight workers. Its published AI protections include the **right to withhold a byline from AI-assisted stories without penalty** and at least 30 days' notice of a major technological change.[^12]
+
+This adds a bargaining target that the earlier toolkit did not separate clearly: **control over attribution and professional identity.** In journalism, a name is not simply a content label; it carries authorship, reputation, and responsibility. Before the union was recognized, Nieman Journalism Lab reported that McClatchy's Content Scaling Agent repackaged existing reporting into generated copy, that Centre Daily Times reporters were at one point expected to use the tool at least once per week, and that company policy made them responsible for catching errors introduced by the system. Reporters were particularly concerned about human bylines being attached to AI-assisted material. All seven then-eligible editorial employees signed union authorization cards.[^13]
+
+This is more specific than saying a union was merely “concerned about AI.” The deployment changed production while recombining **generation, review responsibility, and attribution responsibility**; workers then negotiated contractual control over bylines and notice of technological change. Even with named-worker and union evidence for that organizing motivation, the case cannot be generalized into a claim that AI usually causes newsroom unionization.
+
+New September evidence adds an important counterexample to simplistic claims about job-protection clauses. Columbia Journalism Review reported that McClatchy laid off more than 90 unionized media workers across 17 publications in September 2026. Some McClatchy agreements bar AI from directly causing layoffs or replacing union work, but journalists interviewed by CJR said they had received no evidence that these layoffs were directly connected to earlier AI wins or AI use. Some had not observed an increase in AI content and thought some AI experiments might even have declined.[^14]
+
+This is therefore not a case of “AI protections failed, so AI caused the layoffs.” It makes the **causal threshold and enforcement problem** in the contracts unusually concrete:
+
+- What evidence proves that AI “directly” caused a layoff?
+- If an employer first cuts jobs for another stated reason and later uses AI to absorb the removed bargaining-unit work, does that breach the agreement?
+- What evidence is sufficient to trigger a grievance or arbitration?
+
+CJR reports that an Idaho Statesman union member said the union would move quickly to arbitration if McClatchy used AI to replace laid-off bargaining-unit work.[^14] The lesson is narrower: **having a contract does not mean layoffs cannot occur; it changes what dispute and enforcement routes workers may have if AI later takes over protected work.**
+
 ## An emerging contractual toolkit
 
-Taken together, these agreements reveal at least nine different bargaining or contractual governance targets:
+Taken together, these agreements reveal at least ten different bargaining or contractual governance targets:
 
 1. **Consent and permitted uses** — whether AI may use a worker's voice, likeness, performance, or identity.
 2. **Compensation** — how replicas, generated uses, or layoffs directly caused by AI are priced.
@@ -109,16 +127,17 @@ Taken together, these agreements reveal at least nine different bargaining or co
 7. **Bargaining over adoption** — whether an employer has an obligation to discuss, evaluate, and bargain with the union over workplace AI use itself.
 8. **Worker-data rights** — whether data generated by teachers, employees, or other workers using AI can be used for model training, profiling, or surveillance.
 9. **Vendor and procurement enforcement** — whether worker organizations can move AI conditions upstream into procurement contracts and attach termination, damages, or other contractual remedies to breach.
+10. **Attribution and professional-identity control** — whether machine-assisted or generated work may be forced under a worker's name, and how attribution is tied to review, responsibility, and reputation.
 
-This is more precise than asking whether unions are “for” or “against” AI. The negotiated or union-shaped object is often not a master switch, but a set of **rights over adoption, workflow, price, data, review, responsibility, and enforcement.**
+This is more precise than asking whether unions are “for” or “against” AI. The negotiated or union-shaped object is often not a master switch, but a set of **rights over adoption, workflow, price, data, review, identity, responsibility, and enforcement.**
 
 ## Why individual consent is still not the whole issue
 
-A worker clicking “I agree” does not necessarily have bargaining power. Collective agreements differ from platform terms because conditions are negotiated across a workforce and can be tied to minimum compensation, permitted uses, notice, review, job protection, and grievance procedures.
+A worker clicking “I agree” does not necessarily have bargaining power. Collective agreements differ from platform terms because conditions are negotiated across a workforce and can be tied to minimum compensation, permitted uses, notice, review, byline control, job protection, and grievance procedures.
 
 The AFT/Microsoft case adds another layer: worker organizations do not necessarily have to confine themselves to employment contracts. They can also try to make **the vendor's product contract itself** carry privacy, data, human-review, and enforcement duties.
 
-AI labor protection is therefore not only a privacy question. It is also a question of labor price, workflow control, data rights, and allocation of employment risk.
+AI labor protection is therefore not only a privacy question. It is also a question of labor price, workflow control, professional identity, data rights, and allocation of employment risk.
 
 ## What remains unknown
 
@@ -127,17 +146,21 @@ AI labor protection is therefore not only a privacy question. It is also a quest
 3. The Solid State Books unit has only seven covered members and cannot stand in for retail as a sector. NABET-CWA and Blizzard public accounts do not publish the full AI clauses, so specific prohibited uses, notice periods, or enforcement thresholds cannot be inferred.
 4. The AFT/Microsoft standard is not a collective bargaining agreement and does not automatically cover U.S. schools; district-level contractual enforceability requires a district to request and incorporate the protections into its provider agreement.
 5. The AFT/Microsoft standard is primarily scoped to AI products designed for education and should not be generalized to Microsoft's or other providers' general workplace-AI products.
-6. These examples come from organized workplaces or union institutions. Many annotators, platform contractors, freelancers, and white-collar workers lack comparable bargaining power.
-7. Proving that AI was the “direct cause” of a layoff may itself become a future contract-interpretation and causality dispute. Blizzard likewise shows that AI clauses and layoff protections can coexist without establishing that the layoffs were AI-caused.
-8. AI changes faster than many contract cycles, so definitions, scopes, and exceptions will continue to need revision.
+6. Centre Daily Times is a very small newsroom case. Its rapid organizing process cannot be generalized across journalism, and AI cannot be treated as the cause of newsroom unionization in general.
+7. McClatchy's September 2026 layoffs coexist with its AI investments, but the public evidence does not establish AI as their direct cause. Whether later use of AI to absorb laid-off workers' duties triggers arbitration remains an open empirical question.
+8. These examples come from organized workplaces or union institutions. Many annotators, platform contractors, freelancers, and white-collar workers lack comparable bargaining power.
+9. Proving that AI was the “direct cause” of a layoff is becoming a real contract-interpretation and causality problem. Blizzard and McClatchy both show that AI clauses and layoffs can coexist without establishing an AI → layoff causal chain.
+10. AI changes faster than many contract cycles, so definitions, scopes, and exceptions will continue to need revision.
 
 ## Analysis
 
 The important 2025–2026 change is not that unions have settled whether AI is good or bad. It is that labor relations are breaking AI into questions that can be written into clauses.
 
-Performers bargain over replicas, consent, and price. News workers bargain over human review and AI-caused layoff severance. Telecommunications clerical workers bargain over a joint committee. Broadcast workers negotiate generative-AI guardrails. Booksellers bargain over termination, demotion, and reductions in hours. Blizzard workers now bargain over **whether and how workplace AI use itself must be discussed, evaluated, and negotiated** at much larger scale. A teachers' union is now also trying to put educator data, human judgment, and supplier accountability directly into educational-AI procurement contracts.
+Performers bargain over replicas, consent, and price. News workers bargain over human review, byline control, and causal thresholds around AI-linked layoffs. Telecommunications clerical workers bargain over a joint committee. Broadcast workers negotiate generative-AI guardrails. Booksellers bargain over termination, demotion, and reductions in hours. Blizzard workers now bargain over **whether and how workplace AI use itself must be discussed, evaluated, and negotiated** at much larger scale. A teachers' union is now also trying to put educator data, human judgment, and supplier accountability directly into educational-AI procurement contracts.
 
-AI is moving from corporate strategy and ethics statements into pay, workflow, grievance processes, collective agreements, and procurement contracts—the parts of labor institutions that leave durable historical traces.
+McClatchy's later layoffs add a second lesson: a contract is not a talisman against layoffs. It is better understood as an institutional interface that can make later disputes **provable, grievable, and arbitrable**. Only continued observation of whether AI actually absorbs laid-off bargaining-unit work can show whether the anti-displacement clauses are triggered.
+
+AI is moving from corporate strategy and ethics statements into pay, workflow, attribution, grievance processes, collective agreements, and procurement contracts—the parts of labor institutions that leave durable historical traces.
 
 ---
 
@@ -152,3 +175,6 @@ AI is moving from corporate strategy and ethics statements into pay, workflow, g
 [^9]: Communications Workers of America, “Nothing Stops a Blizzard: CWA Video Game Workers Ratify Third Microsoft Contract,” 2026-02-05. https://cwa-union.org/news/nothing-stops-blizzard-cwa-video-game-workers-ratify-third-microsoft-contract
 [^10]: National Academy for AI Instruction / American Federation of Teachers / Microsoft, “National AI Safety & Privacy Standard for Schools — Memorandum of Agreement,” signed 2026-09-07. https://www.aft.org/sites/default/files/media/documents/2026/NAfAI-School_AI_Privacy_Standards.pdf
 [^11]: American Federation of Teachers / Microsoft, “AFT, UFT and Microsoft Announce ‘National AI Safety & Privacy Standard’ for Schools to Protect Students, Families and Educators,” 2026-09-09. https://www.aft.org/press-release/aft-uft-and-microsoft-announce-national-ai-safety-privacy-standard-schools-protect
+[^12]: The NewsGuild-CWA, “Centre Daily Times journalists of Central Pennsylvania win first contract in record time,” 2026-08-25. https://newsguild.org/centre-daily-times-journalists-of-central-pennsylvania-win-first-contract-in-record-time/
+[^13]: Nieman Journalism Lab, Andrew Deck, “The Centre Daily Times unionizes after backlash to McClatchy’s AI tool,” 2026-06-10. https://www.niemanlab.org/2026/06/the-centre-daily-times-unionizes-after-backlash-to-mcclatchys-ai-tool/
+[^14]: Columbia Journalism Review, Riddhi Setty, “McClatchy’s Post-Layoff Future,” 2026-09-17. https://www.cjr.org/analysis/mcclatchys-post-layoff-future-artificial-intelligence-ai-labor-union.php
