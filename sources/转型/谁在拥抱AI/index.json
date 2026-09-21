@@ -1,10 +1,12 @@
 {
   "topic":"谁在拥抱AI",
   "status":"REVISED",
-  "audited":"2026-08-28",
+  "audited":"2026-09-21",
   "sources":[
     {"title":"The Microstructure of AI Diffusion","url":"https://www.nber.org/papers/w35141","tier":"A"},
     {"title":"The Rapid Adoption of Generative AI","url":"https://www.nber.org/papers/w32966","tier":"A"},
+    {"title":"What Work Does Generative AI Do?","url":"https://www.stlouisfed.org/on-the-economy/2026/sep/what-work-does-generative-ai-do","tier":"A","type":"government-research","supports":["worker-level-genai-adoption","task-level-adoption","exposure-vs-adoption","widespread-but-shallow-use","learning-and-experimentation"]},
+    {"title":"What Work Does Generative AI Do?","url":"https://www.nber.org/papers/w35677","tier":"A","type":"academic-working-paper","supports":["worker-level-genai-adoption","task-level-adoption","exposure-vs-adoption"]},
     {"title":"Meta Project OT investigation","url":"https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/","tier":"A/B"}
   ]
 }
