@@ -1,6 +1,6 @@
 # Semiconductor Workers and the AI Chip Windfall: When Compute Profits Become Wage Bargaining
 
-> **As of 2026-09-15. Status: REVISED.** Semiconductor labor disputes in South Korea and Taiwan provide a rare view of how an AI-driven profit boom turns into bargaining over who receives the gains, in what form, and how profits are shared across business units and production locations.
+> **As of 2026-09-21. Status: REVISED.** Semiconductor labor disputes in South Korea and Taiwan provide a rare view of how an AI-driven profit boom turns into bargaining over who receives the gains, in what form, and how profits are shared across business units and production locations.
 
 AI labor history often focuses on workers displaced by automation or workers building AI systems. A third question appears when AI demand sends corporate profits sharply higher:
 
@@ -44,24 +44,31 @@ Reuters later reported that some non-memory workers and minority unions argued t
 
 The dispute therefore created several labor boundaries: memory versus logic/foundry, semiconductors versus consumer divisions, cash wages versus stock bonuses, and current profit-sharing versus durable base compensation.
 
-## SK Hynix: should workers bear stock-market risk through bonuses?
+## SK Hynix: after rejecting stock-heavy bonuses, workers won more payment choice
 
 SK Hynix's dispute moved the issue one step further.
 
 Management and labor had previously agreed to set aside **10% of annual operating profit** for profit-sharing bonuses for ten years, with 80% paid in cash during the award year and 20% deferred.[^6]
 
-A 2026 tentative agreement included a 6.3% wage increase but proposed changing bonus payment to **40% cash and 60% company shares**.[^6]
+The first 2026 tentative agreement included a 6.3% wage increase but proposed changing bonus payment to **40% cash and 60% company shares**. On August 25, **50.08%** of roughly 15,045 voting workers rejected the agreement. The margin was only 25 votes. Reuters reported that some workers opposed putting a majority of the bonus into stock because SK Hynix shares had become volatile amid changing expectations around AI investment.[^6]
 
-On August 25, **50.08%** of roughly 15,045 voting workers rejected the agreement. The margin was only 25 votes. Reuters reported that some workers opposed putting a majority of the bonus into stock because SK Hynix shares had become volatile amid changing expectations around AI investment.[^6]
+That rejection did not end bargaining. On September 16, SK Hynix said its production-workers' union at Icheon and Cheongju approved a revised wage and collective-bargaining agreement with **57.1%** support, or 8,731 votes in favor. The revised plan raised the default cash share of the profit-sharing bonus from 40% to **50%** and reduced the company-share portion from 60% to **50%**. Employees may also convert cash into shares in 10-percentage-point increments, potentially choosing 100% stock. The company said the revision expanded employee choice over payment form and was expected to conclude 2026 wage and collective bargaining.[^11]
 
-The issue was therefore not simply bonus size. It was also risk allocation:
+The case is therefore more precise than “workers opposed stock bonuses.” It asks **who decides how much share-price risk workers must bear after profits have already been earned?** The first proposal made a majority of the bonus stock by default; the revised agreement increased the cash default while preserving an option for workers who want more equity exposure.
 
-- cash converts profit sharing into current income;
-- stock ties worker compensation to future market valuation;
+The issue is risk allocation:
+
+- **cash bonuses** convert profit sharing into current income;
+- **mandatory stock bonuses** tie future compensation more tightly to company valuation;
+- **cash/stock choice** returns part of that risk decision to individual workers;
 - if the AI boom continues, shares may rise;
-- if AI investment expectations reverse, unliquidated compensation can fall with them.
+- if AI investment expectations reverse, unliquidated stock compensation can fall with them.
 
-Profit sharing becomes a question of whether workers should continue carrying the capital-market risk of the AI cycle after the operating profit has already been earned.
+The two votes therefore show that even when the profit-sharing pool itself remains linked to operating profit, **the payment form can become a substantive collective-bargaining issue**. But the 57.1% approval cannot be read as evidence that every worker preferred a 50/50 split; members voted on the whole revised agreement and individual reasons are not observable.
+
+The question can now be stated more sharply:
+
+> **After a firm earns the profit, should workers be required to keep bearing capital-market risk from the AI cycle, or should they have meaningful choice over that exposure?**
 
 ## Micron Taiwan: record rewards did not end the profit-sharing dispute
 
@@ -103,7 +110,7 @@ The Micron Taiwan dispute adds another point: geography affects not only where j
 
 AI is often narrated as a technology that raises productivity. But after productivity and profits increase, institutions still determine whether the gains become shareholder returns, new capital expenditure, management or retention costs, base wages, bonuses, or profit sharing.
 
-Samsung, SK Hynix, and Micron Taiwan show that the distribution of an AI-chip windfall is negotiated through wage systems, unions, talent competition, cross-border production, and corporate governance. Micron's September development adds another distinction: **“how much the company paid this year” and “what rule will determine future sharing” are not the same question.**
+Samsung, SK Hynix, and Micron Taiwan show that the distribution of an AI-chip windfall is negotiated through wage systems, unions, talent competition, cross-border production, and corporate governance. Micron's September development adds another distinction: **“how much the company paid this year” and “what rule will determine future sharing” are not the same question.** SK Hynix's two votes add another: even when the profit-sharing formula itself does not fundamentally change, **cash versus stock, and mandatory versus voluntary risk exposure, can become bargaining subjects in their own right.**
 
 ## What we cannot say
 
@@ -112,8 +119,8 @@ Samsung, SK Hynix, and Micron Taiwan show that the distribution of an AI-chip wi
 - Maximum or illustrative bonuses, or average rewards for one job level, are not average earnings for all employees.
 - Not all semiconductor workers benefit equally from the AI boom; differences can appear inside one firm and across countries.
 - Union demands are not company policy unless implemented in a final agreement.
-- The SK Hynix vote cannot be reduced to a universal rejection of stock compensation; members may have voted for different reasons.
-- Micron Taiwan's 80% figure is an internal preliminary survey, not a formal strike authorization, and the public record through September 11 does not establish that a strike occurred.
+- SK Hynix's revised September agreement was approved, but the 57.1% vote cannot be read as evidence that all workers prefer stock compensation or a 50/50 payment split. The revision increased the default cash share and added voluntary conversion options, while the vote covered the whole wage and collective-bargaining package.
+- Micron Taiwan's 80% figure is an internal preliminary survey, not a formal strike authorization, and the public material used here does not establish that a strike occurred.
 - Micron's September 11 record rewards do not mean the union secured a profit-sharing agreement; the union explicitly said there was still no consensus and continued to demand a 15%-of-operating-profit formula.
 - The evidence also does not establish that the strike threat was the main cause of Micron's rewards; the company framed them as a global response to a strong year.
 - The Micron dispute should not be written as “AI caused a strike.” The direct dispute is over bonuses; AI/HBM demand is part of the profit and bargaining context.
@@ -127,7 +134,9 @@ In semiconductor factories, one of the sharpest 2026 questions was simpler: **th
 
 The next questions are harder. Should workers directly exposed to the HBM profit boom receive most of the gains, or should the people maintaining a broader semiconductor capability share them? Should the windfall arrive as cash, or should workers bear additional share-price risk? In a multinational company, how should global profits translate into compensation at critical overseas manufacturing bases?
 
-Micron Taiwan adds a finer distinction: a company can pay extraordinarily large rewards in one year while workers continue bargaining over **the formula that will govern the next year and the year after that.**
+SK Hynix pushes the question one step further: even after labor and management agree on **how much profit is to be shared**, they can still have to bargain over **how that value reaches workers and who decides how much capital-market risk workers carry**.
+
+Micron Taiwan adds a different distinction: a company can pay extraordinarily large rewards in one year while workers continue bargaining over **the formula that will govern the next year and the year after that.**
 
 AI's economic gains do not flow automatically from model demand into household income. Between chip profits and a worker's bank account sits an entire system of wage rules, unions, talent competition, cross-border production, and corporate governance.
 
@@ -143,3 +152,4 @@ AI's economic gains do not flow automatically from model demand into household i
 [^8]: Reuters, “Micron's Taiwan unions threaten strike over bonus dispute,” 2026-09-01. https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01/
 [^9]: Central News Agency (Taiwan), “工會醞釀罷工 美光：將發放歷年最高績效獎金並對話,” 2026-09-01. https://www.cna.com.tw/news/afe/202609010268.aspx
 [^10]: Reuters, “Micron's Taiwan workers to get rewards worth up to 68 months of pay,” 2026-09-11. https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11/
+[^11]: Reuters, “South Korea's SK Hynix union approves tentative wage deal with management,” 2026-09-16. https://www.reuters.com/world/asia-pacific/sk-hynix-union-approves-tentative-wage-deal-with-management-yonhap-says-2026-09-16/

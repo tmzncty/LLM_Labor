@@ -1,6 +1,6 @@
 # 谁在拥抱 AI：多数企业仍以增强而非裁员为主
 
-> “拥抱 AI”不是价值判断。它首先是一个采用问题：谁在用、用在哪些任务、有没有伴随裁员。
+> **截至 2026-09-21。状态：REVISED。** “拥抱 AI”不是价值判断。它首先是一个采用问题：谁在用、用在哪些任务、有没有伴随裁员。2026 年的新证据还要求再区分一步：**职业或任务在理论上“暴露于 AI”，不等于劳动者实际上已经采用 AI。**
 
 ## 一、企业采用很快，但范围往往很窄
 
@@ -18,13 +18,37 @@ NBER 基于 2026 年美国 Census BTOS AI supplement 的研究发现，2025 年 
 
 美国全国调查在 2024 年末已发现约 23% 的就业受访者在此前一周工作中使用过生成式 AI。[^2]
 
-## 四、拥抱 AI 的失败案例同样重要
+到 2026 年，这类工作场景使用继续扩展。St. Louis Fed 与 NBER 研究团队根据 Real-Time Population Survey 的四轮调查（2025 年 8 月至 2026 年 5 月、合计接近 14,000 名劳动者）建立了职业与任务层面的实际采用指数。研究显示，到 2026 年 5 月，约 45% 的劳动者报告在工作中使用生成式 AI。[^3]
 
-Meta 2026 年 Project OT 说明，管理层强推“AI-native”组织并不保证成功。员工抵触、可靠性、安全和生产率问题迫使计划缩减。[^3]
+这个数字仍然不是“45% 的企业已经正式部署 AI”。它测的是劳动者自报的工作使用，可以包含未经企业统一采购或组织设计的自下而上使用。
 
-因此“拥抱 AI”应记录为一种组织实验，而不是技术胜利的同义词。
+## 四、暴露不是采用：同一职业内部差异很大
+
+这项 2026 年研究提供了一个特别重要的反证：**仅凭职业名称或任务内容判断“AI 暴露度”，并不能可靠推出实际采用。**
+
+研究发现，AI 使用已经很广：超过 80% 的职业中，至少有 20% 的劳动者在工作中使用 AI；超过 40% 的任务也有至少 20% 的执行者使用 AI。可是使用仍然很浅：只有约 40% 的职业达到一半以上劳动者采用，而达到一半以上执行者采用的任务不到 3%。[^3]
+
+一些理论暴露度不高、含大量手工或面对面工作的职业，实际采用反而明显高于暴露模型预测。例如电脑和办公设备维修、特殊教育教师、洗衣和干洗劳动者，都可能在信息搜集、计划、沟通等附带任务中找到 AI 用途。[^3]
+
+研究者发现，暴露分数在**排序哪些职业或任务更可能采用 AI**时仍有一定解释力，但对“这个具体劳动者是否会采用”预测很差。同一职业、同一任务内部通常同时存在采用者和非采用者；使用 AI 已超过六个月的人还会把它扩展到更多任务，说明学习成本与实验经验本身也影响采用。[^3]
+
+因此至少要分开四件事：
+
+- 模型是否有能力完成某类任务；
+- 职业或任务是否理论上暴露于 AI；
+- 劳动者是否实际使用 AI；
+- 企业是否把 AI 正式嵌入工作流并改变岗位数量、考核或组织结构。
+
+这项研究测的是美国劳动者的**自报使用**，不是生产率实验，也不是企业级部署调查，更不能直接证明就业增加或减少。它的价值恰恰在于阻止我们把“AI 能做”直接写成“企业已经用”“岗位已经变”或“人已经被替代”。
+
+## 五、拥抱 AI 的失败案例同样重要
+
+Meta 2026 年 Project OT 说明，管理层强推“AI-native”组织并不保证成功。员工抵触、可靠性、安全和生产率问题迫使计划缩减。[^4]
+
+因此“拥抱 AI”应记录为一种组织实验，而不是技术胜利的同义词。新的任务级采用证据进一步表明，真正需要追踪的是**能力 → 暴露 → 采用 → 组织重构 → 就业结果**之间每一道转换，而不是把它们压成一个“AI 影响”数字。
 
 ---
-[^1]: Bonney et al., NBER 35141, 2026. https://www.nber.org/papers/w35141
-[^2]: Bick, Blandin & Deming, NBER 32966. https://www.nber.org/papers/w32966
-[^3]: Reuters, Meta Project OT investigation, 2026-08-26. https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/
+[^1]: Bonney et al., “The Microstructure of AI Diffusion,” NBER Working Paper 35141, 2026. https://www.nber.org/papers/w35141
+[^2]: Bick, Blandin & Deming, “The Rapid Adoption of Generative AI,” NBER Working Paper 32966. https://www.nber.org/papers/w32966
+[^3]: Alexander Bick, Adam Blandin, David J. Deming & Tyler Schumacher, “What Work Does Generative AI Do?”, Federal Reserve Bank of St. Louis, 2026-09-01; NBER Working Paper 35677, 2026. https://www.stlouisfed.org/on-the-economy/2026/sep/what-work-does-generative-ai-do ; https://www.nber.org/papers/w35677
+[^4]: Reuters, Meta Project OT investigation, 2026-08-26. https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/
