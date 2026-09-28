@@ -1,6 +1,6 @@
 # Skilled Workers Behind AI Data Centers: Compute Does Not Build Itself
 
-> **As of 2026-09-01. Status: REVISED.** AI infrastructure is increasing demand for electricians, line workers, HVAC specialists, fiber technicians, mechanical/electrical construction crews, and data-center technicians. The story is not only a labor shortage: it also involves union organizing, safety governance, training finance, megaproject cycles, and now experiments to automate some repetitive operations work with robots. **Near-term labor scarcity and longer-term automation can coexist.**
+> **As of 2026-09-29. Status: REVISED.** AI infrastructure is increasing demand for electricians, line workers, HVAC specialists, fiber technicians, mechanical/electrical construction crews, and data-center technicians. The story is not only a labor shortage: it also involves union organizing, safety governance, training finance, megaproject cycles, and now experiments to automate some repetitive operations work with robots. **Near-term labor scarcity and longer-term automation can coexist.**
 
 Before a model can run, people must build the facility, connect power and fiber, install cooling, rack equipment, and maintain it around the clock. **Digital AI labor rests on a very physical layer of skilled work.**
 
@@ -68,6 +68,14 @@ One worker in the WIRED report offered a very large estimate of how much of some
 
 The occupational boundary also matters. These tests concern **operations and maintenance tasks**. They do not show that demand has disappeared for electricians building substations, construction crews installing power systems, line workers expanding the grid, or HVAC trades constructing cooling infrastructure. Both trends can exist at once: a construction boom can create skilled-worker shortages while owners invest in technology intended to reduce some future routine operations hours.
 
+## Cross-firm survey evidence: data centers are tightening parts of the construction labor market
+
+AGC and NCCER's annual Workforce Survey, fielded in July and August 2026, received responses from 1,830 people across a broad range of construction firm types and sizes. Twenty-eight percent reported data-center work during the previous 12 months. Among those firms, 58% said data-center projects had increased competition for skilled workers, 49% reported increased wage pressure, and 37% identified worker or subcontractor availability as the biggest challenge in pursuing or delivering those projects.[^11]
+
+This adds a different layer of evidence from project cases, union accounts, or job-posting data: **labor competition associated with data-center construction is visible across a multi-firm industry survey.** The scope remains limited. “Data-center project” is not synonymous with “AI data center,” and the survey is not an official probability sample. The percentages therefore should not be treated as exact national incidence rates or as a 49% wage increase.
+
+The same survey provides useful counterevidence. Across all respondents, 37% said their firms had cut headcount by at least 5% in the previous year, while 34% reported increasing headcount by at least 5%.[^11] Strong data-center demand can therefore coexist with softness elsewhere in construction. The evidence supports **localized pressure by trade, geography, and project market**, not a claim that AI data centers have produced a general construction boom.
+
 ## Not a general construction boom
 
 Construction Dive reported that data centers were a strong part of U.S. nonresidential construction in 2026 while other private construction remained weak.[^5]
@@ -87,6 +95,7 @@ That leaves important open questions: where workers go after megaprojects, wheth
 - WIRED's Meta robotics investigation is high-quality single-source reporting: it is enough to document active experiments, not industry-wide net displacement.
 - A worker's estimate of automatable workload is not a verified replacement rate.
 - These data cannot show whether AI infrastructure creates more jobs than later automation removes.
+- The AGC/NCCER survey supports claims about what respondent firms reported; it is not a national wage-growth estimate or a causal estimate of AI's net employment effect.
 
 ## Analysis
 
@@ -108,3 +117,5 @@ An AI labor history must record not only **who builds the physical world in whic
 [^8]: IBEW, “The Data Center Surge: A New Generation of IBEW Jobs,” 2025. https://ibew.org/electrical_worker/the-data-center-surge-a-new-generation-of-ibew-jobs/
 [^9]: OSHA, “Vantage Data Centers – Project Lighthouse Strategic Partnership,” 2026-05-07. https://www.osha.gov/sites/default/files/2026-05/1462-agreement-20260507.pdf
 [^10]: WIRED, “Inside Meta’s Push to Put Robots to Work in Data Centers,” 2026-08-28. https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/
+
+[^11]: Associated General Contractors of America and NCCER, “Construction Workforce Shortages Remain Acute Despite ‘Soft’ Market Conditions As Data Centers Strain Labor Supply, Survey Finds,” 2026-09-03. https://www.agc.org/news/2026/09/03/construction-workforce-shortages-remain-acute-despite-soft-market-conditions-as-data-centers-strain
